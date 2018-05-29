@@ -38,6 +38,7 @@ The major learning activities within each lesson unit include: video discussions
 
 
 | Module 1 What is FinTech?| | 
+|  |  |
 | 1.1 | Module 1 Introduction |
 | 1.2 | FinTech Transformation |
 | 1.3 | FinTech Evolution 1.0: Infrastructure |
@@ -82,4 +83,51 @@ There will be no penalty for submission of assignment/quizzes before July 8 2018
 
 ---
 
-#### Module 1 What is FinTech?   1.1 Welcome to Module 1   Video 1.1 Module 1 Introduction
+#### Module 1 What is FinTech?   > 1.1 Welcome to Module 1   > Video 1.1 Module 1 Introduction
+
+### Video 1.1 Module 1 Introduction
+
+> Welcome, my name is Douglas Arner and this is an introduction to
+> FinTech. I am the Kerry Holdings Professor in Law at the University of
+> Hong Kong and I have spent the past 25 years studying the interaction
+> between finance, technology and regulation. And in this course, we are
+> going to provide you an introduction to the world of FinTech.
+> Financial technology transforming the world of finance and the wider
+> world beyond faster than we have ever seen before. In this course, I
+> am joined with a group of my friends from around the world, Ross
+> Buckley of the University of New South Wales in Australia, Henri
+> Arslanian of PwC, Brian Tang of the Asia Capital Markets Institute,
+> Janos Barberis of SuperCharger and Huy Nguyen Trieu of the Centre for
+> Finance, Technology and Entrepreneurship. In this course, we're going
+> to begin by looking at the fundamental question. What is FinTech? And
+> that is going to be module 1. For module 2, we'll turn to the next
+> question which is money, payment and the transformation of finance
+> through technology, looking at new things like cryptocurrencies,
+> Bitcoin, blockchain as well as, mobile payments. In module 3, we'll
+> turn to the digitization of finance and the development of new forms
+> of alternative finance, crowdfunding, ICOs, new forms of lending and
+> security settlement. In module 4, we'll turn to some of the bigger
+> challenges, regulatory issues. How do we balance the opportunities and
+> risks of FinTech so that we can make not only FinTech better but the
+> financial system and the wider economy? In module 5, we'll turn to one
+> of the biggest challenges facing the world of finance today and that
+> is the interaction between data and finance and the emergence of an
+> entirely new paradigm of data-driven finance which brings with it
+> tremendous changes but also tremendous risks. And finally, in the last
+> module, module 6, we'll look at a number of case studies to draw
+> lessons from our experiences and also look at some of the big trends
+> going forward. So, we very much look forward to you joining this in
+> our journey across FinTech. At the end of this course, we very much
+> hope you will have an overall understanding of what is FinTech, of
+> some of the major technologies that are driving FinTech
+> transformation, an understanding of what is happening not only in
+> developing markets but in particular, in exciting new emerging
+> markets, particularly in Asia. And finally, that you will be able to
+> understand in your own life, in your own career how technology could
+> continue to transform finance in the future.
+
+---
+
+#### Module 1 What is FinTech?   > 1.1 Welcome to Module 1   > Module 1 Learning Objectives
+
+
