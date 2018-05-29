@@ -130,4 +130,129 @@ There will be no penalty for submission of assignment/quizzes before July 8 2018
 
 #### Module 1 What is FinTech?   > 1.1 Welcome to Module 1   > Module 1 Learning Objectives
 
+Module 1 introduces the evolution, context, opportunities, and challenges of FinTech. 
+It highlights to students that FinTech should be defined by the user of technology as 
+opposed to simply the fact of using technology (the Who not the What) so as to better 
+understand why this industry is growing ever more rapidly and with it what opportunities 
+and risks it creates.
+
+**Key Learning Objectives:**
+
+* **Understand how finance and technology have evolved** and are transforming finance 
+  around the world.
+* **Discuss key interactions between finance and technology over time**, in order to 
+  better understand the developments which are taking place today and are likely to 
+  take place in the future.
+* **Consider the broad spectrum of the financial sector and the way that technology 
+  is changing it faster than ever before**, particularly with the explosion of new 
+  entrants, including startups, tech firms and emerging markets.
+* **Consider both the opportunities as well as the potential risks of FinTech** and 
+  the challenges it poses for policymakers.
+
+
+---
+
+#### Module 1 What is FinTech?  > 1.1 Welcome to Module 1  > Quick Check 1.1
+
+FinTech is:
+(A) just about tech startups.
+(B) the intersection of finance, technology and regulation.
+(C) using moblie phones for banking.
+
+---
+
+#### Module 1 What is FinTech?  > 1.2 FinTech Transformation  > Video 1.2 FinTech Transformation
+
+### Video 1.2 FinTech Transformation
+
+What caused the rise of FinTech?
+
+Traditionally, banks were..
+* Innovative
+* Kept up with technology
+
+2008 Global Financial Crisis
+* Things changed..
+
+During that time, bank prioritised
+* Regulations and Compliance
+
+Game changing innovations emerged
+There was a gab between "Proposition of banks" and the "Customers' expectations", and the FinTech industry is trying to fill.
+
+But the changes took place both **FinTech Startups** and **Large Tech Firms** (Amazon, Tencent, Ant Financial).
+
+Large Tech Firms have:
+* Funding
+* Backing
+* Talent
+* Capital pool
+* Consumer trust
+
+
+
+> Hi there, very excited to be here. My name is Henri Aslanian and my
+> passion and focus is the future of the financial services industry.
+> And I'm very lucky to be able to do this in my academic life as an
+> Adjunct Associate Professor here at the University of Hong Kong, where
+> I teach the first FinTech university course in Asia. Also very lucky
+> to be doing this in my professional life as the FinTech and RegTech
+> leader here for Hong Kong for PwC. Very excited to be sharing about
+> the latest developments going on in the broader FinTech space
+> throughout this course. One question often pops up is that how come
+> FinTech became such a big reality? What really caused the rise of
+> FinTech? Well it's a very interesting question. Traditionally,
+> actually as technology evolved banks were pretty good at also always
+> keeping up with technology and in many cases, being some of the early
+> adopters. But all of this really changed during the global financial
+> crisis in 2008. During that time, banks and financial institutions
+> were busy dealing with regulations, compliance, and other many
+> regulatory enforcement situations that were taking place. Innovation
+> became a very, very distant priority. But at the same time, some of
+> the biggest game changing innovations that took place that have
+> changed our lives took place. Think about Uber, WhatsApp, WeChat, or
+> Airbnb, and many others that really changed the way customers ahead
+> experience the services they were receiving in many industries, except
+> financial services, and this gap was created between what financial
+> institutions were offering to their customers and what customers came
+> to expect. And this gap is what the FinTech industry wanted to tackle.
+> And the FinTech industry wanted to tackle very many of the used cases
+> that matched the pain points that were in this industry. However, it
+> was not only the startups. And actually what we realised over the
+> course of the years is actually some of the biggest gamechanging
+> technological innovations took place not only by FinTech startups but
+> by large technology firms. Think about firms like Amazon, or Tencent,
+> or AntFinancial and many others who have started now looking at
+> financial services. And in the future there's actually a big chance
+> that some of the providers of financial services, at least the
+> interface that clients will be using may be these large technology
+> firms. So definitely an area to watch. And what are some of the
+> advantages these large technology firms have over some of these
+> startups? Not only do they have the funding, they have the backing,
+> and the talent, and the pool, capital pool to actually support these
+> new businesses, but to certain extent, they have the trust of
+> consumers. Think about it, if you're happy to buy all your daily
+> necessities on Amazon, or on Taobao, wouldn't you use them as well to
+> actually, you know, buy insurance products? If you're actually using
+> the Facebook Messenger to actually talk to your friends and family
+> wouldn't you use them as well to send money to friends and family as
+> well? Well, as you can see, it's going to be a very interesting
+> ecosystem developing over the coming years not only with FinTech, but
+> also by TechFin. Definitely an area to watch.
+
+---
+
+#### Module 1 What is FinTech?  > 1.2 FinTech Transformation  > Quick Check 1.2
+
+FinTech is transforming:
+(A) finance in developed markets.
+(B) finance in emerging markets and developing countries.
+(C) the traditional banking and finance industry.
+(D) all of the above.
+
+
+---
+
+#### Module 1 What is FinTech?  > 1.3 FinTech Evolution 1.0: Infrastructure  > Video 1.3 FinTech Evolution 1.0: Infrastructure
+
 
