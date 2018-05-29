@@ -256,3 +256,111 @@ FinTech is transforming:
 #### Module 1 What is FinTech?  > 1.3 FinTech Evolution 1.0: Infrastructure  > Video 1.3 FinTech Evolution 1.0: Infrastructure
 
 
+**FinTech 1.0 - Infrastructure**
+
+Finance and technology have been inextricably intertwined since the beginning.
+
+One of the first physical technologies to develop was **money**, the simple 
+coin and after paper money.
+
+**Money is a form of technology** that allows us to psychically handle the ideas 
+embedded in finance.
+
+**Coins**, **paper money**, **system of writing** or **accounting**, major points 
+include the evolution of the **joint stock company** or **the corporation**, 
+forms of financing like **banking**, or more recently, **stocks**, **bonds**,
+things that we would call **securities** or **derivatives**.
+
+Derivatives are financial instruments whose value derives from some underlying 
+financial instrument
+
+The modern period of fintech begin in **1867**, because was the date of the 
+establishment of the first **transatlantic telegraph cable**, that made possible 
+instantaneous communication between the major markets of New York and London
+
+More physical cable are necessary today
+
+Many would say that the period from 1860's up to the start of the First World War 
+was a period of financial and economic globalisation.
+
+The Victorian internet (Transatlantic telegraph cable)
+
+During the Second World War, significant effort spent in the context of developing 
+codes for **secure communications** particularly of military and intelligence operations, 
+as well to develop systems to break those codes.
+
+Process of **in-coding / breaking codes* leads to **Computer technology** and 
+to **AI**
+
+But it wasn't until the period after the Second World War that we begin to see 
+progressive development of those early computer technologies to eventually lay 
+the ground work for the sort of **FinTech** and **RegTech**.
+
+
+**Video 1.3 FinTech Evolution 1.0: Infrastructure**
+
+> Finance and technology have been inextricably intertwined since the
+> very beginning. If we look at the earliest days of finance dating back
+> thousands of years ago, the initial impact of technology was in the
+> context of building systems of keeping records of government finances
+> or payments for taxes and agricultural production or building
+> facilities and one of the first physical technologies to develop was
+> money the simple coin or thousands of years later, not long after 1000
+> A.D., paper money. Money is a form of technology that allows us to
+> psychically handle the ideas embedded in finance. So, if we think
+> about financial technology, the history is very, very long indeed and
+> in addition to coins, paper money, systems of writing or accounting,
+> major points include the evolution of the joint stock company or the
+> corporation, forms of financing like banking, or more recently,
+> stocks, bonds, things that we would call securities or derivatives.
+> Derivatives are financial instruments whose value derives from some
+> underlying financial instrument but if we think of today's fintech,
+> the modern period of fintech and financial technology begins around
+> 150 years ago and we generally mark the date as 1867. Why 1867? 1867
+> was the date of the establishment of the first transatlantic telegraph
+> cable. That transatlantic telegraph cable made instantaneous
+> communication between the major markets of New York and London, or
+> London and Paris, or even eventually several decades later, Shanghai,
+> or Hong Hong, and London possible. This was the basic infrastructure
+> that underlies all of today's not only financial technology but much
+> of today's communications and media developments as well and it's
+> somewhat ironic that in the past five years more undersea cable has
+> been laid than in the entire previous 150 years combined. Why? Because
+> more physical cables are necessary to handle the ever greater flows of
+> data speeding around the world and underpinning the development of
+> finance. Many would say that the period from the 1860s up to the start
+> of the First World War was a first period of financial and economic
+> globalisation much like the past 30 years or so from today. That
+> period of financial and economic globalisation was underpinned by
+> technological infrastructure like the transatlantic telegraph cable
+> which in fact has been called the Victorian internet. Now, if we think
+> about technological developments in financial services, probably our
+> next significant milestone really comes during the Second War World.
+> During the Second World War, significant effort spent particularly in
+> the context of developing codes for secure communications particularly
+> of military and intelligence operations as well as, significant
+> efforts to develop systems to break those codes and it was this
+> process of encoding and breaking codes that led to come of the
+> groundbreaking thinking in computer technology and in fact, eventually
+> in artificial intelligence or AI which is one of the most exciting
+> developments happening in financial technology today. But it wasn't
+> until the period after the Second War World as the world economy is
+> rebuilding that we begin to see progressive development of those early
+> computer technologies to eventually lay the ground work for the sorts
+> of fintech and regtech developments which we see today.
+
+
+---
+
+#### Module 1 What is FinTech?  > 1.3 FinTech Evolution 1.0: Infrastructure  > Quick Check 1.3
+
+In which year did the current period of finnancial technology development start and what was the trigger?
+(A) 1867: first Trans-Atlantic telegraph cable
+(B) 1973: US ended its adherence to the gold standard
+(C) 1914: start of World War I
+
+
+---
+
+#### Module 1 What is FinTech?   1.4 FinTech Evolution 2.0: Banks   Video 1.4 FinTech Evolution 2.0: Banks
+
