@@ -355,12 +355,91 @@ the ground work for the sort of **FinTech** and **RegTech**.
 #### Module 1 What is FinTech?  > 1.3 FinTech Evolution 1.0: Infrastructure  > Quick Check 1.3
 
 In which year did the current period of finnancial technology development start and what was the trigger?
-(A) 1867: first Trans-Atlantic telegraph cable
-(B) 1973: US ended its adherence to the gold standard
-(C) 1914: start of World War I
+* (A) 1867: first Trans-Atlantic telegraph cable
+* (B) 1973: US ended its adherence to the gold standard
+* (C) 1914: start of World War I
 
 
 ---
 
 #### Module 1 What is FinTech?   1.4 FinTech Evolution 2.0: Banks   Video 1.4 FinTech Evolution 2.0: Banks
+
+**FinTech 2.0 - Banks**
+
+The second major era of the modern FinTech evolution, what we call FinTech 2.0, 
+started in **1967**. 1967 marks 2 very important dates in the evolution of 
+finance and technology.
+
+The first, is **the establisment of the first ATM (Automated Teller Machine)**
+by Barclays Bank in the UK.
+
+The second, is **the launch of the first handheld calculator** by Texas Instruments.
+
+1967 - **The Process of Digitalization** began, it marks a period where we begin to 
+see a process of digitization.
+
+From this early beginnings, we can see a global financial markets, three very 
+significant trents that come together in today's globan financial markets.
+
+The first, the late 1960's and early 1970's the establishment of a series of 
+domestic and international electronic payment systems. This payment systems allows 
+large value payments to take place today on a real time basis, which underpins 
+massive volumens of transactions around the world.
+From a border standpoint, perhabs the most significant of these is an organization, 
+which we'll turn to in module 2, called **SWIFT**. SWIFT is an organization, which 
+**provides protocols to enable communications between domestic digital payment systems**.
+
+The second, in 1971 the establishment of **NASDAQ**. NASDAQ was the world first 
+electronic stock exchange. Yoday there are almost no stock exchanges or other 
+financial exchanges, which are not electronic.
+
+Basically, this events has fundamentally transformed the way these markets work, 
+so much so that today it is very difficult to find a human being actually trading 
+securities with another human being is stock markets.
+
+At another level, if we think of today's global foreign exchange markets, these 
+markets today do approximately 5.5 trillion dollars a day, every day of the year, 
+and almost none of this takes place in the form of cash. It is almost entirely 
+digital books entries taking place between the computer systems of major financial 
+institutions.
+
+This process, however, is one that was well established by the late 1980's. A
+**major market crash occurred in 1987**. That market crash, today our best explanation, 
+is what is called **Programable Trading**. Programable Trading involves preset 
+computerised buy and sell orders, and so when stock prices drop to a certain level, 
+this would trigger automatic selling by computer programs, which would trigger 
+more prices drops, triggering more sales and eventually resulting in our **first 
+major coordinated global market crash**.
+
+Now, across 1980's we began with the origins of **online banking** in parallel 
+to the emergence of the internet.
+
+If we think in terms of developments, we can think that 1999 marked a previous 
+high. 1999 was the **Internet Bubble**, the **Doncom Crash**, and it highlights 
+something that's very important in the context of today's FinTech. As human beings, 
+we tend to overestimate the short term impact of new technologies and underestimate 
+the long term impact of new technologies.
+
+After all, if we think to some of the 1999 internet bubble companies like Amazon or 
+Google, certainly, at that time, we overestimated their short term impact, but 
+looking back almost 20 years, almost no one would have imagined how significant 
+Google, Amazon and other similar sorts of technology companies have become.
+
+This period of building the digitization of the financial system hit a major turning
+point in 2008 with the global financial crisis.
+
+
+---
+
+#### Module 1 What is FinTech?  > 1.4 FinTech Evolution 2.0: Banks  > Quick Check 1.4
+
+Which was the world's first fully launched electronic stock exchange?
+* (A) NASDAQ
+* (B) HKEX
+* (C) London Stock Exchange
+
+---
+
+#### Module 1 What is FinTech?  > 1.5 FinTech Evolution 3.0 & 3.5: Startups & Emerging Markets  > Video 1.5 FinTech Evolution 3.0 & 3.5: Startups & Emerging Markets
+
 
