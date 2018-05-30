@@ -504,3 +504,41 @@ Which of these factors contributed to the development of FinTech from 2007?
 #### Module 1 What is FinTech?  > Industry Showcase: Collaboration between Financial Institutions and Startups (The FinTech Association of Hong Kong  
 
 
+**Collaboration between financial institutions and startups**
+
+Initially we saw a lot of work done by FinTechs trying to do it on themselves, 
+looking to disrupt financial services and also the banks at one stage, looking 
+to be more guarded about how they use technology, especially FinTechs with them.
+
+But as reality dawned in the markets, such as Hong Kong, which is largely a 
+business-to-business, people realised that there needs to be a lot of **Collaboration**.
+
+Banks need a longer time for transformation, but they also need to be able to be 
+more agile with regards to adopting new technologies.
+
+FinTechs, they dond have a long runway, and the also aren´t able to have the 
+required capital if the want to face off with banks.
+
+Secondly, what we are seeing now is banks are not just collaborating with FinTechs, 
+but they are going a step ahead and some of them are **acquiring** them through 
+strategic investments.
+
+Three, **Cross-regional Collaboration**, you see a certain strands of different 
+FinTechs in different regions, and what banks are trying to do is try to find 
+these FinTechs here.
+
+Lastly, it is very important that **Compliance** plays a role in making this effort 
+of collaboration between banks and FinTechs faster.
+
+**Onboarding** is a very important factor, time can be shortened, it gives the 
+starups more time to present POC and be onboarded with the banks.
+
+**Banking is going to be change not by disruption, but through collaboration**.
+
+
+
+---
+
+
+#### Module 1 What is FinTech?   1.6 FinTech Typology   Video 1.6 FinTech Typology
+
