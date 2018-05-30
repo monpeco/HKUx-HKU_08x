@@ -442,4 +442,65 @@ Which was the world's first fully launched electronic stock exchange?
 
 #### Module 1 What is FinTech?  > 1.5 FinTech Evolution 3.0 & 3.5: Startups & Emerging Markets  > Video 1.5 FinTech Evolution 3.0 & 3.5: Startups & Emerging Markets
 
+**FinTech 3.0 - Startups**
+**FinTech 3.5 - Emerging Markets**
+
+2008 stated in the subprime real estate markets of the United States and spread 
+throughout the global financial systems to major developed markets around the world, 
+as well impacting developing and emerging market contries through the economic 
+slowdown that from the standpoint of trade, was just as severe as the slowdown 
+that we saw in the 1930's in the aftermarch of the 1929 crisis.
+
+From the standpoint of FinTech, the global financial crisis had a number of very 
+important features.
+
+How 2008 impacted the development of FinTech:
+
+1. **Unemployment**: job losses in the financial sector, particularly amongst younger people, forcing them to look now opportunities.
+2. **Regulatory Changes**: as reaction to the global financial crisis, designed to prohibit ot to prevent the sorts of problems that emerged in 2008, which resulted in a dramatic decrease in profitability. In many ways the only way that these new requirements could be addressed was via technology.
+3. **Distrust in Bank**.
+4. **Invention of Smartphone**.
+
+This combiantion has led to an explosion in startups, like **Bitcoin** and other 
+cryptocurrency based on **Blockchain** or distributed ledger technologies.
+
+Other have involved varios forms of altenative finance like **P2P lending** 
+(Peer-to-peer lending), of forms of **Crowdfunding**.
+
+But startups in the context of FinTech are even not new, in 1999 one of those internet 
+bubble startups was PayPal (one of the world's most significant payment services 
+providers along with Visa or MasterCard.
+
+Or even before that, Bloomberg. Bloomberg today is the world's most valuable private 
+information service firm.
+
+So, the period of FinTech 3.0, the explosion of startups since the global financial 
+crisis is new in terms of numbers, volume, transformative potential but we have seen 
+FinTech startups before.
+
+The other area where the tasnformations has been perhaps more dramatic is in the 
+context of developing countries and emerging markets.
+
+2007 marks the launch of Impesa, a mobile phone based payment system, which transformed 
+access to finance of a large portion of the population in Kenya, and it's when we 
+combine mobile payment with smartphone that we see the transformation of financial 
+services that is taking place particularly in China with Alibaba, Tencent and others.
+
+
+
+---
+
+#### Module 1 What is FinTech?  > 1.5 FinTech Evolution 3.0 & 3.5: Startups & Emerging Markets >  Quick Check 1.5
+
+Which of these factors contributed to the development of FinTech from 2007?
+* (A) Emergence of the smart phone
+* (B) The 2008 Global financial crisis
+* (C) Post-crisis financial regulatory reforms
+* (D) All of the above
+
+---
+
+
+#### Module 1 What is FinTech?  > Industry Showcase: Collaboration between Financial Institutions and Startups (The FinTech Association of Hong Kong  
+
 
