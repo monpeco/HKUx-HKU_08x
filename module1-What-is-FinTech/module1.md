@@ -542,3 +542,15 @@ starups more time to present POC and be onboarded with the banks.
 
 #### Module 1 What is FinTech?   1.6 FinTech Typology   Video 1.6 FinTech Typology
 
+### FinTech Typology
+
+1. Finance and Investment
+2. Operations and Risk Management
+3. Payments and Infrastructure
+4. Data Security and Monitization
+5. Technology in the Customer Interface
+
+
+
+
+
