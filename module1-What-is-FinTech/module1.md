@@ -604,5 +604,17 @@ business risk, to a financial stability risk, to a national security risk today.
 How we interact with these forms of finance provides not only greater opportunities 
 for individuals in terms of convenience and access, but also new business technologies.
 
+---
 
+#### Module 1 What is FinTech?  > 1.6 FinTech Typology  > Quick Check 1.6
+
+Which parts of the financial sector are being impacted by FinTech?
+(A) Payments
+(B) Lending and investing
+(C) Customer interface
+(D) FinTech is impacting all aspects of the financial sector correcto
+
+---
+
+#### Module 1 What is FinTech?  > 1.7 Emerging Economics: Opportunities and Challenges  > Video 1.7 Emerging Economics: Opportunities and Challenges
 
