@@ -551,6 +551,58 @@ starups more time to present POC and be onboarded with the banks.
 5. Technology in the Customer Interface
 
 
+**1. Finnce and Investment**
+
+Alternative Financing (Creating new forms of financing)
+- Crowdfunding
+- P2P Lending
+- ICOs (Initial Coin Offering)
+
+
+Transform tradicional forms of financing, Think of Stock Markets, Hedge Funds and Investments Funds
+
+**2. Operations and Risk Managements**
+
+***Pre 2008 Financial Crisis***
+
+- Focused on Quantitative Risk Modelling Techniques, e.g. VAR (Value-at-Risk Systems)
+
+**Since 2008**, financial institutions,
+as well as regulators,
+have continued to be amongst the largest spenders
+of any industry in the world on IT,
+focusing in particular,
+on new regulatory requirements,
+as well as, risk management systems
+
+**3. Payments and infrastrure**
+
+Electronic Payments is one of our primary areas of direct inteaction with fintech,
+over the internet or using our mobile phone, o using a QR code; simple techniques 
+which allow intantaneous payments. But also the 5.5 Trillion dollar a day global 
+currency markets take place in a completely digitised enviroment and new technologies 
+like Blockchain, of Distributed Ledger Technology are transforming traditional 
+large value digital payments.
+
+**4. Data Security and Monetization**
+
+All this digitization brings with both opportunities as well as risks. On the
+opportunity side, digitization of ever increasing sources and forms of data has 
+allowed a new process of **Datafication**. Datafication is the application of 
+sophisticated analytics systems, like Big Data or Artificial Intelligence and 
+the like, in order to analyse large volumes of data, to come up with new approaches 
+of new ways to monetize those sources of data.
+
+But at the same time, with data incresingly in digital-only form, risk of security 
+of security.
+
+If everything is digitsed, the risk of cybersecurity have moved from being a 
+business risk, to a financial stability risk, to a national security risk today.
+
+**5. Technologies in the customer interface**
+
+How we interact with these forms of finance provides not only greater opportunities 
+for individuals in terms of convenience and access, but also new business technologies.
 
 
 
