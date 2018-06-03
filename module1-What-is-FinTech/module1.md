@@ -618,3 +618,67 @@ Which parts of the financial sector are being impacted by FinTech?
 
 #### Module 1 What is FinTech?  > 1.7 Emerging Economics: Opportunities and Challenges  > Video 1.7 Emerging Economics: Opportunities and Challenges
 
+### Emerging Economics: Opportunities and Challenges
+
+The developing countries and emerging markets have perhaps greater opportunities.
+
+If we think in the story of Africa, Impesa in Kenya, the impact of mobile financial 
+services through old-style mobile phones has been very significant. But there is a 
+big limitation in these telephones compared with what we can do with a modern 
+smartphone. 
+
+The computing power that we can hold in our hands today is unprecedented from the 
+standpoint of finance, and the transformation which is already taking place in Asia 
+is amazing. Mainly, because of 2 significant features:
+
+1. High penetration rates, high ownership rates of smartphones
+2. The availability of broadband Internet access.
+
+The combination of smartphones with broadband Internet access combines with a feature 
+of many emarging markets around the world, which if often inefficient traditional 
+banking and financial systems. This combination allows to leapfrog hundred of years 
+of developments which took place in western markets in a short period of a few years.
+
+Perhaps the best example is the major internet and e-commerce firms in China, firms 
+like Alibaba, Tencent, Baidu, or even traditional financial institutions like Ping An, 
+the numbers of customers using their financial services are absolutely staggering.
+
+In India, we will see a variety of technological infrastructure design elements to 
+support expansion of finance to literate hundreds of millions of people who did not 
+previously have access to financial services.
+
+At the same time, these tremendous changes and opportunities also bring with them 
+new risks. 
+
+An idea that things can move faster that we've ever seen before, and if we look at 
+the things that have changed in FinTech, it is the combination of new entrants, 
+startups and technology companies, with the speed of change that is driving so 
+much of the opportunities and the transformations.
+
+But this combination of new entrants and speed of technology allos something else 
+to happen as well, and that is for risks to grow ever more rapidly.
+
+In an example, a new banking startup launched by a technology company can acquire 
+in a weekend the amount that would have taken decades in a traditional developed 
+market for a financial institution to achieve.
+
+This is the risk that we call **Moving from to too small to care, to too big to fail** 
+and it can now occur in record time.
+
+
+
+---
+
+####  Module 1 What is FinTech?  > 1.7 Emerging Economics: Opportunities and Challenges >  Quick Check 1.7
+
+Why are emerging economies leapfroging the development of FinTech compared to more developed markets?
+* (A) Inefficient traditional financial systems combined with high mobile / smart phone penetration rates.
+* (B) Better regulation.
+* (C) Climate change.
+
+---
+
+#### Module 1 What is FinTech?  > 1.8 From Too-Small-To-Care to Too-Big-To-Fail  > Video 1.8 From Too-Small-To-Care to Too-Big-To-Fail
+
+
+
