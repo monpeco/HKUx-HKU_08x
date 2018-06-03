@@ -680,5 +680,85 @@ Why are emerging economies leapfroging the development of FinTech compared to mo
 
 #### Module 1 What is FinTech?  > 1.8 From Too-Small-To-Care to Too-Big-To-Fail  > Video 1.8 From Too-Small-To-Care to Too-Big-To-Fail
 
+### From Too-Small-To-Care to Too-Big-To-Fail
+
+Financial techonology is a 150-yeras-old industry that has been divided in 3 eras.
+
+The first era (FinTech 1.0) was a 100 years old, the second era (FinTech 2.0) was 
+40 years old, and the third era, in which we are today will be about a decade old. 
+As is shown each era is shorter that the previous one, that means that technology 
+is changing faster, and is penetrating into the public at a faster rate than ever 
+before.
+
+Acquiring half a million customers is a very big feet But KakaoTalk
+has been able to do that in only 2 days.
+
+Finally, I can also give you the example of **Bitcoin**. Bitcoin is becoming more 
+valuable faster than any other asset classes that previously have led to a bubble.
+What Bitcoin has done in only one year, it took many more years for other classes 
+to do.
+
+Those examples are ilustration that technology is changing more and more rapidly, 
+and therefore regulators need to adapt themselves.
+
+In the following example we have en the Y-axis the size of a company, and on the 
+X-axis you have the time it takes for that company to grow.
+Normally we are used to understand, is the notion of **Organic Growth**. 
+
+![organic-growth](https://user-images.githubusercontent.com/16638078/40890567-222186e4-6746-11e8-9e96-69d793fef0cb.png)
+
+
+* You will grow because of the results of your business,
+* Every now and then you will grow from an acquisition
+* e.g. Financial institutions like Citi, HSBC, etc
+* The path of growth is very prodictable.
+
+For regulators that is actually very useful, because regulators don't necessarily 
+always regulate and enforce action against certain companies.
+
+If you are between too small to care, and too large to ignore, regulators may o 
+may not, at their own discretion, choose to enforce and action against you if you 
+are breaching a rule. The reason of that is because not everything is worth suing 
+for (if you are only having one or two consumers that you are hurting, this is not 
+worth the regulator's time.
+
+However, the problem is companies that become **too big to fail**. The notion of 
+too big to fail is deeply rooted into the financial crisis, in the same way that 
+the financial crisis has led to the emergence of FinTech. 
+
+![threshold-point](https://user-images.githubusercontent.com/16638078/40890689-fe0dfbb4-6747-11e8-9444-454c7ad7f5bd.png)
+
+But in a similar fashion, the emergence of mobile phone has also favorized the 
+emergence of FinTech, and with it, the mobile phone is a distribution channel
+for financial technology companies.
+
+Because financial technology companies can use that infrastructure to more quickly 
+reach you as a consumer, they can go from to small to care, to too big to fail 
+overnight, creating a **Regulatory blind spot* for regulators.
+
+![exponential-growth](https://user-images.githubusercontent.com/16638078/40890823-2a696156-674a-11e8-9e10-876b930986a7.png)
+
+This is the example in Chine with Yu'e Bao. Yu'e Bao went from zero to 90 billions 
+US dollars of assets under management in only 9 months.
+
+Therefore, **regulatory sandboxes** are one of the first tools for regulators
+to resolve the risk created from startups that go from too small to care to big to fail,
+but that's only the first step. The second step will be  about **building smart 
+regulation** on top of regulatory sandboxes, and we will cover that topic in the 
+RegTech module of this course.
+
+---
+
+#### Module 1 What is FinTech?   1.8 From Too-Small-To-Care to Too-Big-To-Fail   Quick Check 1.8
+
+What is the difference between recent development of FinTech compared to previous periods of the evolution of finance and technology?
+* (A) Disruption by new startups
+* (B) Entry of large tech firms
+* (C) New technologies
+* (D) Speed of technological change combined with new entrants including startups, tech firms and emerging markets
+
+---
+
+#### Module 1 What is FinTech?  > 1.9 Introduction to Regulation  > Video 1.9: Introduction to Regulation
 
 
