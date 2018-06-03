@@ -762,3 +762,193 @@ What is the difference between recent development of FinTech compared to previou
 #### Module 1 What is FinTech?  > 1.9 Introduction to Regulation  > Video 1.9: Introduction to Regulation
 
 
+FinTech is the intersection of finance, technology and regulation.
+
+Financial services, even before of 2008, was already one of the world's most heavily 
+regulated industries. That is way when we think of FinTech, we need to think about 
+regulation and the enviroment in which finance and technology operates.
+
+And FinTech, because of the changes of new entrants, as well as the speed of 
+technological development, poses a major challenges for policy makers in determining 
+how best to regulate makerts in order to:
+* Best achieve the objectives
+* The opportunities of financial inclusion
+* Democratisation of finance
+
+While at the same time:
+* Minimising the risks of both financial fraud, misconduct
+* As well as financial crises.
+
+If we think back to before of global financial crisis, regulators and policy maker 
+tended to have a very positive attitude towards **financial innovation**. Things like:
+
+* Credit derivative
+* Credit default obligations
+* Asset backed securities
+
+![loans](https://user-images.githubusercontent.com/16638078/40891209-988612ce-674f-11e8-8dd2-427e37563086.png)
+
+![asset-backed-securities](https://user-images.githubusercontent.com/16638078/40891235-e476dd76-674f-11e8-8027-be5a02d0a2b5.png)
+
+All of which were financial innovations, but also brought new risks.
+
+Because of global financial crisis, for the past 100 years, regulators and policymakers 
+around the world have taken a very cautious approach to financial services regulations, 
+focusing on building new costly regulatory frameworks to:
+* Prevent crisis
+* Prevent misconduct
+* Protect customers
+
+But at the same time, triggering development in FinTech. But this also make innovation 
+more challenging and more difficult.
+
+Over the past several years, as regulators have become mor comfortable with the 
+opportunities and potential transformative developments taking place in FinTech, 
+they have algo become more friendly from the standpoint fo regulation.
+
+But from the standpoint of regulation, as we'll see throughout the rest of the course,
+there's a continual process of **balancing objectives** like:
+* Protecting consumers,
+* Protecting the safety and soundness of the financial sector,
+* Protecting against financial crises
+
+with objectives of:
+* Financial inclusion,
+* Competition, i
+* Innovation, 
+* And development.
+
+And it is this regulatory environment that much of fintech takes place in today.
+
+---
+
+#### Module 1 What is FinTech? >  Industry Showcase: The Future of RegTech and Six Technologies Impacting It (Thomson Reuters)  > The Future of RegTech and 6 Technologies Impacting It (by Thomson Reuters)
+
+
+### The Future of RegTech and 6 Technologies Impacting It (by Thomson Reuters)
+
+> Hello. My name is Julia Walker. I'm the head of Market Development for
+> Regulatory Technology across Asia-Pacific. So, what is RegTech? Well,
+> I like to think about RegTech being FinTech's best friend, or at least
+> the more sensible better half. Perhaps we can think about it this way:
+> if FinTech is the rock star, RegTech is the band member happy to hang
+> out in the background. However, RegTech has more recently started to
+> take center-stage, usually increasing regulatory challenges in the
+> financial sector, and the need to apply technology to solve them. As
+> you'll see in this module, the future of RegTech is one of positive
+> financial innovation, as well of benefits for financial regulation.
+> It's the combination of both opening the door for the automation of
+> regulation. In this module, we will show six new emerging
+> technologies, and how these will redefine the future of RegTech. In
+> module one, we provided you with a macro-trend of increased regulatory
+> activity and enforcement since 2008. However now I wanted to help you
+> with three simple illustrations to grasp the complexity behind
+> regulatory adherence. As you can see in this graph, regulation is
+> complex, voluminous and interconnected. When you understand that large
+> tier one universal banks operate in over 60 jurisdictions, it's easier
+> to picture the difficulty to comply globally. Especially with new
+> rules having cross-jurisdictional affect such as GDPR. In addition,
+> compliant obligations are always in a state of flux. Regulators'
+> proactivity around the world can be seen by the number of regulatory
+> changes. Regulatory alerts increased from 8,000 in 2008 to 56,000 in
+> 2017, an average of 216 alerts per day. The global financial crisis of
+> 2008 highlighted the systemic risk within the global financial system,
+> serious conduct issues and a push to tighten anti-money laundering
+> controls. Regulators in the United States and Europe have imposed 342
+> billion in fines on banks for misconduct, including the violation of
+> anti-money laundering rules, and it is likely to top 400 billion by
+> 2020. And it's not just the fines causing headaches, conduct issues are also leading to revenue loss. A Hong Kong-based financial services
+> company has estimated that bad behaviour has erased 850 billion in
+> profits for the top 50 global banks. In New York, a 185 million dollar
+> fine was issued for failing to protect client assets, and it's just
+> not finances getting fined. RegTech can also help other industries
+> especially when we know that regulatory enforcement is on the rise for
+> corporates. 18 billion has been imposed to a car manufacturer, and 60
+> million to a Japanese-based electronics company. On the backdrop of
+> these macro changes in cost pressures is a number of new emerging
+> technologies. In our discussion today, we want to look at some of the
+> underlying trends that will shape the global financial system over the
+> next 10 to 20 years, and remove the pain points associated with
+> compliance obligations. Blockchain. Immutable, consensus driven,
+> transparent, distributed, work flow enabled, and trust being replaced
+> with truth. Blockchain could potentially power the identity market
+> place and has the potential to modernise or even replace existing
+> trading, clearing, and settlement operations. Smart contracts and
+> smart oracles will exist to enable customers to use blockchain to
+> streamline post-trade life-cycle, and other capital market use cases.
+> Digitised assets with blockchain as a potential new way to digitise
+> and maintain records for government and other relevant industries.
+> Cognitive computing and artificial intelligence. We are just at the
+> beginning of a revolution that will touch every business, and every
+> life on this planet. The data volumes are exploding. More data has
+> been created in the past two years than in the entire previous history
+> of the human race. At the moment however, less than 0.5% of all data
+> is ever analysed and used. As this quantum of data grows the need for
+> standards, structure and integration does also. The need for smart
+> machines to synthesise and make sense of data and support the human
+> cognitive and decision-making process is therefore paramount. The
+> internet of things. Electronic sensors are showing up in devices all
+> around the world. We now have self-driving cars that can navigate
+> their way through traffic. Even regular cars track with AI in how fast
+> they're going. But how can this enormous world of information
+> generated by machines and sensors be used for better financial
+> investment, trading decisions, and risk management? How can this data
+> be aggregated and anonymized to protect individual privacy while
+> retaining its most useful, actual information? Customers must have the
+> confidence that their data is collected, stored, and used in a manner
+> that benefits them, and does not jeopardise their privacy. Open source
+> and API economy. APIs are fueling the customer-driven platform
+> revolution. They're becoming a primary customer interface for
+> technology-driven products and services, and a key channel for driving
+> revenue and brand engagement. APIs are a set of rules that govern how
+> one type of computer software communicates with another. They enable
+> bank customers to share their personal financial information with
+> third parties to generate opportunities for better deals on financial
+> products and to use transaction data to access and compare products
+> easily. From the bank's perspective, the technology enables them to
+> remain competitive by providing them with opportunities to provide
+> improved customer-friendly services and reach out to untapped markets.
+> The Cloud. Everyone is looking at the Cloud, and for good reason.
+> Cloud computing eliminates the capital expenditure of buying hardware
+> and software and setting up and running on-site data centres. Big
+> data. Firms need help organising and collecting enterprise and third
+> party data to derive new insights. Data tagging allows investors,
+> regulators and market participants to organise and analyse massive
+> amounts of data and information more efficiently by associating pieces
+> of information with keyword tags. The rapid changes and maturation of
+> technologies from big data management to advanced analytics to machine
+> learning, to artificial intelligence, and robotic process automation
+> are fueling product innovation and providing customers potential
+> opportunities to further transform operations. So there you go, six of
+> the key technologies that you need to be aware of as we look at the
+> future of RegTech but before I leave you, I wanted to highlight the
+> three critical considerations to harness the value of innovation
+> brought by RegTech. First, RegTech solutions need to be powered by
+> trusted, structured and unstructured data that also has data mastering
+> capability for effective integration with existing solutions. Second,
+> advanced analytics and artificial intelligence will play a key role.
+> And lastly, digital identity. Digital identity is a foundation to all
+> RegTech solutions because identity of individual, organisation, or a
+> physical asset are atomic in governance, regulatory compliance and
+> risk-management solutions. We will cover this in more detail in module
+> five.
+
+---
+
+#### Module 1 What is FinTech?   Module 1 Conclusion Quiz   Conclusion Quiz: Question 1
+
+From the following options, which is the best way fo define FinTech so as to understand the opportunities and risks it creates?
+* (A) What FinTech is: Use of technology in finance
+* (B) Who are FinTech users: Banks, startups, tech companies
+* (C) When was FinTech created and its different eras
+* (D) All of the above: A holistic evolutionary approach is necessary. correcto
+
+#### Module 1 What is FinTech?   Module 1 Conclusion Quiz   Conclusion Quiz: Question 2
+
+Which of these factors has contributed the most to the wider adoption of FinTech following the financial crisis?
+* (A) Deeper use of technology by consumers correcto
+* (B) Less regulation after the 2008 financial crisis
+* (C) More media coverage of startups
+
+---
+
