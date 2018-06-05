@@ -935,7 +935,7 @@ And it is this regulatory environment that much of fintech takes place in today.
 
 ---
 
-#### Module 1 What is FinTech?   Module 1 Conclusion Quiz   Conclusion Quiz: Question 1
+#### Module 1 What is FinTech? >  Module 1 Conclusion Quiz  > Conclusion Quiz: Question 1
 
 From the following options, which is the best way fo define FinTech so as to understand the opportunities and risks it creates?
 * (A) What FinTech is: Use of technology in finance
@@ -943,7 +943,7 @@ From the following options, which is the best way fo define FinTech so as to und
 * (C) When was FinTech created and its different eras
 * (D) All of the above: A holistic evolutionary approach is necessary. correcto
 
-#### Module 1 What is FinTech?   Module 1 Conclusion Quiz   Conclusion Quiz: Question 2
+#### Module 1 What is FinTech? >  Module 1 Conclusion Quiz  > Conclusion Quiz: Question 2
 
 Which of these factors has contributed the most to the wider adoption of FinTech following the financial crisis?
 * (A) Deeper use of technology by consumers correcto
@@ -951,4 +951,11 @@ Which of these factors has contributed the most to the wider adoption of FinTech
 * (C) More media coverage of startups
 
 ---
+
+#### Module 1 What is FinTech?  > Additional Resource Insights  > Additional Resource Insights
+
+References and Suggestions for Further Reading:
+* [The evolution of FinTech: A new post-crisis paradigm? (In-depth study - Arner, Barberis, Buckley)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2676553)
+* [Big banks on notice as tech groups ramp up pressure (News article - FT)](https://www.ft.com/content/242b387e-328d-11e8-b5bf-23cb17fd1498)
+* [Bank of the Future (Industry report - Citi Bank)](https://ir.citi.com/CiDxU7p7pAittTmqzfMCS9%2F91IS21vIjJXbn3wjpSEYiTXJ8FvEPRWx8WmmrKNgBSzDi8E2mGOI%3D)
 
