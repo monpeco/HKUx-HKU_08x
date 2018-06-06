@@ -394,3 +394,90 @@ According to the video, which element is holding up the development of digital f
 * (B) Poor network of telecommunication
 * (C) Consumer mindset
 * (D) Opposition by banks
+* 
+
+---
+
+#### Module 2 Payment, Cryptocurrencies and Blockchain  > 2.5 RTGS System  > Video 2.5 RTGS Systems
+
+### Video 2.5 RTGS Systems (Real Time Gross Settlement )
+
+what is RTGS, or real-time gross settlement?
+In short, it allows for transaction between banks
+to happen in real time
+and settle on a one-to-one basis.
+
+This is to be contrasted with batch transaction
+where banks settle the net amount owed
+at a pre-determined interval
+such as the end of the day or the week.
+
+The necessity to move from
+a batch to a real time world
+is driven by two factors:
+
+1. technological capacities,
+2. customer expectation of instant delivery (As we move to mail to e-mail, we remove latency and cost to communicate, the same is expected in financial services)
+
+Because RTGS systems
+constitute a core component
+of any national payment stack,
+the reform process is slow
+and once engaged,
+takes decade to be fully implemented.
+
+
+And whilst the majority of countries
+have RTGS system in place,
+a few more large players are still coming,
+such as China and Australia.
+
+How can RTGS support FinTech Innovation?
+
+First, **peer-to-peer payment**.
+The whole companies,
+such as Venmo in the US,
+that are facilitating payment transfer between individuals,
+can only fully be successful
+if real time payment actually happens.
+if you were to split the bill with a friend,
+however that bill splitting
+and that request to a friend
+would take one day or more to clear,
+the gratification of being able
+to receive the funds straightaway would not happen.
+
+
+The second example is peer-to-peer lending.
+RTGS is actually linked closely
+to the development
+of the peer-to-peer lending industry in the UK.
+The funds would be available
+for you to spend straightaway.
+And for the capacity of the peer-to-peer lender
+to make a bank-to-bank transfer instantly
+as soon as the loan has been approved,
+has only been made possible
+because of real-time gross settlement.
+
+
+RTGS represent a critical infrastructure layer
+supporting FinTech innovation
+even though you may not directly be aware of it
+as it operates in the background
+and serves as a payment rail.
+
+---
+
+#### Module 2 Payment, Cryptocurrencies and Blockchain   2.5 RTGS System   Quick Check 2.5
+
+What is the purpose of an RTGS system?
+* (A) P2P lending
+* (B) Electronic customer onboarding
+* (C) Settlement of large value electronic payments
+* (D) Conduct of monetary policy
+
+---
+
+#### Module 2 Payment, Cryptocurrencies and Blockchain   2.6 The ABCDs of Alternative Finance (Parts 1 & 2)   Video 2.6.1 The ABCDs of Alternative Finance (Part 1)
+
