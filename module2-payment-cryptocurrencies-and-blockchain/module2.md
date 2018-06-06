@@ -273,4 +273,124 @@ and then people get frustrated with the system.
 
 ---
 
+#### Module 2 Payment, Cryptocurrencies and Blockchain  > 2.4 Developing Countries and DFS: Regulation of Mobile Money >  Video 2.4 Developing Countries and DFS: Regulation of Mobile Money
 
+### Video 2.4 Developing Countries and DFS: Regulation of Mobile Money
+
+the regulation of mobile money
+and digital financial services in developing countries.
+The first thing we need to do
+with mobile money is keep it safe.
+
+In **Common Law countries**,
+this is relatively easy to do,
+using the institution of a trust.
+
+There's a trust deed,
+either money is deposited
+under that deed in a commercial bank,
+and the deed provides for the role of a protector.
+The protector will typically be the Central Bank,
+although it could be somebody else. The Central as protector have the duty of
+inspecting the trust arrangements
+and insuring, most importantly,
+that there is a 1:1 ratio
+between issued electronic money
+and actual money sitting in the trust account
+
+
+
+In **Civil Law countries**, not so simple,
+because usually the trust is not there.
+But you can get to the same end
+using a mix of mandates,
+contracts, fiduciary contracts,
+and sometimes direct regulation as needed.
+
+There's no one size fits all solution
+for Civil Law countries,
+you need to craft a solution for each jurisdiction.
+
+Once you've kept the float safe,
+there's only two other, in my view,
+core pieces of regulation you need.
+One is Consumer Protection Regulation
+and the other is Money Laundering
+and Terrorism Financing Regulation.
+
+An internation regime that could eventually see a country on a blacklist, if
+it doesn't have adequate **AML (Anti-Money Laundering)** / **CTF (Counter-Terrorism Financing)**
+regulation
+
+
+And the important thing to do in dealing with that,
+is to use proportional risk-based assessment.
+In most poor countries
+you are not going to be able to comply,
+you're not going to be able to
+reach the very highest standards of
+Know-Your-Customer certification.
+You're going to have to, you know, cut some corners
+and decisions are going to have to be made.
+
+**Consumer Protection** is
+essential for the substantive reason
+that without it,
+people won't trust the system.
+If people are losing their money,
+they won't keep using it.
+And mobile money and digital finance
+needs network effects.
+It needs a lot of people using it
+so that it's beneficial for everybody.
+
+The easy part for consumer protection is **rules**.
+It's relatively easy to craft a good set of rules.
+The difficult part is **recourse mechanisms**.
+People have got to have some way
+to get their problems solved.
+And any effective recourse regime, in my view,
+needs a free-to-call telephone number
+that's manned a good number of hours a day
+by someone with authority
+to resolve customer problems.
+
+
+
+The difference
+between FinTech in rich countries
+and digital finance in poor countries,
+
+FinTechs in rich countries are typically startups.
+They're young entrepreneurs seeking to get rich.
+
+Digital Financial Services in poor countries are partly,
+occasionally driven by that, but not so often.
+They're mostly driven by government policy.
+Governments have embraced
+this idea of financial inclusion
+and they're encouraging their banks
+and their telcos to provide it.
+
+So rich country regulators
+are trialling regulatory sandboxes,
+safe places in which entrepreneurs can take risks
+with reduced licencing obligations,
+
+And in some poor countries,
+regulators are doing this,
+but something much more is needed
+of regulators in poor countries.
+And that's a major mindshift,
+a major change of perspective.
+
+
+---
+
+#### Module 2 Payment, Cryptocurrencies and Blockchain  > 2.4 Developing Countries and DFS: Regulation of Mobile Money >  Quick Check 2.4
+
+According to the video, which element is holding up the development of digital finance services in developing countries?
+* (A) Offering inappropriate products
+* (B) Poor network of telecommunication
+* (C) Consumer mindset
+* (D) Opposition by banks
