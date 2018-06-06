@@ -155,3 +155,122 @@ Which of the following is NOT defined as one of the "4 phases of the evolution o
 * (C) Coinage
 * (D) Dematerialized payments
 
+---
+
+#### Module 2 Payment, Cryptocurrencies and Blockchain   2.3 Developing Countries and DFS: The Story of Mobile Money   Video 2.3 Developing Countries and DFS: The Story of Mobile Money
+
+### Video 2.3 Developing Countries and DFS: The Story of Mobile Money
+
+the story of mobile money
+and digital finance in developing countries.
+I want to tell this story in terms of four questions.
+What? Where? How? and Why?
+
+
+What is mobile money?
+Well, it's e-money.
+It's an electronic credit on a mobile device
+that represents a unit of real money
+that typically sits in a trust account
+in a commercial bank somewhere.
+So, it's an electronic representation of paper money,
+
+
+Where was it developed?
+Well, it came about because one day,
+telecommunications companies realised
+that their software tracked in real time airtime credits.
+They knew exactly how many minutes
+a prepaid customer still had in credit,
+and if they knew that,
+they knew how many currency credits the customer had.
+They realised this software could well adapted
+to do the same thing.
+And so, mobile money was born.
+
+Initially, in a in a few countries,
+including the Philippines,
+but it achieved lift off in Kenya a decade ago in 2007.
+It was a Vodafone product, M-Pesa,
+and within three or four years,
+the majority of Kenya's GDP was flowing
+through M-Pesa every year.
+
+
+The "How" question, how does it work?
+Well, it's based on cash-in and cash-out agents
+who are the same small shopkeepers who sell airtime.
+
+So, a customer can walk in,
+pass some cash across the counter,
+and get a credit
+some electronic money on their phone
+that they can do things with,
+that they couldn't so readily do with the paper money.
+
+That's one way a credit comes about,
+but the more often way is
+the government makes a transfer payment,
+a welfare payment directly to the phone,
+
+Often, central banks will want
+this service offered by their banks
+because they trust the banks,
+they know the banks,
+they know how to regulate them.
+But, banks around the world
+are not typically good at providing services
+to poor customers.
+The entities that are already doing that
+are the TELCOs.
+
+The fourth question is,
+why does it matter?
+And it matters because without electronic money,
+paying an electricity bill or a school bill
+can require a parent to take the whole day off work,
+travel for a few hours on a bus,
+stand in a queue for a few hours,
+travel a few hours home.
+This is not typically transformative
+for people who live in the capital city
+or in the big cities,
+it transforms the life of people
+who live in the countryside
+who don't have access to bricks and mortar branches.
+
+
+The buzzword is **financial inclusion**.
+It's about including these previously excluded people
+in the financial services
+and allowing them to do things more efficiently,
+
+What are the challenges with it?
+Well, it's worked well in east Africa.
+Kenya, Tanzania, Uganda,
+it's worked very well.
+In other places, the record is more patchy.
+In many countries,
+governments transfer payments
+to mobile money accounts,
+people go to the cash-in and cash-out agent,
+take the cash out, and then transact in cash.
+
+That fails to realise most of the goals
+of financial inclusion, you know,
+they're not getting the efficiency benefits,
+you're not getting the network effects,
+you're not getting the vibrant ecosystem,
+and it also causes a real problem for agents
+because agents are mainly handing out cash,
+and unless the other part of their business
+provides them with a ready inflow of cash,
+they're going to run out of cash often
+and they're not going to be able
+to meet redemption requests,
+and then people get frustrated with the system.
+
+
+---
+
+
