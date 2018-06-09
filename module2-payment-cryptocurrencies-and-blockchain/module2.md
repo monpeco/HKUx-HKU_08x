@@ -481,3 +481,97 @@ What is the purpose of an RTGS system?
 
 #### Module 2 Payment, Cryptocurrencies and Blockchain   2.6 The ABCDs of Alternative Finance (Parts 1 & 2)   Video 2.6.1 The ABCDs of Alternative Finance (Part 1)
 
+In his 2014 letter to JP Morgan's shareholders,
+Jamie Dimon famously issued a warning
+to its shareholders, employees
+and even traditional competitors.
+
+> Silicon Valley is coming.
+
+At the bank's investor day
+he added more colourfully:
+
+> when I go to Silicon Valley,
+> they all want to eat our lunch.
+> Every single one of them is going to try.
+
+
+During the last few years,
+alternative finance is slowly transforming
+the offering of financial services
+and the providers of such services
+in two main ways:
+1. New business models
+2. and new technologies
+
+It's critical to understand
+the four key and interrelated technologies
+that have allowed alternative finance to flourish.
+These can be known as the **ABCDs driving FinTech**,
+namely:
+1. artificial intelligence, or AI,
+2. blockchain, 
+3. cloud computing, 
+4. and data.
+
+### 1. Data
+
+Banks have relied upon and generated
+a tremendous amount of information.
+These include information from and about customers,
+their identity, their transactions,
+their net worth
+and even their relationships and location.
+
+But this has been gathered in paper forms and not easibly searchable
+
+The digitization of information means that such information can more easily be stored, transmited, searched, processed, analysed and displayed.
+
+Customer data includes:
+* **online behaviour** such as the time and location of logging in and transactions
+* **other online activities** such as web browsing, e-commerce and social media use.
+* Increasingly, **offline behaviour** is also being tracked through data from internet of things for IoT devices such as wearable smart watches,
+
+### 2. Cloud computing
+
+In the past, businesses such as financial institutions
+had to build their IT systems
+using different enterprise level software
+that was developed or licenced
+at high cost over time
+and hosted on large servers on premises.
+With the advent of cloud computing,
+software resides at data centres on servers
+run by companies dedicated managing such servers
+
+
+Cloud computing also allowed
+new business models to blossom.
+Software as a service or SaaS businesses
+bypass the traditional vendor model
+of software development and sales
+that require marketing software licences
+at higher upfront fees
+
+Software that resides in the cloud
+can now be marketed at a lower upfront cost
+based on a subscription model.
+And software upgrades can be automatically
+made on a continuous basis
+which gives the client one less reason
+to switch vendors.
+
+In addition, the cloud
+enables connected IoT devices
+to gather data and stream more services
+including financial services
+to customers through new interfaces
+like smart watches,
+voice-activated speakers
+and smart homes and smart cars.
+
+
+---
+
+#### Module 2 Payment, Cryptocurrencies and Blockchain   2.6 The ABCDs of Alternative Finance (Parts 1 & 2)   Video 2.6.2 The ABCDs of Alternative Finance (Part 2)
+
