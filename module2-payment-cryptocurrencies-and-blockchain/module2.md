@@ -575,3 +575,151 @@ and smart homes and smart cars.
 
 #### Module 2 Payment, Cryptocurrencies and Blockchain   2.6 The ABCDs of Alternative Finance (Parts 1 & 2)   Video 2.6.2 The ABCDs of Alternative Finance (Part 2)
 
+### 2. Blockchain
+
+Distributed ledger technology or DLT
+continues to have an evolving impact
+on alternative finance.
+
+The oldest example of double-entry bookkeeping
+can be found in the publication in 1494
+of Franciscan Friar Luca Pacioli
+which allowed for reliable documentation
+of both creditor and debtor
+in a standardised manner.
+
+The white paper on Bitcoin
+by the mysterious Satoshi Nakamoto in 2008
+was similarly revolutionary
+in establishing a cryptocurrency that seeks to solve
+the double spending problem
+intrinsic in a currency
+based on software without the need
+of a trusted authority or central server.
+
+Nakamoto postulated a ledger that is distributed
+via a peer-to-peer network
+which records transactions
+by way of blocks.
+Each block is validated
+by different node computers in the network
+through solving cryptographic mathematical puzzles,
+or hashes, at which time a new block
+with a new cryptographic hash,
+timestamp, and data would be added to the chain
+which is transparent to all users.
+
+![image](https://user-images.githubusercontent.com/16638078/41197210-d0b39300-6c23-11e8-9e1f-1cda5c179058.png)
+
+Data on the block is immutable
+and effectively cannot be altered
+unless all prior blocks in the chain
+are altered by consensus
+or agreement of the network majority.
+
+![image](https://user-images.githubusercontent.com/16638078/41197211-ed828932-6c23-11e8-8372-084262a5d974.png)
+
+
+Blockchain is the underlying technology
+behind cryptocurrencies
+that have expanded dramatically beyond Bitcoin.
+In this way,
+this technology has created
+a new form of digital asset
+as well as a new alternative finance method
+to raise capital for new projects,
+with the so-called crypto exchanges
+comprising new forms of online capital marketplaces.
+
+* In addition, blockchain technology could form
+the basis of new capital markets infrastructure.
+NASDAQ is using blockchain technologies
+to secure record keeping of ownership
+of private companies and transfers.
+
+* In December 2017,
+Australia's ASX announced that it would replace
+its stock exchange registry,
+settlement and clearing system
+with blockchain technology.
+
+* An even more ambitious use of blockchain technology
+through the creation
+of distributed autonomous organisations or DAOs
+that allow for automatic execution
+upon specific conditions
+via smart contracts,
+with innovative governance mechanisms
+based on direct voting and consensus.
+
+If implemented to its fullest extent,
+DAOs and its efforts to disintermediate
+could impact not only the venture capital market
+but also the very concept of the joint stock company
+and even some functions of government.
+
+### 4. Artificial intelligence
+
+The term artificial intelligence was coined
+at the now famous Dartmouth summer research workshop in 1955.
+
+
+Two initial clarifications would be helpful: 
+* First, it should be noted that
+we refer to the **narrow** or **weak AI**
+that relates to algorithm performing specific tasks,
+as opposed to general or strong AI
+that reflect broader human intelligence
+and decision-making.
+
+* Second, there are different strands within AI,
+including Natural Language Processing or NLP
+which relates to language, often written,
+and Machine Learning where
+systems learn from experience
+by being trained with data
+as opposed to being rules-based.
+
+There are many techniques within Machine Learning,
+including neural networks which comprise
+nodes of weighted interconnectedness
+inspired by the human brain, and deep learning,
+which refers to algorithms based on neural networks
+arranged in deeper layers.
+
+After a long so-called AI winter of lacklustre activity,
+AI has blossomed due to
+a confluence of events
+that made both Fortune and Forbes
+name 2017 the year of AI.
+
+First, instead of expensive large supercomputers
+required for the AI algorithmic processing,
+researchers started using
+relatively cheap graphical processing units or GPUs
+originally developed for video games
+with increased computational power
+when used in parallel.
+
+Second, data storage cost continues to fall
+while data is being gathering at alarming rates
+through online activity and connected devices,
+thereby allowing for
+more structured and unstructured data
+to be gathered, stored, and used
+to train the machines.
+
+Third, most major cloud companies,
+such as Amazon's AWS, Google Cloud,
+Microsoft's Azure, IBM Cloud
+and Alibaba's Aliyun
+incorporate AI into their services,
+often including machine learning frameworks
+on some open source basis
+to allow their clients to experiment
+and incorporate into their operations.
+
+---
+
+#### Module 2 Payment, Cryptocurrencies and Blockchain   2.6 The ABCDs of Alternative Finance (Parts 1 & 2)   Quick Check 2.6
+
