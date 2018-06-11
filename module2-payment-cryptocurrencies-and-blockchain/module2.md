@@ -1298,3 +1298,15 @@ According to the video, blockchain...
 
 #### Module 2 Payment, Cryptocurrencies and Blockchain   2.9 What is Blockchain?   Additional Video Resources: Blockchain
 
+### Additional Video Resources: Blockchain
+
+
+1. [Meet Corda: DLT with a difference](https://www.youtube.com/watch?v=yfnWbeTzUfs&t=21s) (www.corda.net)  (2.1 Mins)
+2. [Corda Overview](https://www.youtube.com/watch?v=YfcJDCXWJNM) (Richard Gendal Brown, Chief Technology Officer of R3) (2.5 Mins)
+3. [Bridging the FinTech Gap - An Update on R3 and Blockchain Developments](https://www.youtube.com/watch?v=oHJHsor1x7s) (Tim Grant, CEO of R3 Lab and Research Centre) (27.2 Mins)
+ 
+
+---
+
+#### Module 2 Payment, Cryptocurrencies and Blockchain   Industry Showcase: The Benefits from New Payment Stacks - Applications of Ripple for Standard Chartered Bank  Industry Showcase: The Benefits from New Payment Stacks - Applications of Ripple for Standard Chartered Bank
+
