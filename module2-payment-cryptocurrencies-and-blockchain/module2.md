@@ -1364,3 +1364,22 @@ and more efficient than ever before.
 #### Module 2 Payment, Cryptocurrencies and Blockchain   Module 2 Conclusion Quiz   Conclusion Quiz: Question 1
 
 
+---
+
+#### Module 2 Payment, Cryptocurrencies and Blockchain   Additional Resource Insights   Additional Resource Insights
+
+### Additional Resource Insights
+
+### A. References and Suggestions for Further Reading
+1. [FinTech and Financial Services: Initial Considerations (Industry Report – IMF)](https://www.imf.org/en/Publications/Staff-Discussion-Notes/Issues/2017/06/16/Fintech-and-Financial-Services-Initial-Considerations-44985)
+2. [Blockchain Beyond the Hype - A Practical Framework for Business Leaders (Industry Report – WEF)](http://www3.weforum.org/docs/48423_Whether_Blockchain_WP.pdf)
+3. [Bank of Russia suggests FinTech’s ethereum blockchain as single system for EAEU (News Article – Tass Russian News Agency)](http://tass.com/economy/997474)
+4. [The Distributed Liability of Distributed Ledgers: Legal Risks of Blockchain (Academic Paper: Zetzsche, Buckley, Arner)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3018214)
+
+### B. Additional Resource Insights for Video 2.4 Regulation of Mobile Money
+1. [FinTech in Developing Countries: Charting New Customer Journeys (Academic Paper: Buckley, Webster, 2016)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2850091)
+2. [Building Consumer Demand for Digital Financial Services – The New Regulatory Frontier (Academic Paper: Malady, Buckley, 2014)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2478482)
+3. [Using Trusts to Protect Mobile Money Customers (Academic Paper: Greenacre, Buckley, 2015)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2612454)
+4. [Protecting Mobile Money Customer Funds in Civil Law Jurisdictions (Academic Paper: Muñoz, Solana, Buckley, Greenacre, 2015)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2713612)
+
+---
