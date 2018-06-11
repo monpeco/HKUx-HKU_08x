@@ -964,3 +964,137 @@ Which of the following is a potential challenge for cryptocurrencies?
 * (D) Risk of getting hacked
 * (E) All of the above
 
+---
+
+#### Module 2 Payment, Cryptocurrencies and Blockchain   Industry Showcase: Legal and Regulatory Implications of Cryptocurrencies (King & Wood Mallesons)  Legal and Regulatory Implications of Cryptocurrencies (King & Wood Mallesons)
+
+Cryptocurrency is
+one of the most over-hyped terms of our generation.
+Cryptocurrency is also a bit of a misnomer.
+Very few cryptocurrencies
+operate in any way that resembles
+fiat or real central bank-backed currency.
+None are recognised in Hong Kong
+as currency or money.
+So some people like to call them 
+* virtual commodities,
+* cryptographic tokens 
+* or digital assets,
+which are far more neutral,
+but we'll stick with cryptocurrencies today.
+
+Let's take a step back.
+What we typically mean
+when we talk about cryptocurrencies
+**is a record of some kind of right**,
+typically on a blockchain.
+That right can be transferred peer-to-peer,
+or via an exchange.
+It's incredibly secure,
+but generally it's not anonymous.
+It's pseudonymous.
+
+
+So what does a cryptocurrency do?
+What is it?
+It entirely depends on
+what right travels along that blockchain
+as ownership passes from one person to another.
+
+In some cases, that right is really limited,
+particularly for cryptocurrencies like Bitcoin.
+In other cases, it could give you a profit,
+or even represent a share in a company,
+could be a loyalty point or help you
+make payments across the world.
+**The combination of blockchain
+and smart contract technology**,
+on platforms like **Ethereum**,
+as well as many others,
+has made the creation and trading of these rights
+incredibly efficient and lucrative
+as an **early stage funding tool**,
+a bit like what Kickstarter was
+for physical products.
+
+
+However, there is often a misconception
+that new technology,
+especially when it lives and breathes online,
+and particularly when it is decentralised,
+is not subject to any laws.
+It lives in the cloud, so no laws apply.
+This couldn't be further from the truth.
+In fact, it typically means
+that much more law applies,
+and it often overlaps and sometimes even conflicts.
+At the crux is what is the right
+that I am recording on the blockchain?
+
+And this can have
+a number of legal and regulatory implications.
+However, the key things you need to look at
+are **financial regulatory laws**,
+such as restrictions on selling securities.
+In Hong Kong,
+an important part of the definition of securities
+includes **collective investment schemes**,
+which is a very broad concept
+and exists in many jurisdictions.
+It can capture a wide range of arrangements,
+but in essence, it generally refers
+to where you draw money in
+to generate profit for participants.
+
+In some countries, the securities definitions
+are so broad and flexible
+that they can adapt
+based on market behaviour and intent.
+The United States is a great example of that.
+In others, more law is emerging
+that expands the securities regimes.
+And in others such as Mainland China,
+total bans are in place for ICOs,
+but not necessarily blockchain-based shares
+and other instruments.
+
+Certain cryptocurrencies are regulated in other ways.
+For example, a gambling chip on a blockchain
+is still a gambling chip.
+
+An exchange selling cryptocurrencies that are securities
+is still a securities exchange that requires a licence.
+
+A blockchain that records
+and transmits personal data,
+is still regulated by privacy laws.
+
+In certain countries,
+cryptocurrencies are also treated like currency,
+which carries a lot of other consequences.
+
+But there are numerous other laws applied,
+such as contract and fraud.
+So if someone lies to you in an offer document,
+or over-promises on something
+that they cannot deliver,
+you could potentially sue them.
+And we are already seeing a number private actions,
+and in some countries even class actions in this space.
+Tax and anti-money laundering laws also apply.
+The greater issue is how these laws interact.
+
+Blockchains typically exist in multiple countries,
+because their records are
+duplicated in different servers
+in different parts of the world.
+So extreme care is required in creating them,
+and we'll see a lot more interesting law
+develop to resolve laws that collide.
+
+
+
+---
+
+#### Module 2 Payment, Cryptocurrencies and Blockchain   2.9 What is Blockchain?   Video 2.9A What is Blockchain? (Part 1)
+
