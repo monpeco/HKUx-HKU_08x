@@ -1310,3 +1310,57 @@ According to the video, blockchain...
 
 #### Module 2 Payment, Cryptocurrencies and Blockchain   Industry Showcase: The Benefits from New Payment Stacks - Applications of Ripple for Standard Chartered Bank  Industry Showcase: The Benefits from New Payment Stacks - Applications of Ripple for Standard Chartered Bank
 
+### Industry Showcase: The Benefits from New Payment Stacks - Applications of Ripple for Standard Chartered Bank
+
+Standard Chartered Bank
+believes in using new and advanced technologies
+to bring a better experience to our clients.
+Since our first collaboration with Ripple
+in December 2015,
+we have made significant progress
+in enhancing the overall security
+of trade finance invoicing through the adoption of
+distributed ledger technology.
+We, together with Axis Bank,
+launched a cross-border payments platform in 2017
+which connects corporates
+between Singapore and India.
+Ripple allows Standard Chartered
+to provide our clients real-time payment services
+with visibility, traceability and full transparency.
+With all transacting parties
+connecting to the same blockchain network,
+customers are able to process payments in real-time
+with end-to-end tracking,
+pre-validated transaction,
+and see all the fees upfront.
+It helps reduce the risk of late payment
+as well as to provide certainty
+as to when and how much of the money
+would arrive at the beneficiary.
+As blockchain records cannot be altered
+once they are created,
+the technology helps
+financial institutions' reconciliations of payments,
+improve working capital allocations
+and reduce the amount of time
+back-office staff spent handling errors.
+Standard Chartered has been using Ripple’s solution
+in many parts of its business,
+including global trade payments,
+e-commerce payments,
+international payroll and pensions,
+and international corporate dividends.
+Whether it is a global supply chain
+doing real-time cross border transactions,
+a corporate selling goods globally over the Internet
+or an international firm paying salaries
+to its overseas employees,
+Ripple makes payment easier, faster,
+and more efficient than ever before.
+
+---
+
+#### Module 2 Payment, Cryptocurrencies and Blockchain   Module 2 Conclusion Quiz   Conclusion Quiz: Question 1
+
+
