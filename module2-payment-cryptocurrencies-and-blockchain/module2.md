@@ -846,3 +846,121 @@ like digital currencies or cryptocurrencies.
 
 #### Module 2 Payment, Cryptocurrencies and Blockchain   2.8 Cryptocurrencies   Video 2.8 Cryptocurrencies
 
+### Video 2.8 Cryptocurrencies
+
+what is a cryptocurrency?
+Well, a cryptocurrency is a digital asset
+that serves as a medium of exchange or store value
+that is generally based on a block chain
+and you use cryptography as its security feature.
+
+What makes it quite interesting
+is that in many cases,
+it is not issued by any central authority
+rendering it in, let's say,
+immune to government interference or manipulation.
+
+Well, what's important to understand
+is actually cryptocurrencies are nothing new.
+People have been working on the topics
+since 1980s or '90s.
+Many active groups were related to the military
+or more crypto-focused groups, like one of the,
+like the Cyberpunks, for example.
+
+But really, the big game-changer took place
+towards the end of 2008,
+where an individual, or a group of individuals,
+we don't know yet, called Satoshi Nakamoto,
+published a white paper called
+"Bitcoin, A Peer-to-Peer Electronic Cash System",
+which was really the basis of Bitcoin.
+
+And Bitcoin was born.
+And a lot of things have happened since then,
+yeah, more today,
+more than 1,500 different cryptocurrencies in the market.
+
+But what was really innovative with Bitcoin is
+that it solved one of the big problems
+that we had at that point,
+which was the **double-spending issue**,
+
+Over the years, as obviously Bitcoin has gathered
+increasingly more traction,
+it has its ups and downs,
+from a volatility perspective,
+or even government and public's attention to focus on.
+
+is some of it's features, for example,
+the Bitcoin is decentralised,
+has no central authority,
+it's instantaneous, generally low cost,
+it's borderless,
+
+and you know, what's quite interesting,
+has only a fixed supply.
+There will only be 21 million Bitcoin ever mined.
+
+it also has some challenges;
+for example, it's still not very user-friendly to use
+for a general public, if you're trading cryptocurrencies,
+and you lose your private keys,
+well, they're gone forever.
+
+the electricity cost for Bitcoin
+is often heard to discuss
+that is actually not very environmentally friendly
+to actually mine Bitcoins.
+
+And the other more market-driven issues as well.
+For example, the volatility.
+Very difficult to pay for goods
+or argue for a value for goods in Bitcoin
+if the value is actually very volatile.
+
+What's very, very important to understand
+is that each cryptocurrency out there
+has different characteristics and has different features,
+making them each one appropriate
+for certain type of transactions that you have.
+Whether it's payment or as a store value.
+But what's definitely clear is
+that the industry is really booming.
+
+As the beginning of 2018,
+there was more than 300 billion dollars
+in market cap in cryptocurrencies.
+And a lot of interesting developments
+were taking place as well.
+
+For example, we were seeing institutional investors
+enter the space,
+which is very interesting.
+Many of them are saying that
+this is actually the birth of a new asset class.
+We're also seeing a lot of new crypto products.
+
+For example, asset-back crypto,
+where you have a crypto asset backed by
+real life assets like gold, cash,
+or securities, for example.
+
+And also, it's becoming very interesting
+when we're seeing a lot of central banks
+look at launching their own
+central-bank-backed digital currencies.
+
+
+
+---
+
+#### Module 2 Payment, Cryptocurrencies and Blockchain   2.8 Cryptocurrencies   Quick Check 2.8
+
+Which of the following is a potential challenge for cryptocurrencies?
+* (A) Causing harm to the environment
+* (B) Volatility
+* (C) Risk of losing private-keys
+* (D) Risk of getting hacked
+* (E) All of the above
+
