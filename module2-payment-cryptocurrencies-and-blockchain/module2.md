@@ -1177,3 +1177,124 @@ across a number of areas.
 
 #### Module 2 Payment, Cryptocurrencies and Blockchain   2.9 What is Blockchain?   Video 2.9B What is Blockchain? (Part 2)
 
+Now, if we look at blockchains,
+within this general structure
+we will often have a third level added.
+So, DLT plus cryptography plus smart contracts.
+What are smart contracts?
+
+Smart contracts are automated systems
+that on the occurrence of pre-determined actions
+something else happens.
+If I provide A, you provide B
+we pre-agree that A and B will be added together
+to create a new C,
+and this occurs on an automatic basis,
+this is a smart contract.
+
+There is an old joke that smart contracts
+are neither smart nor contracts,
+they are not smart because they are automated,
+they happen automatically,
+on the occurrence of something / events.
+And they are not necessarily contracts,
+but that is a more complicated legal question for later.
+
+Within this idea of blockchain,
+we can also add in a second important determination.
+Blockchains can either be
+permissionless, or permissioned.
+
+A permissionless blockchain, like bitcoin,
+means that it is open,
+anyone can participate that downloads the software.
+You download the software, you become a node,
+you'll have a full picture of the ledger,
+that distributed ledger is distributed to your node,
+anyone can enter.
+
+A permissioned blockchain,
+involves requirements or governance structures
+or restrictions on entry.
+In other words, only individuals or organisations
+or computers or devices which have been pre-approved
+can join into the network,
+can access the information
+and can potentially contribute transactions.
+
+Now, when we think about blockchain,
+it may or may not involve cryptocurrencies.
+A cryptocurrency will involve a blockchain,
+but a blockchain does not necessarily
+involve a cryptocurrency.
+
+In other words if we think of a blockchain based system
+at its base, it is a distributed ledger
+which is encrypted, maybe with an additional layer
+of smart contracts on top.
+
+Those individual data entries, can be anything.
+The communications between those data entries
+do not necessarily involve any sort of currency.
+
+One of the most interesting and powerful applications
+for this sort of thing,
+is in production processes,
+the food market where the providence of a chicken,
+or a bottle of whiskey
+can be proven by the blockchain system
+from its creation, its history, its movements
+documented throughout that system.
+
+![image](https://user-images.githubusercontent.com/16638078/41255800-bdc8f500-6d95-11e8-8fe9-98c6087394b4.png)
+
+
+So, any eventual possessor
+can document both the origin
+as well as the lifespan of that particular chicken,
+bottle of whiskey, diamond, artwork,
+
+And that is the real power of blockchain.
+To build systems
+which are potentially highly secure,
+permanent and highly transparent.
+
+But, blockchain is not the solution
+for every problem, why?
+Because not every blockchain is created equally.
+**not every blockchain is necessarily secure**.
+Big blockchain systems like Ethereum or Hyperledger
+or R3's quarter, or bitcoin,
+these are highly secure.
+But if I create a blockchain in my basement,
+probably not that secure.
+
+Second, from the standpoint of
+permanence and transparency,
+this raises two problems.
+One, is **the garbage in - garbage out** problem
+in other words if you put that information in,
+it's in there forever, and that is a big problem
+in the context of building histories,
+
+And finally, privacy concerns.
+If information goes into,
+a permissionless public blockchain,
+that information may be permanently
+on public display and access,
+and this can create all sorts of problems
+
+---
+
+#### Module 2 Payment, Cryptocurrencies and Blockchain   2.9 What is Blockchain?   Quick Check 2.9
+
+According to the video, blockchain...
+* (A) is the underlying technology of Bitcoin only.
+* (B) is impossible to hack.
+* (C) can be permissioned.
+* (D) definitely involves a cryptocurrency.
+
+---
+
+#### Module 2 Payment, Cryptocurrencies and Blockchain   2.9 What is Blockchain?   Additional Video Resources: Blockchain
+
