@@ -836,3 +836,13 @@ like digital currencies or cryptocurrencies.
 
 #### Module 2 Payment, Cryptocurrencies and Blockchain   2.7 Building A New Stack   Additional Video Resources: Cross-Boarder Payment
 
+1. [SWIFT Overview](https://www.youtube.com/watch?v=Knwecb2Lx8g)  (2.49 Mins)
+2. [SWIFT for Banks](https://www.youtube.com/watch?v=RB-lKNlC6FI) (2.45 Mins)
+3. [The Future of Cross-Border Payments](https://www.youtube.com/watch?v=PwsfuVBaPAk) (2.27 Mins)
+4. [Watch Traffic for Banking: BI that gives you the edge](https://www.youtube.com/watch?v=c0fx5-LP1xc) (2.01 Mins)    
+
+
+---
+
+#### Module 2 Payment, Cryptocurrencies and Blockchain   2.8 Cryptocurrencies   Video 2.8 Cryptocurrencies
+
