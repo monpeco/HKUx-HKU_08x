@@ -1098,3 +1098,82 @@ develop to resolve laws that collide.
 
 #### Module 2 Payment, Cryptocurrencies and Blockchain   2.9 What is Blockchain?   Video 2.9A What is Blockchain? (Part 1)
 
+### Video 2.9A What is Blockchain? (Part 1)
+
+Cryptocurrencies, blockchain, ICOs.
+These are three terms
+that are in the headlines daily all over the world.
+Blockchain is the underlying technology
+which came to prominence with
+the launch of Bitcoin in 2009,
+but what is blockchain?
+Blockchain combines two long-standing
+technological developments.
+On one side, distributed ledger technology,
+and on the other, cryptography.
+
+If we look at Bitcoin, if we look at cryptocurrencies,
+cryptocurrencies at their base
+are **blockchain systems combining
+distributed ledger systems and cryptography**.
+
+**what is a distributed ledger system?**
+For a system like Bitcoin,
+the distributed ledger
+means that the information in the system
+are not stored in one single place.
+Rather, they exist in multiple locations,
+multiple identical ledgers
+throughout the users of the system.
+
+Distributed ledgers mean that there is no single place
+where the information, the valuables,
+the data are stored,
+rather they are stored
+across a variety of identical locations.
+
+**Cryptography** is a technology that involves
+the secure storage,
+the encryption of information.
+It has a very long history with important points
+going back to code breaking,
+particularly in the Second World War.
+
+If we combine distributed ledger technology
+with cryptography, we have a system
+of secure distributed ledgers
+where entries have to be proven,
+proven through the use of a variety of structures
+which then encrypt the data into blocks.
+
+So transaction are packaged, encrypted together, then the next
+transaction build in that package, and encrypted together. This
+structure provides a number of very important attributes to a 
+blockchain-based system.
+
+In particular, it provides for **security**.
+The layers of cryptography across multiple blocks
+make it very hard, but importantly not impossible,
+to necessarily break those blocks
+making blockchain potentially a highly secure system.
+
+Second, it's a **permanent** system.
+In other words, each of those transactions
+is recorded permanently in each of those blocks.
+That means that there is always a traceable history
+of all of the financial transactions
+going back to the very beginning.
+
+And finally, **transparency**.
+Transparency means that the combination of visibility
+allows you to see what is happening in the blockchain.
+This combination of security, permanence,
+transparency, makes blockchain a potentially
+very powerful platform technology
+across a number of areas.
+
+
+---
+
+#### Module 2 Payment, Cryptocurrencies and Blockchain   2.9 What is Blockchain?   Video 2.9B What is Blockchain? (Part 2)
+
