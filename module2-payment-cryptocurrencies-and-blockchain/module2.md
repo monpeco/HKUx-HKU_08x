@@ -723,3 +723,116 @@ and incorporate into their operations.
 
 #### Module 2 Payment, Cryptocurrencies and Blockchain   2.6 The ABCDs of Alternative Finance (Parts 1 & 2)   Quick Check 2.6
 
+Which of the following was NOT mentioned as one of the paradigms of the "ABDCs of Alternative Finance" in the video?
+* (A) Artificial Intelligence
+* (B) Blockchain
+* (C) Computer correcto
+* (D) Data
+
+---
+
+#### Module 2 Payment, Cryptocurrencies and Blockchain   2.7 Building A New Stack   Video 2.7 Building A New Stack
+
+
+In the **19th Century**, we developed
+the current payment stack
+based upon physical money like gold,
+paper money representing gold,
+instruments like securities,
+negotiable instruments, checks,
+all cleared through a banking system
+that collected fund transfers
+and settled across the accounts of a central bank
+which was responsible for the monetary supply.
+
+Across the **20th Century**,
+we digitised this system.
+We transformed it from a system
+which was based on physical analogue elements
+to a digital system of payments,
+of eventually, mobile payments, RTGS systems,
+and digital electronic payments
+totalling over five trillion US dollars a day.
+
+At the **beginning of the 21st Century**,
+we are applying a process of datafication,
+applying techniques of big data,
+artificial intelligence and other mechanisms
+to use the digitised data to transform
+the payment experience to provide
+a seamless mobile lifestyle experience.
+We however are now going further.
+
+We are looking at developing
+an entirely **new payment stack**
+through the use of technology.
+Technology today is no longer a barrier
+to redesigning a payment system.
+Instead, our existing institutional frameworks
+are the barrier and, looking forward,
+we can easily see an increasing use of
+real-time payments
+which could either take place
+across the banking system
+or new entrants like tech companies
+or directly eliminating the role of banks themselves,
+the idea of **disintermediation**,
+
+and we are actually seeing
+these processes in real life in the context of China
+with Alipay, with WeChat Pay,
+in the context of the UK
+and an increasing number of jurisdictions
+with faster payment systems
+allowing real-time, instantaneous payments
+between individuals and companies
+both through the banking system
+or outside of the banking system,
+
+we can imagine
+how this fundamental payment infrastructure
+can be the base of a new stack based on payment
+supporting e-commerce,
+supporting lending,
+supporting investment.
+If we think of e-commerce,
+one of the fundamental killer apps to e-commerce
+is simple, digital, and in particular,
+mobile-based payment systems.
+On the basis of those mobile-based payment systems,
+one can also build digital lending frameworks
+both for consumer lending for individuals,
+as well as for small and medium-size enterprises
+using data analytics technology to collate data
+to do real-time cashflow analysis
+to determine credit worthiness
+and finally, pulling all of these pieces together,
+we can build systems of investment,
+systems which allow both individuals
+as well as the wider economy
+to better invest their funds
+in order to support the development of the economy.
+
+On the basis of this framework,
+we are also seeing
+an increasing number of jurisdictions
+led by the European Union
+developing what is called open banking.
+Open banking allows access to banking data
+and banking infrastructure by new entrants,
+by tech firms, by startups,
+and this poses a major challenge
+to the traditional model of banking
+and, at the same time as we look at digitising
+and datafying the system,
+we are also looking at new technologies like blockchain,
+and new forms of money and payment
+like digital currencies or cryptocurrencies.
+
+
+
+
+---
+
+#### Module 2 Payment, Cryptocurrencies and Blockchain   2.7 Building A New Stack   Additional Video Resources: Cross-Boarder Payment
+
