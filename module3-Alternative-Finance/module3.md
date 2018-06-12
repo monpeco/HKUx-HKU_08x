@@ -163,3 +163,133 @@ Why was Florence a prominent banking centre in medieval Europe in the 14th centu
 #### Module 3 Alternative Finance   3.3 Digitization of Financial Services   Video 3.3 Digitization of Financial Services
 
 
+**Financial investment** and trading
+can best be understood as
+comprising of two groups.
+
+First, **retail investment and trading
+of public companies** is conducted
+by the general public on exchanges
+through brokers and dealers.
+
+Second, **institutional investment and trading**
+involves large financial institutions
+who buy and sell publicly listed securities
+between each other.
+
+In the meantime,
+the investment into private companies
+has been the remit of specialised investors,
+such as venture capital and private equity firms,
+with so called exit or liquidity events
+being an initial public offering
+into the public markets
+or trade sale of the business.
+
+The venture capital firms
+on Sand Hill Road in Menlo Park, California,
+were likely instrumental in investing and growing
+what become known as Silicon Valley.
+Including their successes in hardware
+being turned into software and the internet
+that gave rise to the dot com boom.
+
+One major development at that time
+was when online brokerage firm E*Trade
+was able to get allocations
+to some of the hot tech IPOs.
+
+Electronic banking also started expanding
+as major banks extended services to consumers
+who were increasingly coming online
+with the lowering costs
+and increasing ease of access.
+
+At the same time,
+institutional trading expanded dramatically,
+with alternative trading systems and **dark pools**
+allowing financial institutions to trade
+large blocks of securities at one time
+to minimise pricing impact.
+
+At the same time,
+proprietary trading at desks invested and develop
+**automated algorithmic trading programmes**,
+as well as high frequency trading programmes
+that use computational power
+to devise trading strategies
+and automate trading in ways no human could.
+
+The global financial crisis in 2007
+changed the landscape dramatically.
+After the bursting of the sub prime mortgage bubble,
+and the rapid devaluation of financial instruments,
+such as mortgage backed securities
+and credit default swaps,
+many major financial institutions collapsed,
+or needed to be bailed out by their governments.
+
+Lending then dried up by many traditional lenders,
+and many governments sought to encourage
+the emergence of new players and business models
+that provided alternative finance
+to individuals and businesses.
+
+At the same time,
+**2010's flash crash**
+saw the Dow Jones Index drop
+nine percent within minutes
+and was subsequently attributed
+to high frequency traders initialling,
+spoofing algorithms
+that placed thousands of orders
+with intention of cancelling them.
+The automatic shutting down
+of many automated computerised traders
+due to the extreme drop
+also led to a rapid loss of liquidity.
+
+In the European Union,
+challenger banks were encouraged
+and has culminated
+in open banking policies such as
+the payment services directive,
+which forces banks to produce customer data
+to make it **easier for customers
+to switch financial providers**.
+Some of these banks were also virtual banks,
+with no branches at all.
+
+In the United States,
+a stark reminder that
+it was not business as usual
+can be seen in the before and after pictures
+of UBS's famed trading floor in Stanford, Connecticut.
+This was once the largest in the world
+with 5,000 stock, bond and currency traders.
+
+The global financial crisis resulted,
+amongst other things,
+in the passing of **Dodd-Frank**,
+which prohibited proprietary trading by banks,
+and the **Jump Start Our Business Startups Act**,
+or JOBS Act in 2012,
+which legitimised the concept
+of equity crowdfunding in law.
+The era of distributed peer-to-peer models
+of finance was born.
+
+---
+
+#### Module 3 Alternative Finance   3.3 Digitization of Financial Services   Quick Check 3.3
+
+The rise of P2P lending after the 2008 Global Financial Crisis was encouraged because:
+* (A) Bank credit became more easily available
+* (B) regulators loosened regulation of banks
+* (C) RTGS systems were opened to individuals instead of only banks
+* (D) None of the above
+
+---
+
+#### Module 3 Alternative Finance   3.4 FinTech & Funds   Video 3.4 FinTech and Funds
+
