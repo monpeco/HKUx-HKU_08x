@@ -958,3 +958,200 @@ iv. Reductions in bank costs
 
 #### Module 3 Alternative Finance   3.7 The Rise of Chinese TechFins – New Models and New Products   Video 3.7 The Rise of Chinese TechFins
 
+In December 2016, Alibaba's founder Jack Ma,
+coined the phrase "TechFin",
+"FinTech takes the original financial system
+and improves its technology",
+Ma Yun told South China Morning Post's
+China Conference in Hong Kong.
+
+> "TechFin is to rebuild the system with technology."
+
+Another way to think about it is that
+where financial institutions
+and FinTech startups seek to improve
+or upend the existing financial system in FinTech,
+tech companies approach this issue
+from a different and more consumer and
+technology centric perspective in TechFin.
+
+![image](https://user-images.githubusercontent.com/16638078/41381684-ee675ccc-6f36-11e8-9e8a-5e5b268c3038.png)
+
+It is instructive to compare the rise of
+American tech giants to those from China,
+to better understand their difference
+in origins and approaches.
+
+
+China's tech giants are commonly known as
+the BATs: 
+* Baidu, 
+* Alibaba 
+* and Tencent.
+
+In the United States, a commonly known acronym
+is the GAFAs: 
+* Google, 
+* Apple, 
+* Facebook 
+* and Amazon.
+
+During the dotcom boom and web 2.0,
+today's Silicon Valley tech giants grew
+mainly using advertising or "eyeball" models
+that relied on generating more viewers.
+Examples of these include
+search engines like Google
+and social media portals like Facebook.
+Apple was then primarily a hardware manufacturer,
+and e-commerce pioneers like
+marketplace platform eBay,
+which acquired PayPal in 2002
+to power it's transactions,
+and online bookseller Amazon booked the majority
+of its transactions via credit cards.
+
+
+In contrast, in China
+where credit card penetration remained low,
+the tech giants incorporated transactions
+into their platforms from the very beginning.
+Hangzhou based Alibaba started as
+a business-to-business or B2B platform,
+and when it transitioned more
+to a business-to-consumer or B2C platform,
+with the introduction of online retailer Taobao,
+it extended its sister company's payment system,
+now known as Alipay, to consumer transactions.
+
+Instead of Amazon's money-back guarantee,
+Alibaba provides comfort to its retail consumers
+by keeping payments of goods in a deposit account
+that is not released until receipt
+and approval of the goods by the customer.
+
+Yu'eBao or "leftover treasure" was born
+when Alibaba started offering interest
+to customers who kept their funds in this account
+at rates higher than bank deposits.
+The Wall Street Journal reported that in just four years,
+Yu'eBao had accrued 370 million account holders
+and 211 billion dollars in US assets
+to be twice the size of the next largest
+money market fund JP Morgan Asset Management.
+
+Shenzhen-based online gaming company Tencent
+built in micropayments early because
+its freemium business model was based on
+gamers making in-game payments for
+its free-to-play games,
+to buy say, awesome virtual swords.
+When the company transitioned into mobile
+and introduced instant messaging
+through QQ for youth and then WeChat,
+they captured an amazing userbase
+of nearly one billion active users
+who learned to transact online through inventions
+like hongbao where users can give
+and receive traditional red packets for mere cents.
+
+WeChat now also allows users to use
+and transact via third party mini-apps,
+including financial ones,
+without even exiting the instant messaging ecosystem
+to open new apps.
+
+In 2015, Tencent launched WeBank,
+China's first online only bank,
+using sophisticated credit analysis
+based on WeChat social media usage
+and online purchase patterns,
+that is also offered to service traditional lenders.
+
+Quick Response codes, or QR codes,
+are also rapidly changing China into a cashless society.
+Being built into WeChat and many other apps,
+China's smartphone users can use scannable codes
+to facilitate offline-to-online,
+or O2O transactions, connect with others
+to replace the venerable business card,
+as well as to make payments.
+
+Financial supermarkets are also proliferating.
+For example, Alibaba's Zhao Cai Bao
+offers fixed term deposit products
+from third-party financial institutions or individuals,
+mutual funds, and stock market information.
+These compare with distribution platforms
+traditionally accessible only to
+to institutional fund managers
+and to existing retail sales distributions
+via banks or retail fund managers.
+
+In the meantime, in the West,
+the GAFAs are not sitting idly by.
+Facebook's messaging app WhatsApp
+is incorporating a lot of
+WeChat's innovative features.
+Apple has since developed a tremendous
+and very sticky online ecosystem
+with App Store and iTunes.
+
+And Amazon's Prime has paved the way
+for subscription based models,
+for content such as its competitor Netflix,
+to show that users are willing to pay
+for quality movie, television and music content.
+
+
+Most importantly, they are also investing heavily
+in the next generation
+of ABCD technologies and infrastructure, namely,
+artificial intelligence, blockchain, cloud, and data.
+How long will it be before GAFA are inspired
+by their Chinese BATs counterparts to use
+their digital nous, consumer-centric mindsets
+and broad user-base clout to directly
+participate and compete in finance?
+
+
+Tech giants have brands that are trusted
+especially amongst younger financial consumers
+at a time when banks have lost trust
+after the global financial crisis.
+Yet, traditional finance and banks are used to
+working within highly regulated environments
+that many tech companies have not yet
+fully come to grips with.
+The Silicon Valley ethos that
+"it is easier to ask for forgiveness
+than to seek permission"
+works just fine in the internet industry,
+where lines of code can be corrected
+and changed overnight on a website.
+It works less well
+in a highly regulated industry like finance.
+
+
+---
+
+#### Module 3 Alternative Finance   3.7 The Rise of Chinese TechFins – New Models and New Products   Quick Check 3.7
+
+Which of the following companies is NOT one of China's BATs?
+* (A) Amazon
+* (B) Alibaba
+* (C) Baidu
+
+---
+
+#### Module 3 Alternative Finance   3.7 The Rise of Chinese TechFins – New Models and New Products   Additional Video Resources: Chinese TechFin
+
+### Additional Video Resources: Chinese TechFin
+
+1. [What is Alipay?](https://www.youtube.com/watch?v=t5ElQaVjQZE)(2.30 Mins) 
+
+
+---
+
+
+
