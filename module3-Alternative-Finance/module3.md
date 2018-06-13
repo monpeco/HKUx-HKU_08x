@@ -817,4 +817,144 @@ Which of the following is NOT a reason why businesses use rewards crowdfunding p
 
 #### Module 3 Alternative Finance   3.6 P2P and Marketplace Lending   Video 3.6 P2P and Marketplace Lending
 
+### P2P and Marketplace Lending
+
+Crowdfunding for debt emerged
+almost in parallel with crowdfunding in equity.
+Known as peer-to-peer lending or P2P lending
+or crowdlending, the size of this market
+was perceived to be even bigger,
+as it encompasses not just unsecured business
+and SME loans but the personal finance sector.
+In the aftermath of the global financial crisis,
+many governments became very supportive
+of this form of alternative finance
+
+The basic concept is simple.
+In a low-interest-rate environment,
+many individual savers
+sought alternative avenues for investment
+at a time when banks had reduced their lending.
+Through an online platform,
+borrowers are listed to be matched by lenders
+who benefit from a higher return
+due to the lower overhead costs.
+
+The concept can be traced back to **Kiva**,
+a micro-lending platform inspired
+by microfinance founder Muhammad Yunus,
+which allowed loans to be made to individuals
+in rural communities within developing countries.
+
+
+In the United Kingdom,
+platforms such as **Zopa**
+and Funding Circle expanded P2P lending rapidly.
+
+In the United States,
+companies like **Prosper**
+and **LendingClub** grew exponentially,
+with the latter being the first
+P2P lending company to IPO in 2014.
+
+**Credit analysis** is critical in this sector
+of unsecured loans
+which do not enjoy government guarantees.
+How do you know the individuals
+or businesses will repay the loan?
+
+To address the risks, loans often have
+short tenors, and some platforms
+introduced secured loans and trust accounts.
+There was also a regulatory lacuna as loans
+are not on their face securities.
+This was a situation that changed
+in the United States in 2008
+when the SEC extended jurisdiction
+over such P2P-lending platforms.
+
+
+Two trends began emerging.
+First, many categories of loans emerged
+on specialised platforms,
+from consumer lending to business lending,
+real-estate lending, student loans
+and payday loans linked to wages paid.
+Second, individual lenders started getting dwarfed
+by institutional lenders and investors,
+so that instead of being called peer-to-peer lending,
+the sector became known as marketplace lending.
+
+In the meantime, the combination
+of a lighter regulatory touch,
+rising middle class
+and the lack of investment alternatives
+led the P2P-lending market in China to explode.
+It was primarily when CreditEase listed
+its Yirendai unit in 2015 that the West realised
+the size of loans originated
+and the number of borrowers in China dwarfed that
+of the largest US platform lenders.
+
+However, problems emerged in this area
+of China's shadow banking,
+and the 2016 Blue Book of Internet Finance found
+1,263 namely 1/3 of China's P2P platforms problematic.
+For example, in 2017, a Chinese court concluded
+that P2P-lender Ezubo defrauded
+more than 900,000 investors of 50 billion yuan,
+or US $7.6 billion, under a Ponzi scheme,
+and two of its founders were
+sentenced to life imprisonment
+and 24 executives were jailed for three to 15 years.
+
+China's regulators have since been tightening
+P2P-lending rules,
+such as requiring custodian banks to be appointed,
+imposing borrowing and interest caps, and recently
+preventing microfinance lending companies and banks
+from respectively raising and funding P2P loans.
+
+The new generation of P2P-lending companies
+appear to be veering away as lending platforms
+to become innovative credit analysis services
+that incorporate analysis of social media usage
+and online purchase patterns that can be used
+by traditional banks and bank syndicates.
+
+Similarly, P2P insurance has evolved
+and has been described as evolving from
+a distribution model to a carrier model
+and now a self-governing model.
+
+![image](https://user-images.githubusercontent.com/16638078/41381248-1cb794ea-6f35-11e8-935d-2ace535dcc16.png)
+
+
+The evolution of P2P lending
+provides useful lessons
+for the development of the current darling of
+distributed peer-to-peer models of finance,
+namely, cryptocurrencies and token sales.
+
+
+---
+
+#### Module 3 Alternative Finance   3.6 P2P and Marketplace Lending   Quick Check 3.6
+
+Which factor has contributed to the growth of the P2P sector?
+
+i. Increased bank regulation in the wake of the 2008 financial crisis.
+ii. Banks increasing loan availability to SMEs
+iii. A low interest rate environment
+iv. Reductions in bank costs
+
+
+(A) i and ii
+(B) i and iii
+(C) ii and iv
+(D) iii and iv
+
+---
+
+#### Module 3 Alternative Finance   3.7 The Rise of Chinese TechFins – New Models and New Products   Video 3.7 The Rise of Chinese TechFins
 
