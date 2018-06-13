@@ -652,3 +652,169 @@ for financial service providers, as well as, customers.
 #### Module 3 Alternative Finance   3.5 Crowdfunding – Regards, Charity and Equity   Video 3.5 Crowdfunding – Rewards, Charity and Equity
 
 
+### Crowdfunding – Rewards, Charity and Equity
+
+The concept of crowdfunding
+is not as new as many may think.
+The Statue of Liberty was famously known as
+a gift from the French people
+to commemorate the American Revolution.
+What is less known is that there was
+not enough funding for the base of the statue
+and thus was actually crowdfunded by
+Joseph Pulitzer by placing appeals
+in the New York World newspaper in 1885
+seeking contributions.
+
+Crowdfunding's modern incarnation gained popularity
+when Kickstarter launched in 2009
+as an online platform to fund
+creative projects campaigns
+in exchange for rewards.
+
+Although not its' initial main target audience,
+Kickstarter became a favourite amongst
+hardware enthusiasts who wanted to
+fund minimum-batch-order production runs
+of electronics in Shenzhen
+and sought other enthusiasts to help with funding
+and receive part of the batch run as rewards.
+Gradually it became used more for pre-marketing
+and product validation of
+prototype consumer electronic, and other products,
+and even incorporated by hardware accelerators
+and venture capitalists.
+
+Some of the most funded Kickstarter campaigns
+were to fund smartwatch Pebble,
+the Connected Coolest Cooler,
+a Baubax, the travel jacket
+made for electronic accessories.
+
+Crowdfunding has been used
+to benefit charities as well.
+With sites like gofundme
+having raised three billion U.S. Dollars
+from over 25 million donors
+across two million campaigns.
+In China, Tencent's '99 Charity Day' in 2017
+raised approximately 930 Million Yuan
+or 126 Million U.S. Dollars from
+over 12 million Wechat users
+for charities running 6700 programmes
+over a three-day period.
+
+Many other crowdfunding platforms
+have since emerged with different levels of curation.
+For example, IndieGoGo does not have
+a minimum all-or-nothing funding goal,
+and does not require a working prototype.
+
+More specialised platforms around sectors
+or themes have also emerged.
+Yet, before too long,
+some backers began to question
+this rewards approach.
+In late 2012 Oculus Rift's 19 year-old founder
+raised 2.4 million U.S. Dollars
+offering it's virtual reality
+head-mounted display as rewards.
+Yet, less than two years later,
+he sold the company to Facebook for two billion dollars.
+
+Were rewards backers chumps?
+If they could have received substantial upside
+by receiving equity in Oculus Rift,
+rather than V.R. Headgear?
+
+In 2012 Congress passed the JOBS Act
+which amongst other things legitimised
+the concept of equity crowdfunding.
+And in 2015, the SEC passed the Title IV regulations.
+Many other countries around the world followed suit
+to pass crowdfunding laws to encourage innovation,
+and to allow direct retail investment into
+early stage companies to augment current reliance
+on private placement exemptions from
+professional investors like venture capital firms,
+and high-net-worth individuals.
+
+The World Bank has predicted that
+crowdfunding investments will be
+a US$96 billion a year market
+in developing countries alone by 2025.
+
+And Goldman Sachs' analysts have heralded
+crowdfunding as potentially the most disruptive
+of all the new models of finance.
+In essence, online capital marketplaces
+have three main facets.
+
+First, digital access by the general public
+to learn more about,
+and for the information to be posted by projects online.
+
+Second, easy to use and secure fund flow
+from the general public to support these projects.
+
+And third, marketplaces where there is
+sufficiency of information for decisions to be made
+about the project and its' promoters that
+enable matchmaking of projects
+to the potential supporters.
+
+So unlike traditional stock markets which
+relied upon brokers and dealers as intermediaries,
+individual investors could transact directly
+which lead to many to describe this as
+disintermediation and democratisation of finance.
+
+Entrepreneurship and SMEs are well recognised as
+important drivers of employment and innovation.
+And television shows like **Shark Tank** in the U.S.
+And **Dragon's Den** in the U.K. popularised
+and encouraged the notion of entrepreneurs
+seeking such early stage funding for their projects
+and the general public's willingness and ability
+to participate in these kinds of investment decisions
+from their living room chairs.
+
+If securities in the form of equities
+or investment products are being offered
+existing securities
+and collective investment scheme laws and regulations
+require perspectives to be prepared for
+public offers unless they are private placements
+made to sophisticated investors.
+
+Crowdfunding legislation introduced specifically
+recognised such limitations of existing laws
+and are designed to allow SMEs and entrepreneurs
+to be able to more cost-effectively tap
+funding from the general public
+with specific consumer protection elements built in.
+Examples of these elements include
+limiting the size of qualified companies,
+capping investor, investment amounts,
+and requiring investor cooling-off periods.
+Minimum disclosure and lockups
+as well as licensing the marketplace portals.
+Yet, equity was just the first financial instrument
+to utilise this new distributed
+peer-to-peer model of finance.
+More was to come.
+
+---
+
+#### Module 3 Alternative Finance   3.5 Crowdfunding – Regards, Charity and Equity   Quick Check 3.5
+
+Which of the following is NOT a reason why businesses use rewards crowdfunding platforms?
+* (A) Raise sufficient capital to start production.
+* (B) Look for a venue to split equity in the company.
+* (C) Use popular crowdfunding campaigns to market financial products.
+
+---
+
+#### Module 3 Alternative Finance   3.6 P2P and Marketplace Lending   Video 3.6 P2P and Marketplace Lending
+
+
