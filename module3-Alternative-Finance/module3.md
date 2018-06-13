@@ -499,3 +499,89 @@ What is the main reason hedge funds rely increasingly on Big Data and Machine Le
 
 #### Module 3 Alternative Finance   Industry Showcase: How AI is Transforming the Future of FinTech (Microsoft)   Industry Showcase: How AI is Transforming the Future of FinTech (Microsoft)
 
+### Industry Showcase: How AI is Transforming the Future of FinTech (Microsoft)
+
+how AI technologies
+and big data analytics could integrate
+with your FinTech technologies.
+
+Smarter computers, algorithms,
+and dedicated AI systems
+enable smarter decision-making,
+deeper learning.
+
+And the combination of artificial intelligence
+and big data,
+allow us to understand better how people,
+how they spend the money, their health,
+as well as the lifestyle.
+
+For example, intelligent banking.
+It is all based on the "always on" customer,
+and predicting his or her financial needs
+at a certain point of time.
+
+Thus, it's not just about the bank,
+but providing products and services
+through one channel,
+a single interface that can maximise
+your customer experience,
+and hence centricity.
+
+However, building those trusts from your customers
+is still one of the biggest challenges for FinTech.
+And in Microsoft, we are trying our best
+to gain and build lots and lots of trust
+from our customers.
+And here are a few examples:
+
+**If P&C Insurance** is a world-leading
+property and casualty insurance company
+that serves over 3 millions of customers
+in the Nordic region:
+
+* **if** actually leveraging our Cortana Analytics Suite
+to perform Churn analytics.
+In other words, predicting whether their customers
+will cancel the policy in a 40-day window
+surrounding the renewal dates.
+
+* they're doing upsell prediction.
+Basically, finding the probability of success
+of upsell communication to a given customer.
+
+* they are applying text analytics algorithms
+on their inbound emails from their customers.
+So, they could now better understand their customers,
+classify those emails,
+and better serve their customers.
+
+
+Another example is **Novum Bank**.
+Novum Bank will like to
+assess the credit-worthiness of their customers.
+
+Especially in the poor credit information markets.
+With Microsoft, they actually built
+an automated psychographic credit-scoring engine,
+running on Azure, for onboarding.
+In return, the acceptance rate was increased by 18%,
+and they actually rejected
+bad customers formerly accepted.
+
+**CallCredit**, one of the UK's largest
+credit reference agencies.
+They're actually leveraging Azure machine learning
+to identify criminals who pretend people
+to access credit reports, and borrow money.
+With all these machine learning and AI tools,
+CallCredit can now proactively spot people
+who will actually fail to pay back their loans.
+
+https://www.callcredit.co.uk/
+
+
+---
+
+#### Module 3 Alternative Finance   Industry Showcase: Ensuring Compliance from the Start: Suitability and Funds (Investment Navigator)  Industry Showcase: Ensuring Compliance From the Start: Suitability & Funds (Investment Navigator)
+
