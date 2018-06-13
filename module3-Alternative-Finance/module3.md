@@ -585,3 +585,70 @@ https://www.callcredit.co.uk/
 
 #### Module 3 Alternative Finance   Industry Showcase: Ensuring Compliance from the Start: Suitability and Funds (Investment Navigator)  Industry Showcase: Ensuring Compliance From the Start: Suitability & Funds (Investment Navigator)
 
+
+### Industry Showcase: Ensuring Compliance From the Start: Suitability & Funds (Investment Navigator)
+
+Over the last few years we have seen
+and experienced a wave of regulations
+in the financial services industry
+all around the world.
+Typically, new regulations strive
+for an increase of investor protection.
+
+Because of this wave of regulations,
+it is increasingly difficult
+for financial service providers
+to stay compliance
+when conducting investment advice
+whether it is in person or via robo-advisory.
+Having pre- and post-trade checks in place
+is not optional for banks,
+it's mandatory to stay in business.
+
+FinTech can help to establish such robust processes
+by replacing error-prone
+and inefficient manual compliance checks
+with automated solution along the investment
+and advisory value chain.
+
+In our case of investmentnavigator.com,
+technology enables
+the entanglement of client context,
+regulatory rules and product data
+to assess suitability on the individual instrument level.
+By acting upon suitability feedbacks,
+banks can not only significantly reduce regulatory risks
+and save time through the automation,
+but also level up the client experience.
+
+They get enabled to offer
+the most cost-efficient suitable investment instrument
+for the respective client context.
+A very tangible benefit also for the client.
+
+Behind the scenes,
+the cloud-based rule engine
+is the technological heart of Investment Navigator,
+which allows us to deliver coherent suitability feedbacks
+into every application along the investment
+and advisory value chain.
+It is therefore strategic for us
+to provide our clients the complete freedom
+to consume our Suitability Service
+via one or several channels.
+
+We currently maintain customised webpages,
+an API to integrate into proprietary advisory tools
+a core-banking adapter and an Excel add-in.
+To sum-up, as a B2B FinTech company,
+we believe that by pairing technology
+with subject matter intelligence,
+we simplify financial advice.
+That's how FinTech creates a "win-win" situation
+for financial service providers, as well as, customers.
+
+---
+
+#### Module 3 Alternative Finance   3.5 Crowdfunding – Regards, Charity and Equity   Video 3.5 Crowdfunding – Rewards, Charity and Equity
+
+
