@@ -1153,5 +1153,145 @@ Which of the following companies is NOT one of China's BATs?
 
 ---
 
+#### Module 3 Alternative Finance   3.8 ICOs   Video 3.8 ICOs
 
+
+### ICOs
+
+**what is an ICO?**
+
+An ICO is short for **Initial Coin Offering**,
+often referred to as a token sale.
+It's a limited period of time in which
+a company sells a predefined number of
+**digital tokens** to the public.
+
+**But what is this really?**
+
+You know to really simplify things
+a good analogy is, well if we make a comparison
+to what happens in real life?
+Let's take a private club,
+let's say tomorrow I want to build a private club
+and I come to you and I say,
+hey, I want to build a private club.
+Here's where the swimming pool's going to be,
+this is where the restaurant is going to be
+and these are where the tennis courts are going to be
+and it's going to be the best private club in the world.
+But in order to enjoy the facilities,
+you need to be a member.
+If you want to...
+you have to be a member to be able
+to enjoy the facilities.
+Yes, you still need to pay for your breakfast,
+or when you're at the tennis club,
+but to join the club, you need to be a member.
+
+And that is really if we really generalise what ICOs are.
+They are selling these memberships
+to this ecosystem that people can use.
+
+
+**why is somebody doing this?**
+Why wouldn't they simply issue shares
+in the company for capital?
+Well, there's a couple differences.
+In most ICOs, the tokens that you're issuing:
+
+* have no economic rights, 
+* no voting rights
+* and they're generally outside the scope or the traditional regulatory framework.
+
+This is different from when you issues shares
+in exchange of equity for your business
+where you often get a calmer exposure
+to your business,
+you have voting rights
+and there's a pretty well clear and established path
+of how you can raise money in that way.
+
+And this is actually a very interesting way
+of actually generating value where people
+are trying to build their ecosystems
+and actually doing ICOs for doing so.
+
+**But why do you think
+a lot of entrepreneurs are doing this?**
+
+But one of the big advantage of an ICO
+is it doesn't dilute you.
+When I'm issuing shares for capital
+I actually kind of giving away
+part of my business to my investors.
+
+The beauty of an ICO is actually you're issuing
+these tokens that allow these purchasers
+of these tokens to access the ecosystem,
+but without really diluting your equity.
+And this has been pretty big game-changer
+because many believe this actually can enable us
+to actually democratise capital in fund raising.
+
+In a traditional world if you're launching a business
+you hope you have some friends or contacts
+who have money who are happy
+to invest in your business.
+The beauty of an ICO allows individuals
+from all around the world to raise money
+if they have a good idea and a good project.
+Whether you're in Santiago, Chile,
+Moscow, Russia,
+Johannesburg, South Africa,
+or Hong Kong, China,
+doesn't really matter.
+
+The world is actually where you can go raise money.
+Obviously there's a lot of regulatory requirements
+and restrictions, but I think you get my point.
+And what's been really interesting
+is over the last 12 to 18 months
+since the beginning of the ICO craze,
+we have really seen the industry turn swarming off.
+Initially it was a lot of young entrepreneurs
+who had an idea, wrote a white paper,
+and were able to raise quite a bit of money.
+
+What we have seen since then is the industry
+becoming definitely more institutional.
+We have seen the emergence of best practises
+like in the space of **KYC** and the **AML**
+**Know Your Client** and **Anti Money Laundering**.
+We have seen the emergence of best practises
+when it comes to the government and transparency.
+For example how these ICO companies are being run.
+What is a transparency that has been given
+to people who own these tokens?
+
+So really there's a lot of exciting space
+going on in this space.
+There will be definitely more
+regulatory enforcement cases moving forward.
+Tax authorities will look at it.
+And actually the regulatory space,
+this entire space may become
+more regulated as well.
+But this is definitely an area to watch
+if you're interested in the broader startup,
+blockchain and cryptospace.
+
+
+---
+
+#### Module 3 Alternative Finance   3.8 ICOs   Quick Check 3.8
+
+According to the video, what are the key trends seen in the ICO space?
+* (A) More transparency of the ICO projects
+* (B) Increased attention from regulators
+* (C) Increased attention to money laundering and know-your-customer (KYC) issues
+* (d) All of the above
+
+---
+
+#### Module 3 Alternative Finance   Module 3 Conclusion Quiz   Conclusion Quiz: Question 1
 
