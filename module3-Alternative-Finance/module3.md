@@ -293,3 +293,209 @@ The rise of P2P lending after the 2008 Global Financial Crisis was encouraged be
 
 #### Module 3 Alternative Finance   3.4 FinTech & Funds   Video 3.4 FinTech and Funds
 
+As we all know, FinTech is really disrupting
+many verticals of the financial services industry,
+from investment banking,
+asset management, retail banking.
+But one area that it's also affecting as well
+is the hedge fund industry.
+
+For many years, the hedge fund industry
+was the most entrepreneurial,
+at the cutting edge of technology.
+And obviously, a lot of Fintech innovations
+are benefiting the broader hedge fund industry as well.
+
+There's many examples.
+Think about it.
+Imagine I'm a fund manager.
+Normally I try to access data
+that is available publicly
+and I'm trying to use.
+But what if I can use some of the big data analytics
+and artificial intelligence solutions
+to try to really generate insights?
+
+Imagine using satellite imagery to try to look at
+what's happening on, let's say, on oil containers
+and how much oil there are on the ships.
+
+Or actually looking from satellite imagery
+how many cars are in the parking lot
+and use that to try to actually forecast
+a company's actually earnings.
+
+Or imagine being able to use
+some of the latest technology to read,
+go through all the news articles
+around the world available online
+or all the tweets and Facebook messages
+and be able to come up with a sentiment analysis
+of what are people really seeing
+and thinking around the world
+
+today a lot of people
+want to get access to research.
+A normal hedge fund manager would actually try
+to work with an investment bank,
+will actually execute some of their traits
+via an investment bank to get access
+to some of their research analysts.
+But if you think about it,
+it's not very efficient.
+It's a bit like buying a CD if you like one song.
+
+What now we're seeing the emergence
+of independent platforms.
+If you think about the Spotify of research
+where investment analysts can actually go there,
+put your own research.
+And if customers like them,
+they just go pay for the research and pay
+for that specific investment analyst.
+
+**Quantopian** provides data, research and free backtesting capabilities:
+
+https://www.quantopian.com/
+
+**Amareos** gives big data insights: heat maps and data visualization:
+
+https://www.amareos.com/
+
+
+FinTech is affecting the way business is done.
+Today, anybody launches a hedge fund or a fund,
+will generally try to go raise money from investors.
+That service is now offered by investment banks
+who will try to match hedge fund managers
+and hedge fund investors.
+The way that process works is very inefficient.
+Often via conferences and
+personal meetings or emails,
+it's actually not very efficient.
+We are now seeing the emergence of online platforms
+where these two branches can actually connect.
+And actually you have analytics
+and data on who can be a good fit for each other.
+
+
+**Fundbase** connets investors and hedge fund managers without intermediaries:
+
+https://www.fundbase.com/As we all know, FinTech is really disrupting
+many verticals of the financial services industry,
+from investment banking,
+asset management, retail banking.
+But one area that it's also affecting as well
+is the hedge fund industry.
+
+For many years, the hedge fund industry
+was the most entrepreneurial,
+at the cutting edge of technology.
+And obviously, a lot of Fintech innovations
+are benefiting the broader hedge fund industry as well.
+
+There's many examples.
+Think about it.
+Imagine I'm a fund manager.
+Normally I try to access data
+that is available publicly
+and I'm trying to use.
+But what if I can use some of the big data analytics
+and artificial intelligence solutions
+to try to really generate insights?
+
+Imagine using satellite imagery to try to look at
+what's happening on, let's say, on oil containers
+and how much oil there are on the ships.
+
+Or actually looking from satellite imagery
+how many cars are in the parking lot
+and use that to try to actually forecast
+a company's actually earnings.
+
+Or imagine being able to use
+some of the latest technology to read,
+go through all the news articles
+around the world available online
+or all the tweets and Facebook messages
+and be able to come up with a sentiment analysis
+of what are people really seeing
+and thinking around the world
+
+today a lot of people
+want to get access to research.
+A normal hedge fund manager would actually try
+to work with an investment bank,
+will actually execute some of their traits
+via an investment bank to get access
+to some of their research analysts.
+But if you think about it,
+it's not very efficient.
+It's a bit like buying a CD if you like one song.
+
+What now we're seeing the emergence
+of independent platforms.
+If you think about the Spotify of research
+where investment analysts can actually go there,
+put your own research.
+And if customers like them,
+they just go pay for the research and pay
+for that specific investment analyst.
+
+**Quantopian** provides data, research and free backtesting capabilities:
+
+https://www.quantopian.com/
+
+**Amareos** gives big data insights: heat maps and data visualization:
+
+https://www.amareos.com/
+
+
+FinTech is affecting the way business is done.
+Today, anybody launches a hedge fund or a fund,
+will generally try to go raise money from investors.
+That service is now offered by investment banks
+who will try to match hedge fund managers
+and hedge fund investors.
+The way that process works is very inefficient.
+Often via conferences and
+personal meetings or emails,
+it's actually not very efficient.
+We are now seeing the emergence of online platforms
+where these two branches can actually connect.
+And actually you have analytics
+and data on who can be a good fit for each other.
+
+
+**Fundbase** connets investors and hedge fund managers without intermediaries:
+
+https://www.fundbase.com/
+
+---
+
+#### Module 3 Alternative Finance   3.4 FinTech & Funds   Quick Check 3.4
+
+What is the main reason hedge funds rely increasingly on Big Data and Machine Learning?
+* (A) Collection and analysis of alternative data provide a competitive advantage in trading and investment activities.
+* (B) Hedge funds are dealing with increased compliance burdens.
+* (C) Hedge funds are seeking to attract new customers.
+
+---
+
+#### Module 3 Alternative Finance   Industry Showcase: How AI is Transforming the Future of FinTech (Microsoft)   Industry Showcase: How AI is Transforming the Future of FinTech (Microsoft)
+
+
+
+---
+
+#### Module 3 Alternative Finance   3.4 FinTech & Funds   Quick Check 3.4
+
+What is the main reason hedge funds rely increasingly on Big Data and Machine Learning?
+* (A) Collection and analysis of alternative data provide a competitive advantage in trading and investment activities.
+* (B) Hedge funds are dealing with increased compliance burdens.
+* (C) Hedge funds are seeking to attract new customers.
+
+---
+
+#### Module 3 Alternative Finance   Industry Showcase: How AI is Transforming the Future of FinTech (Microsoft)   Industry Showcase: How AI is Transforming the Future of FinTech (Microsoft)
+
