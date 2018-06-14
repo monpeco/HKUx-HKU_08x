@@ -1295,3 +1295,98 @@ According to the video, what are the key trends seen in the ICO space?
 
 #### Module 3 Alternative Finance   Module 3 Conclusion Quiz   Conclusion Quiz: Question 1
 
+---
+
+#### Module 3 Alternative Finance   Additional Resource Insights   Additional Resource Insights
+
+References and Suggestions for Further Reading
+1. [IOSCO Research Report on Financial Technologies (FinTech) (Industry Report - IOSCO)](https://www.iosco.org/library/pubdocs/pdf/IOSCOPD554.pdf%20Report%20(IOSCO))
+2. [Understanding Alternative Finance: The UK Alternative Finance Industry Report 2014 (Industry Report - Nesta)](https://www.nesta.org.uk/report/understanding-alternative-finance-the-uk-alternative-finance-industry-report-2014/)
+3. [The ICO Gold Rush: It's a Scam, It's a Bubble, It's a Super Challenge for Regulators (Academic Paper: Zetzsche, Buckley, Arner, Fohr)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3072298)
+4. [Regulation of Digital Financial Services in China: Last Mover Advantage (Academic paper: Zhou, Arner, Buckley)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2660050)
+ 
+---
+
+#### Module 3 Alternative Finance   Mid Point-Message from Course Director Douglas Arner   Mid-Point Message from Course Director Douglas Arner
+
+Hello, and welcome to the mid-point
+of Introduction to FinTech.
+We very much hope that you've enjoyed
+our first three modules so far.
+
+Looking back, in our first module,
+we looked at **what is FinTech?**
+And since that module came out
+the World Bank has released the 2018 Global Findex
+which highlights how over a billion people
+over the past six years
+have opened new bank accounts,
+much of this as a result of FinTech.
+
+In module 2, we looked at **payment,
+cryptocurrencies and blockchain**
+and over the past six months
+the idea of cryptocurrencies of blockchain
+has continued to dominate
+the news media about finance.
+Countries such as Venezuela
+have launched the first sovereign cryptocurrencies
+and others, including China, Russia
+and a range of others
+are considering similar proud programmes.
+
+In module 3, we looked at the **digitization of finance
+and at alternative finance**.
+In the context of digitization of finance,
+we're seeing an increasing presence of AI, the launch of
+an increasing number of Independent funds
+which choose their own investments via AI
+and run themselves.
+In the context of alternative finance,
+the use of blockchain and crowdfunding,
+the idea behind ICOs continues to grow and grow
+but with evermore regulatory attention.
+So far, over 50 regulators around the world
+have made warnings and announcements about ICOs
+but at the same time,
+even though there are dangers
+there are huge opportunities
+for funding new ideas and early-stage companies.
+
+Looking into the second half of the course,
+we're going to move into **issues of regulation**
+but also one of the most exciting areas
+of opportunity in FinTech
+and that is the entire **RegTech ecosystem** in module 4.
+
+In module 5, we'll turn to
+some of the **biggest challenges**,
+some of the challenges very much highlighted
+by recent issues with data companies
+such as Facebook, Equifax and others.
+The question of data, monetization of data,
+cybersecurity and TechFins
+
+And finally, in module 6,
+we'll look at a number of specific **case studies*
+using these to pull together
+the things that we've learned
+over the previous five modules and look forward a bit
+to see what the future of FinTech may hold.
+
+For those of you
+who haven't quite finished module three yet,
+we encourage you to please continue
+going with the course.
+After all, you have plenty of time
+and can do this at your own pace
+but once you've started it,
+you might as well keep going because the more you do,
+the more you learn
+and the more you're likely to understand
+this world of financial technology around us.
+And for those of you who still haven't quite started,
+now is the best time.
+
+---
+
