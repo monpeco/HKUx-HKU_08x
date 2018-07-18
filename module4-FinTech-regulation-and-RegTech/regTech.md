@@ -703,3 +703,91 @@ the RegTech startups ecosystem of Module 4.
 ---
 
 #### Module 4 FinTech Regulation and RegTech   4.6 RegTech Startups: Challenges   Video 4.6 RegTech Start-ups: Challenges
+
+Let's talk about the very exciting topic of RegTech,
+RegTech, short for regulatory technology.
+But first, what is RegTech?
+RegTech is the use of new technologies
+to solve regulatory and compliance burdens
+not only more effectively but also more efficiently,
+and this has been an area that has been
+really booming in recent months and years.
+
+Why is that?
+Well, since the financial crisis,
+banks and other financial institutions
+have hired thousands of compliance officers
+or risk officers to try to help them comply with
+the various regulatory requirements around the world.
+Well, the good news now is we could use
+some of the latest technology,
+from artificial intelligence to big data analytics,
+to try to tackle some of these issues
+in many ways better than humans can.
+Let me give you a good example,
+anti-money laundering.
+Today, trying to stop the proceeds
+from criminal organisations or rogue nations
+from entering the global financial ecosystem
+is a big challenge.
+And, despite all our efforts,
+of all the different AML procedures
+and prophecies that we have in place,
+the success has not always been there.
+According to a recent study,
+we're only able to capture
+less than 1% to 2% of laundered transactions
+around the world from entering the financial ecosystem.
+Well, the good news is this is hopefully
+an area that RegTech can help.
+We can use artificial intelligence
+and actually try to actually spark
+and actually improve the process of how we filter
+and actually monitor these transactions.
+
+And this is happening across
+various, various, various verticals
+of the broader regulatory space,
+from KYC, know your customer,
+and onboarding to regulatory reporting.
+But although RegTech sounds very interesting,
+that has also a lot of challenges.
+For example, if you're a RegTech startup
+and you're trying to sell to a bank,
+the sale cycles can be very, very long.
+Think about it.
+You know you're dealing with
+a lot of sensitive information
+and actually a lot of regulatory information,
+where the downside for a bank for getting
+it wrong is actually very big.
+So, we actually are seeing these long sale cycles
+that are common when you're trying to sell to a bank
+actually be even longer when it comes to RegTech.
+
+Also, not everybody,
+when it comes to in risk or compliance functions
+are as familiar with RegTech.
+While a lot of the business functions of a bank
+got familiar with FinTech in the last couple of years,
+we're still in the early stages when it comes to RegTech
+with people in risk, compliance, or legal functions.
+But also probably more importantly,
+if a bank wants to use this new technology
+they need to be able to integrate this
+inside of the spaghetti of their legacy systems,
+all these different systems that the bank has been
+implementing over the years and now try to find a way
+to use this new technology to come in
+and actually be able to use it.
+So, there are still a lot of challenges,
+but the good news is we finally
+have a lot of the solutions available
+to help financial institutions,
+not only be more effective, but also be more efficient
+when it comes to regulations.
+
+
+---
+
+#### Module 4 FinTech Regulation and RegTech   4.7 RegTech Ecosystem: Regulators   Video 4.7 RegTech Eco-system: Regulators
