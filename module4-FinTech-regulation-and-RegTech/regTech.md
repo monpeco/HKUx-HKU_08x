@@ -540,3 +540,166 @@ a major driving force.
 ---
 
 #### Module 4 FinTech Regulation and RegTech   4.5 RegTech Ecosystem: Startups   Video 4.5 RegTech Eco-system: Start-ups
+
+Predicted to be one of the fastest growing sector
+of 2018, the RegTech startup ecosystem
+has grown rapidly to match that expectation.
+Entrepreneurs are driven
+by the US$100 billion market opportunity
+that represent compliance spending.
+This has created a market of over 300 startups
+which is fueled by
+cumulative US$100 billion of investments
+by VCs since 2012.
+
+To better understand the RegTech startup ecosystem,
+let's start with some context.
+* With the USA setting the tempo
+of global regulatory changes
+and characterised by a fragmentation
+of supervisory bodies,
+most of compliance spending will occur there.
+
+* However, whilst the USA represents
+a strong natural client,
+the startup creation activity
+is predominantly based in Europe.
+
+* As for Asia, the region represents
+1/3 of global compliance spending
+but is underserved by home-grown RegTech startups.
+
+The 2008 financial crisis
+has represented a strong catalyst
+for regulatory changes across the world.
+The combination of fines, over 321 billion,
+regulatory changes which have tripled
+in the last three years
+and post-crisis reform implementation
+such as Dodd-Frank or Basel III
+has forced banks to increase their operating costs
+as a response to their new regulatory obligation.
+
+To just give you a sense of scale,
+a financial institution like JPMorgan has added
+another 14,000 legal and compliance staff since 2012.
+It is not unusual for banks
+to have 20 to 30% of their employees
+working in compliance-related function.
+This means that a tier one universal bank
+has more compliance officers and lawyers
+than Facebook has total employees.
+
+However, the numbers of recurring fines
+occurring post-crisis is challenging
+the effectiveness of simply adding up
+human resources to meet compliance obligation.
+Indeed, for each one dollar spent on compliance,
+three are being spent on regulatory fine.
+It seems that the compliance industry
+has difficulty to learn from its mistake.
+This is what RegTech startups
+are trying to address.
+
+A decade has passed since the crisis
+and since then most regulatory changes
+have been implemented.
+Financial institution are therefore now starting
+to look at how to automate compliance obligation
+and decrease the added recurring cost
+that has built up post crisis.
+
+RegTech startups are answering these demands.
+RegTech companies can be classified
+in three broad categories.
+Each time I will quickly illustrate them.
+
+#### First, regulatory compliance.
+Here we are going to find companies
+that are learning about regulatory changes
+and telling banks how this is going to impact
+their business logic.
+
+#### Second, risk management.
+It's about identifying, for example,
+conduct risk to prevent another Libor scandal.
+
+#### Third, financial crime.
+How can we understand the ultimate beneficiary
+behind a shell company to avoid money laundering
+or terrorism financing?
+Within these three categories,
+the vast majority of startups
+are found in the regulatory compliance space.
+This reflects the fact
+that this represents a low hanging fruit for success
+mainly because data is available,
+it requires limited integration
+and it has a lower risk factor
+in case of error by a RegTech company.
+
+Similarly to FinTech companies,
+the majority of RegTech companies
+are B2B providers selling to financial institutions.
+Whilst demand from this client base is strong,
+it appears that the sales cycle remains long.
+On average, we're talking about 12 months.
+
+Certain exceptions are noted
+especially in the context of
+upcoming regulatory deadline
+such as MFID 2 or GDPR
+which therefore fast track the sales cycles
+and the procurement process.
+
+Additionally, I would like to mention
+that RegTech startups can also be found
+in two other areas worth mentioning.
+Firstly, **regulators**.
+The B2G or business-to-government space is growing.
+Regulators globally are engaging RegTech startups
+via various channels from hackathons
+to accelerators to find solution
+to enhance the supervisory and regulatory function.
+Similarly to financial institution,
+regulators are driven by the cost benefit
+provided by RegTech startups
+that can reach a factor of up to 10 times.
+These savings are actually especially important
+when considering the fact that tax payers' money
+is used to finance regulators
+and their operating costs
+making it a strong public policy case.
+However, whilst having regulators as a client
+brings a lot of legitimacy,
+the lengthy procurement process
+is extended by additional tendering rules
+relative to sourcing supplies
+from the public sector.
+
+Secondly, **certain FinTech companies
+are directly adding regulatory compliance process
+into their product**.
+For example, in the context
+of wealth management space,
+funds products are now being sold
+and marketed only to pre-qualified investors
+by leveraging on their data
+to determine suitability, location and investment profile.
+Whilst for consumers, this provides
+a level of personalization of services;
+for financial institutions,
+this embeds regulatory compliance
+into the sales process
+and that's important
+because it allows to avoid fines relative to mis-selling.
+Previously what the financial crisis has highlighted
+was that compliant and sales function
+were operating in silos.
+This overview concludes
+the RegTech startups ecosystem of Module 4.
+
+
+---
+
+#### Module 4 FinTech Regulation and RegTech   4.6 RegTech Startups: Challenges   Video 4.6 RegTech Start-ups: Challenges
