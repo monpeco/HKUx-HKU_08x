@@ -373,3 +373,170 @@ and reduce cost in the industry.
 ---
 
 #### Module 4 FinTech Regulation and RegTech   4.4 RegTech Ecosystem: Financial Institutions   Video 4.4 RegTech Eco-system: Financial Institutions
+
+The RegTech ecosystem encompasses
+both industry and regulators.
+It encompasses
+the traditional incumbent financial institutions
+like banks,
+insurance companies,
+and investment banks.
+It also encompasses startups
+of an increasing range
+and it also encompasses regulators.
+However, most of the development
+that we've seen in the area
+of RegTech over the past decade
+following the global financial crisis
+has been focused
+in the traditional financial services industry,
+in particular, in the banking industry.
+And we can see this obviously simply
+from the cost of regulation.
+Not only have we had thousands of
+new regulations in the US,
+in Europe,
+in Hong Kong,
+in Singapore,
+and Australia,
+in economies all over the world
+as a result of the global financial crisis.
+But large financial institutions around the world
+have paid to date over $300 billion US dollars
+in fines for regulatory failures
+both resulting from and also in the aftermath
+of the global financial crisis.
+
+Compliance has become a major challenge
+from the standpoint of the industry
+both from the standpoint of
+simply keeping up with regulatory changes
+and their implications,
+but also from the standpoint of
+the very, very large fines
+that we have seen
+coming out of major regulators
+since the global financial crisis.
+And if we look today at
+traditional financial institutions,
+if we look at RegTech in banks,
+probably two areas highlight best
+the necessity of technology.
+
+First, are what are called
+**know your customer requirements**.
+Know your customer requirements
+are something that every financial institution
+everywhere in the world must comply with.
+The origin of
+know your customer requirements
+comes from a series of regulations
+that focus on preventing criminal use
+of the financial system,
+in particular,
+things such a money laundering
+or the financing of terrorism.
+Internationally, we have an organisation
+which is called the **FATF**.
+The FATF is the **Financial Action Task Force**
+on Money Laundering
+and it establishes
+internationally agreed minimum standards
+for regulation in financial systems
+with which every financial institution
+around the world must comply.
+
+Now, the challenge is that
+these are simply agreements.
+They then have to be implemented
+into the individual regulatory systems
+of jurisdictions of countries around the world.
+The end result is that the **AML**,
+**Anti-Money Laundering** requirements,
+the KYC, Know Your Customer requirements
+in the United States,
+or Europe,
+or Singapore,
+or Hong Kong,
+or Japan,
+Mainland China
+are all very similar but not identical.
+
+Now, if you are a large financial institution
+which is doing business
+across these major economies,
+part of your regulatory requirements
+are to comply with the requirements
+for KYC and AML
+in each jurisdiction in which you operate.
+And the number of regulators,
+particularly those in the United States
+have put in place some very large fines,
+multiple billions of US dollars
+against large financial institutions
+like HSBC,
+Standard Chartered,
+BNP Paribas
+for failures to
+properly have global systems
+to know their customers
+and prevent money laundering.
+
+As a result,
+financial institutions have had to
+implement systems
+whereby they can at a moment's notice
+know:
+* who all of their, in many cases, tens of millions of customers all over the world are,
+* and where they've gotten their money,
+* and whether they raise any risks of criminal use of the financial system or terrorist financing.
+
+And the only way
+the financial institutions
+have been able to do this
+is spending large amounts of money
+on employing people
+and building technological systems
+to:
+* standardise account opening processes
+* and the various reporting requirements
+
+that money laundering
+and KYC regulations
+around the world apply.
+Another area that we'll see
+
+is what is called **MiFID II**.
+MiFID II is the Markets in Financial Instruments Directive
+in the European Union.
+And MiFID II requires transparency.
+It requires disclosure of
+massive amounts of information
+in particular about financial institutions,
+securities and derivatives trading activities.
+
+A very good example,
+Merrill Lynch in 2017 was fined
+almost 45 million British pounds
+for failing to report
+almost 75 million transactions
+over a two year period.
+Now, that is
+roughly 150,000 transactions a day
+for every business day
+over that two year period.
+And the only way that
+a financial institution
+can possibly keep track of
+that amount of trading activity is through
+building automated compliance systems
+to package and report
+the information to regulators.
+So, from the standpoint of regulators,
+the incumbent financial industry,
+particularly banks have so far been
+a major driving force.
+
+---
+
+#### Module 4 FinTech Regulation and RegTech   4.5 RegTech Ecosystem: Startups   Video 4.5 RegTech Eco-system: Start-ups
