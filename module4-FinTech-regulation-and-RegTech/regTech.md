@@ -278,3 +278,98 @@ developing entirely new regulatory approaches.
 ---
 
 #### Module 4 FinTech Regulation and RegTech   4.3 Evolution of RegTech   Video 4.3 Evolution of RegTech
+
+The 2008 financial crisis
+was one of the key triggers
+for the massive acceleration
+in the development of FinTech worldwide.
+But in addition,
+it was the catalyst for the development of
+RegTech, or regulatory technology.
+And the ideas of RegTech relate to FinTech
+but are much more broader.
+In other words,
+RegTech is the idea of using technology
+for:
+* regulatory compliance,
+* regulatory monitoring,
+* but also, regulatory design.
+
+It is the idea of using technology
+to make financial markets
+and their regulation more effective.
+
+Now, if we think of RegTech in that way,
+the key aspect is that
+it is beyond FinTech.
+RegTech can apply
+in any segment of the economy,
+not just in the context of financial regulation.
+One can imagine
+the application of technology
+to:
+* environmental regulation,
+* or traffic regulation,
+* or airline regulation.
+
+Any area of the economy with regulation,
+the application of technology
+offers the potential
+to transform the effectiveness
+of that particular regulatory system.
+
+However, in the context of finance,
+RegTech is so far,
+the most developed.
+In particular, we see RegTech
+across **traditional financial institutions**,
+across **new startups**,
+and also across **regulators**, themselves.
+And the global financial crisis
+really made this a necessity.
+
+Since 2008,
+we have seen an absolute explosion
+in new regulations around the world.
+New regulations are released
+by a major jurisdiction
+approximately once every hour.
+The end result is that,
+every year,
+thousands of new regulations come out.
+And, for a financial institution
+doing business on a cross-boarder basis,
+this is one of the most complex influences
+on their operations
+as well as on their profitability
+because, not only is regulation a challenge,
+but it is also a cost.
+As a result,
+the global financial crisis
+and its explosion of regulation
+has driven the established financial industry
+into applying technology
+to address their compliance burdens
+and their compliance costs.
+
+At the same time,
+we have seen an explosion
+in new startups, new firms,
+which are offering technologies
+to help both startups
+as well as traditional financial institutions
+and even regulators
+to better address
+their regulatory and compliance burdens.
+Finally, regulators themselves
+are increasingly using technology
+for a range of purposes
+not only to do a better job
+in their regulatory functions,
+but also to increase market efficiencies
+and reduce cost in the industry.
+
+
+---
+
+#### Module 4 FinTech Regulation and RegTech   4.4 RegTech Ecosystem: Financial Institutions   Video 4.4 RegTech Eco-system: Financial Institutions
