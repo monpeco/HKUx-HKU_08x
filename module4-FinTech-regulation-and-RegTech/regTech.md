@@ -1054,3 +1054,175 @@ and I think it's quickly gaining pace here in Asia.
 ---
 
 #### Module 4 FinTech Regulation and RegTech   4.8 Regulatory Sandboxes   Video 4.8 Regulatory Sandboxes
+
+We're now going to talk about Regulatory Sandboxes,
+a safe harbour for
+supervised innovation in financial market.
+The general perception of regulators
+is that they are slow and reactive.
+The Dodd-Frank Act illustrates this.
+It was passed in 2010,
+but its full implementation
+remains a work in progress.
+In almost ten years that have passed
+since the great financial crisis,
+what has emerged strongly is FinTech.
+Whilst the regulators have been
+implementing post-crisis reform,
+entrepreneurs have been busy.
+Today with the regulatory houses in order
+regulators are being to also embrace
+forward-looking innovation.
+The best illustration of this is the speed
+at which Regulatory Sandboxes have been announced.
+So far, over 12 have been announced in the world,
+out of which six have emerged in the last four months
+and the majority of them are in Asia.
+
+One might argue that
+the boom in Regulatory Sandboxes
+is yet another reactionary move driven by
+the jurisdiction's fear of missing out
+on the chance of becoming or staying
+a meaningful financial centre.
+One can also argue that the intent behind establishing
+a Sandbox matter as much, or more,
+than their narrow regulatory outcome.
+
+Establishing a Sandbox demonstrates
+a Regulator's desire to move forward
+towards a more proportionate regulatory framework
+that bounces risk with innovation.
+And whilst most Regulators seems to have realised
+that Sandboxes are not child's play
+many are yet to invest adequate resources
+into their operation,
+either from a **human capital perspective
+or technical capacity**.
+
+Similarly, as with startups,
+Regulators will have to enter into
+a reiteration cycle to improve
+the quality of and add value to their Sandboxes.
+Regulators will need to keep their visions alive
+as Sandboxes are unlikely in the first year
+to deliver much by ways of result.
+
+Perhaps most importantly,
+regulators must ensure
+that in the event of another crisis
+they do not fully revert from the proactive approach
+that they have towards yet another reactive one.
+
+In other words, the innovative spirit
+of regulators needs to be nurtured and maintained
+as it does with entrepreneurs.
+Each needs to learn from the sum of their experience.
+Similarly to startups,
+regulators should cherish
+the journey because innovation
+and its effective regulation are ever evolving processes.
+This is not to say that regulation
+always follows innovation.
+India and Europe have demonstrated how reform
+can spur innovation and the rise of FinTech.
+However, we need to ask the question
+of how a proactive
+and adaptive regulatory framework can be created.
+
+At the core of this vision lies the numbers of
+well explored and established principle for regulators:
+* First, **financial stability** at the macro and micro level.
+* Second, **market integrity** and
+* third, **consumer protection**.
+
+The challenge is using technology to develop
+a better way of doing things
+from the standpoint of regulators,
+the industry and infrastructure.
+As an example, whilst all regulators agree
+on the importance of AML and KYC,
+there has been limited harmonisation
+with respect to this most common form of compliance.
+Too often, the spirit of the law
+is distorted by its implementation.
+In the context of banks, this often takes
+the form of banks and regulators blaming
+the other for each failing to take
+the responsibility in addressing
+the question of why they cannot innovate.
+
+Lack of innovation is blamed on
+a mutual misunderstanding as to what is possible
+and how it can practically be achieved.
+Regulatory Sandboxes should become the new form
+for discussion in which the dominant outcome
+is promoting innovation rather
+than only trying to reduce risk.
+This means that the regulator should not seek
+to prevent all risk from occurring,
+but instead evaluate whether
+an innovation enhances or decreases risk
+in comparison to what already exists.
+
+Let's take some examples.
+- First, it's about accepting driverless cars
+because they are statistically less likely
+to generate an accident as opposed
+to failing to support them because
+they have caused one or two accidents.
+
+- Second, it's about supporting facial recognition solution
+as the instances of fraud associated with them
+is likely to be far lower than
+with traditional chip and pin mechanism.
+
+For this to happen, regulators
+will need data and a lot of it.
+This is to ensure the true risk association
+with a given innovation are adequately estimated.
+Foreign experiences should also be taken
+into consideration as their data are used.
+The depth and size of the data necessary
+has placed immediate pressure
+on regulator's resources.
+With limited staff,
+regulators will hit a bottleneck
+in their review, evaluation,
+and approval of innovation.
+
+As a result, regulators need to start
+embracing machine learning tools
+which will allow them
+to better understand large and unstructured data sets.
+For now, the largest simulation in the world is in China.
+China doesn't need a regulatory Sandbox
+because the whole country is one.
+In its technology firm other kids playing in it.
+When Alibaba released
+its experimental credit scoring tool,
+Sesame Credit, it was quickly apparent
+that its credit scoring algorithm
+was being gained by its users.
+Sesame Credit was underpinned by the assumption
+that the more a person spends or receives,
+the more credit worthy they are.
+However people quickly started
+to send the same amount
+of money back and forth in order
+to increase their credit score.
+The unusual patent allotted to Alibaba
+and lent to the algorithm being readjusted.
+However, not every country has the capacity
+to run control experiment on the scale of China.
+These countries will either have to rely
+on machine learning tools or accept the risk
+of regulation lagging behind innovation.
+This is why Regulatory Sandboxes represent
+a critical addition to the toolkit
+of innovation available to regulators.
+
+
+---
+
+#### Module 4 FinTech Regulation and RegTech   4.9 Smart Regulation   Video 4.9 Smart Regulation
