@@ -995,4 +995,62 @@ of the RegTech Ecosystem.
 
 ---
 
-#### 
+#### Module 4 FinTech Regulation and RegTech   Industry Showcase: The Application of AI in Smart Regulation
+
+* Why are regulator using technology companies such as yours to better perform thir function of market supervision?
+
+Well, I think regulators are looking at technologies
+and startups such as MindBridge
+to be able to introduce new technologies and new ideas
+faster into the industry.
+In particular, in our case, we're working with
+machine learning, artificial intelligence
+with organisations such as the Bank of England.
+And using that technology,
+they're able to better review and regulate
+say the credit unions in the United Kingdom.
+So they use machine learning, artificial intelligence
+to be able to look at the liquidity ratios,
+make sure that the banks are performing
+the way they're supposed to,
+and analysing for things such as trend shock
+when the bank introduces a new policy,
+how are all the credit unions changing
+in relation to each other
+and being able to better understand
+the different changes in policy that
+bank makes relative to the credit unions.
+
+* Why do you think regulators are now looking at startups as vendors?
+
+I believe that regulators feel that
+startups are a cost benefit
+because they're able to
+accelerate the use of the technology
+within their sphere of influence.
+
+* Globally, who do you think are leading smart regulation, regulator or industry players?
+
+Well, here in Asia, the industry players
+that are leading the charge are
+groups like the Hong Kong Exchange.
+And from a regulator perspective,
+I certainly see, you know, strong movement from
+say the Hong Kong Monetary Authority
+in terms of using technology
+such as artificial intelligence and machine learning
+to better understand the regulatory market.
+
+* In your opinion, how far are we away from "RegTech" becoming a common term, and widely used across the industry?
+
+I think it's already begun.
+I think regulatory technology
+has already started to become a widely used term
+in the industry, and as such,
+I think it's going to only grow from here.
+It's certainly well-established in North America,
+and I think it's quickly gaining pace here in Asia.
+
+---
+
+#### Module 4 FinTech Regulation and RegTech   4.8 Regulatory Sandboxes   Video 4.8 Regulatory Sandboxes
