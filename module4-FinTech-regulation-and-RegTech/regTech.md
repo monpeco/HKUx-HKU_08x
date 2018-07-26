@@ -791,3 +791,208 @@ when it comes to regulations.
 ---
 
 #### Module 4 FinTech Regulation and RegTech   4.7 RegTech Ecosystem: Regulators   Video 4.7 RegTech Eco-system: Regulators
+
+
+The RegTech Ecosystem,
+in addition to traditional financial institutions
+and startups,
+also extends to regulators themselves.
+Think about it for a moment.
+In the context of KYC requirements,
+one of the major elements
+of a compliance framework,
+of the regulatory framework,
+is filing of what are called
+suspicious transaction reports.
+Any time a transaction,
+in most jurisdictions,
+over 10,000 US dollars is done in cash,
+that financial institution will have to
+file a report with the regulator.
+Likewise, any time
+any unusual transaction takes place
+with any of a bank's millions of clients,
+a suspicious transaction report must be filed.
+Now, think about this
+from the standpoint of regulators
+that are receiving
+thousands of suspicious transaction reports
+from banks every single day.
+What do they do with these?
+Is it simply pieces of paper
+that they store in a warehouse?
+And historically,
+that is very often been the case.
+If an event would happen,
+a terrorist attack
+or a criminal conspiracy of some sort,
+regulators would then
+trawl back through those records
+to see if they could identify
+any additional information.
+But a better system would be
+regulators putting those reports
+in a digital format,
+which can be immediately
+subjected to data analytics,
+which would not only be useful
+after a terrorist attack occurs,
+in the context of tracing the financial flow,
+but it could potentially be used
+to prevent attacks
+or a criminal use
+of the financial system.
+And that is the idea of RegTech.
+Regulators themselves applying technology
+to achieve better regulatory outcomes.
+After all, anti-money laundering rules
+are not about
+producing suspicious transaction reports.
+They are about
+reducing the criminal or terrorist use
+of the financial system.
+And so,
+if technology can be applied
+by both the financial institutions themselves,
+as well as regulators,
+to better achieve that objective
+that is a very important development,
+and one of the biggest trends
+that we're seeing in the context of
+today's financial markets.
+Now, if we look at regulators,
+it is, in fact, not new for them
+to use technology in regulation.
+One of the longer-standing uses of technology
+by regulators in the context of regulation
+occurs in the context of insider trader,
+insider dealing.
+Insider dealing takes place
+when an insider of a company
+listed on a stock exchange
+buys or sells shares of that company
+on the basis of information,
+which is not available to the public.
+
+Remember we saw
+with the efficient market's hypothesis
+that the idea of market's functioning
+is based upon availability
+and if someone is using information
+to profit in markets,
+which is not more widely available,
+one, that is not good
+for market functioning
+and market trust,
+but it's also unfair to other participants.
+One of the most common places or times
+that insider dealing takes place
+is in the context of
+the announcement of a merger or acquisition.
+That will typically take place
+at a certain day,
+a certain time,
+and regulators will use
+the electronic trading records
+of the stock exchange,
+and will look back
+through six months of data
+to see if there were
+any unusual transactions by insiders,
+like corporate directors or their families,
+during the period in the run-up
+to that announcement.
+That could then trigger an investigation
+and potentially an enforcement action.
+That is RegTech.
+Today if we're looking at areas of
+regulators using RegTech,
+probably the three biggest that we see are,
+first, in the context of
+applying big data analytics techniques
+to the massive amounts of regulatory filings,
+which have exploded
+since the 2008 global financial crisis.
+Like a large financial institution
+is having to make several thousand reports
+to regulators around the world every day,
+regulators likewise
+are receiving thousands of reports,
+and are increasingly using that information,
+subjecting it to data analytics,
+in order to identify potential market risks
+or market violations.
+
+A related idea is
+what is called macroprudential policy.
+Prior to the global financial crisis,
+regulators tended to focus on
+the safety and soundness
+of individual financial institutions.
+The idea was that if you prevented
+each individual bank from failing
+that would prevent a financial crisis.
+What the 2008 crisis showed is that
+sometimes it is the interlinkages
+between participants in a financial system
+that causes the crisis.
+It is not what one is doing,
+but the fact that
+everyone is doing the same thing,
+and when a certain trigger event happens,
+it causes problems
+in the entire financial system.
+
+Since the global financial crisis,
+regulators have spent
+a very significant amount of effort and resources
+on coming up with ways
+to try to prevent crises from happening
+before they take place.
+And one of those areas
+is using data analytics,
+in particular in the context of regulatory filings,
+to try to identify risks
+prior to them actually happening.
+
+And finally, one that we've seen before,
+cybersecurity.
+As the financial system
+has become increasingly digitised,
+that has also increased its risks
+of hacking and cybersecurity.
+Perhaps the best example of this in recent years
+has been the hacking of Equifax.
+Equifax is a large company in the United States,
+which provides credit rating services.
+It collects massive amounts of data,
+uses that data to provide a credit score,
+which banks and other financial institutions
+then use as the basis of lending decisions.
+In 2017, it announced that all of its data
+had been hacked
+of over 140 million people.
+And that highlights that,
+as a financial system becomes more digitised,
+the risks of cybersecurity go up.
+And many would say today that
+cybersecurity is not the biggest financial risk,
+it's not the biggest economic risk.
+Many would, in fact, say,
+that it's the biggest national security risk as well.
+Because, after all, in addition to
+disrupting or stealing money,
+hackers can also seek to
+bring down large financial institutions
+in an effort to cause
+the collapse of the financial system
+and the economy.
+So, like financial institutions and startups,
+regulators, too, are a major part
+of the RegTech Ecosystem.
+
+
+
+---
+
+#### 
