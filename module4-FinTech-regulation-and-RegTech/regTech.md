@@ -1226,3 +1226,82 @@ of innovation available to regulators.
 ---
 
 #### Module 4 FinTech Regulation and RegTech   4.9 Smart Regulation   Video 4.9 Smart Regulation
+
+We suggest that RegTech goes beyond
+simple use of technology
+for compliance or regulatory purposes
+and also extends to cooperative efforts
+between policymakers, regulators, startups,
+and traditional financial institutions
+to build better financial systems.
+We call this the idea of smart regulation.
+Smart regulation suggests that
+in the context of today's technological transformation
+of the financial system,
+it is possible for the first time
+to redesign underlying infrastructure,
+the plumbing of the global financial system
+to make the financial system
+work better and effectively,
+The idea of this is first,
+a need for better information and monitoring
+that regulators need not only
+to follow what is going on
+in traditional financial institutions
+but they also need to be aware of new entrants,
+whether those are FinTech startups,
+or TechFins,
+and also evolution of technologies.
+Whether those technologies
+are things like cryptocurrencies,
+blockchain, cloud techniques
+or anything more that emerges
+in coming years.
+
+So the first stage is really
+an understanding of what is going on.
+Without an understanding,
+a regulator cannot do a proper job
+of balancing the objectives of
+economic growth and financial stability.
+From that basis,
+one can work together
+to design better systems.
+And really, the starting point in smart regulation
+is systems design.
+It is the idea of digitising regulation
+so that regulatory requirements
+to the greatest extent possible
+can be conducted or met by industry participants
+in a digital form.
+
+Digitising reporting requirements
+and other compliance requirements
+allows financial institutions to submit reporting
+and other obligations to
+regulators in a digitised form.
+That process of digitization
+immediately makes it more straightforward
+for regulators as well as the industry
+to apply processes of data analytics,
+of datafication
+in order not only to
+better achieve regulatory objectives,
+but also to reduce costs
+and increase efficiencies
+as well as discover new opportunities.
+The idea of smart regulation
+is that technology is no longer the limiting factor
+in how a financial system or its regulation works.
+But to take advantage of these new opportunities,
+we must be aware of
+what the technology can do
+as well as the existing inefficiencies
+in many of our systems,
+and that is a RegTech process
+of designing financial infrastructure.
+
+
+---
+
+#### 
