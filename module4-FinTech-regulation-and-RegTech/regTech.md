@@ -1304,4 +1304,180 @@ of designing financial infrastructure.
 
 ---
 
-#### 
+#### Module 4 FinTech Regulation and RegTech   4.10 Redesigning Financial Infrastructure: India Stack   4.10 Redesigning Financial Intrastructure: India Stack
+
+
+
+This idea of designing better financial infrastructure
+is core to the idea of FinTech and RegTech's
+re-conceptualization and reconsideration,
+recreation of both domestic
+and global financial systems.
+We can see this happening
+in two big examples.
+The first is one that
+we've already looked at in the EU.
+
+The development of a series of
+new legal frameworks
+reflected in MiFID II, PSD2, and GDPR,
+which are transforming the way
+that the financial system
+in the European Union works.
+The second is in the context of India.
+And something that we've seen
+throughout the course so far
+is that China is probably the most advanced,
+the most exciting digital transformation
+that we've seen so far in the context
+of this FinTech environment,
+but the other transformation
+which is taking place now
+is in many ways just as exciting,
+and that is the digital transformation
+that is taking place in India.
+In India about eight years ago,
+a group of tech entrepreneurs
+set about designing a strategy
+to build a new system of digital infrastructure
+to transform not only the Indian financial system
+but access to finance
+by the majority of the Indian population
+and also India's economy
+and economic growth prospects more generally.
+
+In some ways, this was partially a reaction
+to the success that we've seen
+in China's long-term economic transformation
+since the late 1970s.
+The idea in India is a series of interlinked pieces
+called India Stack.
+The foundation of the India Stack
+is a new digital biometric ID system.
+That digital biometric ID system
+includes 10 fingerprints
+and two iris scans
+for each individual who is issued with an ID.
+And since 2010,
+over 1.2 billion people in India
+have been issued with new digital IDs.
+That is more than the iPhone sold
+in the same period from its launch in 2007.
+The digital IDs in India
+are the largest IT rollout
+in the history of the world.
+Well, that's a good start.
+Digital identity to make it possible
+for immediate authentication
+of any individual's identity.
+The second level has been a system built on
+an electronic payment system that is open,
+open API,
+which means that it is open
+not only to traditional banks,
+but also to new entrants.
+This payment system allows digital payments
+to be made from one ID holder
+to another very rapidly.
+
+It also allows the entrance of
+new forms of business,
+whether those are payment providers
+or robo-advisory services
+or P2P lending and others.
+The third level involves
+increasing the use of bank accounts.
+And India three years ago,
+only about 1/3 of its population
+would have had a bank account,
+roughly 350 million people.
+Now, as a result of a process
+whereby government salaries are paid into accounts,
+pensions and other benefits,
+agricultural supports and the like
+are all paid into individual bank accounts,
+there has been an explosion
+in the number of bank accounts in India.
+Over the past five years,
+over 300 million new bank accounts
+have been opened in India,
+more than the population of the United States,
+and to the point where now for the first time,
+over half of the population of India
+has a bank account,
+a bank account that is linked to their digital ID
+and to an electronic payment system
+that allows instantaneous payments
+across the financial system.
+
+The final element of this system
+brings us back to the ideas of KYC.
+An e-KYC system, an e-KYC utility
+where individuals have
+a sort of Dropbox-like account
+where they can place digitised documents
+which are the necessary filing requirements
+for KYC requirements
+across a range of financial institutions.
+As a result of this combination of factors,
+India has not only exploded the number of people
+using bank accounts
+and using the financial system,
+it has also dramatically reduced the time taken
+and the cost for opening an account
+and as an added benefit
+dramatically reduced the cost of corruption
+in a previously cash-based economy.
+
+In November 2016,
+the Indian government announced
+an incredible experiment
+what was called demonetization.
+The government said that
+86% of the cash bills in circulation in the country
+were no longer valid,
+that those paper notes
+had to be turned in at a bank
+and either left in a bank account
+or exchanged for new bills
+which would be issued.
+Now, the intention of this initiative
+was to crackdown on corruption,
+to basically catch dark money
+that was operating
+outside of the formal financial system,
+but its big impact was in the context of
+driving digital transformation
+of the Indian financial system.
+And that was possible
+because of the infrastructure
+which had already been put in place
+via the India Stack strategy.
+
+Literally, hundreds of millions of people
+for the first time
+are now using digital forms of money
+for payments, lending and investing
+that previously would have been cash based.
+We have seen an explosion
+in the amount of money in the financial system,
+which has reduced interest rates.
+It has also increased liquidity available
+for startups seeking to raise money
+in the economy.
+And as with China's digital transformation,
+countries around the world
+but particularly in Asia
+have been watching India's process very closely.
+And an increasing range of countries,
+from Bangladesh to Thailand
+to Indonesia and beyond
+are seeking to develop similar strategies
+to enable them like China has done
+and like India is in the process of doing
+to leapfrog
+to a new digitally based financial system.
+
+---
+
+#### Module 4 FinTech Regulation and RegTech   Additional Resource Insights   Additional Resource Insights
