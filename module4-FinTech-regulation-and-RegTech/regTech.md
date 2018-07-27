@@ -1481,3 +1481,12 @@ to a new digitally based financial system.
 ---
 
 #### Module 4 FinTech Regulation and RegTech   Additional Resource Insights   Additional Resource Insights
+
+References and Suggestions for Further Reading
+* [FinTech, RegTech and the Reconceptualization of Financial Regulation (Academic Paper: Arner, Barberis, Buckley)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2847806)
+* [Financial Stability Issues from FinTech (Industry Report - Financial Stability Board (FSB)))](http://www.fsb.org/wp-content/uploads/R270617.pdf)
+* [Regulating a Revolution: From Regulatory Sandboxes to Smart Regulation (Academic Paper: Zetzsche, Buckley, Arner Barberis))](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3018534)
+* [RegTech 102: The Evolution of RegTech and the Future of Regulatory Compliance (Industry Report - CB Insights))](https://www.cbinsights.com/research/regtech-four-phases-expert-intelligence/)
+ 
+ ---
+
