@@ -180,3 +180,151 @@ which is followed across the world and including Asia.
 ---
 
 #### Module 5 Data & TechFin   5.3 Data in Financial Services   Video 5.3 Data in Financial Services
+
+The importance of data in the economy
+has been captured by Professor Klaus Schwab,
+executive chairman of the World Economic Forum.
+His analysis entails that the world
+is entering a fourth industrial revolution
+powered by artificial intelligence
+and being distinguished
+in its characteristic of hyper scalability,
+which we will discuss more in module 6.
+Importantly, the fourth industrial revolution
+has been built on top of the third era,
+which started in the 1970s,
+thanks to computer and automation.
+As we have seen throughout this course,
+technological progress
+and financial market development
+have a close relationship.
+Professor Schwab's third era
+of computer and automation coincides
+with the digitization of financial services,
+which we discussed in module three.
+
+And in this lecture, we are instead
+projecting ourself forward,
+aiming to answer the following questions.
+**How can the data created since the 1970s
+be used meaningfully in financial services?**
+And **what does the fourth industrial revolution look like
+for financial markets?**
+
+The importance lies in the fact
+that as with any large economic shift,
+the relationship of money
+and power is being redistributed.
+As such, answering if financial institutions need
+to become data companies matters.
+Should their business model move
+towards a data refining instead
+of interest or fee-based income?
+In order to find answers,
+we will present three examples
+in exploring in turns, big data,
+artificial intelligence, and analytics tools.
+
+Let's start with the **hedge funds** industry.
+They have historically been distinguishing themselves
+by their capacity of using quantitative skills
+and hiring a lot of Math scientists.
+They have increasingly been leveraging
+an external and new alternative data
+to make better investment decisions.
+For example, the use of geolocation data
+was used to estimate the footfall
+in shopping malls, and therefore predict
+the growth of sales ahead of public quarterly reports,
+allowing to make an investment decision
+before public information is out.
+
+In the context of the **insurance industry**,
+we have seen usage-based insurance changing
+the current flat-fee insurance model
+and instead moving towards
+a pay-as-you-go service
+centred around your lifestyle.
+This has been made possible by the increase
+of telematic solutions,
+such as trackers in your car,
+or your mobile phone,
+which is then analysed for better pricing.
+Here, data is being used
+to change the underwriting decision model
+whilst becoming the most cost-effective option
+for you as a customer.
+
+Finally, in **banking**,
+by using predictive analytics,
+a bank is able to monitor the spending patterns
+of a consumer, and then
+infer if a larger purchase will be made.
+The size of that purchase will then define whether
+the bank should proactively propose
+a consumer loan or mortgage.
+Likewise, a very simple example
+is taking a travel insurance as soon as
+you buy a plane ticket with your credit card.
+
+Now, these examples illustrate that data
+has previously been used in financial services,
+but this has not been equally done by all.
+This is mainly due to the fact
+that data today remains a by-product
+of activity as opposed to a core asset that is valued.
+To make this change across the industry,
+new C-level roles are emerging,
+such as Chief Data Officer.
+Regulators are also concerned by this,
+and you saw that in module 4
+when we were covering the topic of smart regulation
+and what it means from a human capital perspective
+for the regulators.
+
+Now, in order to enhance the value of data,
+whether internal or external,
+going forward, financial institution will need
+to consider the three Vs of data.
+
+First, **volume**.
+The combination of behaviour tracking
+and Internet of Things is increasing
+the amount of data points available.
+
+Second, **velocity**.
+The speed at which data is created requires
+the need for real time analytics,
+as it challenges the current storage capacity.
+
+Third, **variety**.
+The ability to handle,
+understand structured and unstructured data
+from internal or external sources.
+
+As this transformation process occurs,
+FinTech startups are increasingly providing
+the necessary analytical tools to process
+and analyse data held by financial institutions.
+For now, these remain narrow use cases
+and include identification of credit risk
+in loan portfolio, transaction of quarterly reports
+into investment advise,
+or performing complete audit risk review.
+Whilst these have always been performed by banks,
+today the combination of data availability
+and analytical tools make it possible
+to do these in seconds instead of hours,
+and this is done without a trade-off on accuracy levels.
+Hopefully, this will provide banks a capacity
+to restore profitability levels,
+whilst for consumer,
+create a new era of invisible finance,
+one that support your lifestyle instead
+of creating friction as you're trying
+to achieve your goals.
+
+
+---
+
+#### Module 5 Data & TechFin   Industry Showcase: Application of Data Analytics in Finance (vPhrase)   Industry Showcase: Application of Data Analytics in Finance
