@@ -52,3 +52,16 @@ will also be addressed in this module.
 ---
 
 #### Module 5 Data & TechFin   5.1 Module 5 Introduction   Module 5 Learning Objectives
+
+Module 5 discusses data, data regulation, data security and the emergence of TechFin. In focuses on both the opportunities as well as the risks and challenges arising from the process of digitization and datafication in finance, as well as policy and regulatory approaches and their implications for business.    
+
+In Module 5, learners will:
+
+* Understand the role of data in financial services
+* Consider various approaches to data protection and privacy
+* Think about the challenges of digitization and datafication, particularly cybersecurity and technological risk
+* Discuss the emergence of TechFins and the implications for financial services    
+
+---
+
+#### Module 5 Data & TechFin   5.2 History of Data Regulation   Video 5.2 History of Data Regulation
