@@ -328,3 +328,56 @@ to achieve your goals.
 ---
 
 #### Module 5 Data & TechFin   Industry Showcase: Application of Data Analytics in Finance (vPhrase)   Industry Showcase: Application of Data Analytics in Finance
+
+Hello everyone, I'm Neerav Parekh.
+I'm the founder of a company called vPhrase.
+We're from India.
+I'll tell you about how AI
+is being used in the data analytics space
+for FinTech companies.
+So, we created a product that a lot of institutions use
+for improving their report.
+Let me give you a few examples.
+Motilal Oswal which is one of the largest brokerages,
+they use a platform for creating portfolio analysis
+for their investors,
+so we examine 500,000 portfolios every month
+and create statements for the investors.
+The whole idea is to give them
+the key insights in the portfolio, using language.
+So, AI is being used to generate language from data
+to explain all the insights to the leader.
+So, that is one example.
+
+Another large very large private bank in India
+is using our platform to create personalised reports
+for the branch managers,
+so the whole performance of the branch,
+all the data is taken in,
+is analysed and language is written
+to explain to the branch manager
+how exactly is this branch doing.
+So, a few bullet points we'll tell him,
+Ok if your branch's achieving its targets,
+which products that are doing well,
+which products that are not doing well and so on.
+
+Then there's another large investment bank
+which is using our platform
+for risk analysis of stocks and mutual funds.
+So, they study the performance of mutual funds,
+they study the performance of companies
+and we use that data to create risk analysis reports
+for them on those stocks and mutual funds.
+So, as you'll see,
+we're using AI for data analysis
+and then creating language,
+natural language generation,
+so that people can understand the data better.
+Enterprises can make their reports
+easier to understand for their people.
+Thank you.
+
+---
+
+#### Module 5 Data & TechFin   5.4 European Big-Bang: PSD2 / GDPR / Mifid2   Video 5.4: European Big-Bang: PSD2 / GDPR / Mifid2
