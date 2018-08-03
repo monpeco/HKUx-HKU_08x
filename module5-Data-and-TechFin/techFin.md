@@ -502,3 +502,130 @@ of the EU single financial market.
 ---
 
 #### Module 5 Data & TechFin   Industry Showcase: PSD2: Open Banking API for Startups   Industry Showcase: PSD2: Open Banking API for Startups (Gini)
+
+For decades, FinTech startups
+have been developing useful apps
+and products to supplement normal banking products,
+and also give consumers more control and insight
+into their own finances.
+However, banks have never been keen on sharing data,
+so FinTech companies have had
+to spend considerable resources
+to develop workarounds to get the data.
+One of the main ways they have done this
+is through screen scraping.
+Screen scraping is the act of developing a programme
+to crawl through a website
+and copy the information into another database.
+This is commonly found in search engines like Google,
+which send crawlers through the internet
+to develop their search engine database.
+This year the European Union
+implemented Revised Directive
+on Payment Services aka PSD2
+which included regulations to promote the development
+and use of online and mobile payments
+such as open banking.
+Other countries are following suit,
+and in Asia, both Hong Kong and Singapore,
+as well as other countries
+are exploring opening banking APIs.
+Opening banking APIs would facilitate
+the growth of FinTech companies
+and also give consumers greater choice
+and opportunities in managing their financial lives.
+
+---
+
+#### Module 5 Data & TechFin   Industry Showcase: Methods of Data Protection: GDPR Compliance and Personal Privacy (Exate Technology)  Industry Showcase: Methods of Data Protection: GDPR Compliance and Personal Privacy (Exate Technology)
+
+Hello, my name is Jonathan Naismith
+and I am the Business Manager for Exate Technology,
+a RegTech firm specialising in
+data protection and data privacy,
+enabling regulatory compliance
+with the EU General Data Protection Regulation
+as well as Cross-Border Data Transfers.
+The recent data breaches at firms
+such as Equifax, Uber and Facebook's breach of privacy
+have led many to question the ability of firms
+to protect sensitive client data.
+Sadly, these recent breaches
+have become more of a trend than a phenomenon
+as they are increasingly common.
+So, why is this the case?
+To date, data protection has typically been done
+on an application by application level
+and each application is protected by an IT developer.
+The common problems with this
+are your IT developers are often contractors,
+and thus probably work somewhere else now
+and they view the task of protecting those applications
+as boring and time consuming.
+With new computing viruses being created daily
+and the introduction of
+quantum computing nearly upon us,
+traditional data protection has become outdated
+and needs to be addressed now.
+At Exate, we encrypt or tokenise the data
+on an attribute by attribute level at rest,
+in transit, and in memory as required under GDPR.
+This then allows an organisation
+to separate application security from data security.
+The question now becomes,
+"How does one view the data if it is always encrypted?"
+Exate ensure that data is seen strictly
+on a need to know basis for
+that specific individual, team, department or firm
+to fulfil their role.
+We achieve this by providing
+your data with a virtual visa.
+This is done by wrapping metadata or rules
+around each individual data attribute
+and allowing those attributes
+to flow throughout the organisation with those rules.
+Exate then just sit outside a firm's applications
+and acts as an automated border control for your data.
+To explain, imagine you have flown into an airport.
+If you are a local resident,
+you go down the fast track,
+that is your public data, it doesn't need to be protected
+it just flows throughout your organisation.
+Now your tourists,
+they have to go to the man in the booth
+who checks their passports and looks at their visa
+before deciding whether or not
+they can enter the country,
+we do the exact same thing for your data.
+So just before the data enters an application
+we look at the rules around each attribute
+and match that back to the individual
+who's trying to access the data.
+Now one of two things can happen.
+One, the individual passed the rule check
+in which the data will decrypt, or two,
+if the individual fails even one of the rule checks,
+the data will remain encrypted
+and their access blocked.
+Exate then provides clients
+with immutable forensic proof
+of who accessed, or attempted to access what data.
+In addition, Exate are able to provide customizable
+user reports on your data,
+in short, data about your data.
+Lastly, Exate Technology has
+no access to your clients' data,
+their decryption keys or their applications
+and requires no code changes to integrate
+with any web-based application.
+It is important to note
+the same technology can be used for
+Cross-Border Data Transfers.
+I hope this has been of interest to you
+and I would like to thank Hong Kong University
+for allowing Exate to share this with you.
+
+
+---
+
+#### Module 5 Data & TechFin   5.5 Digital Identity   Video 5.5 Digital Identity
