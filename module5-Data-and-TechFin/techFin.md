@@ -381,3 +381,124 @@ Thank you.
 ---
 
 #### Module 5 Data & TechFin   5.4 European Big-Bang: PSD2 / GDPR / Mifid2   Video 5.4: European Big-Bang: PSD2 / GDPR / Mifid2
+
+We've seen across this course
+how technology has transformed finance,
+and in particular, we've seen how finance
+has transformed finance in China,
+perhaps more so than any other place in the world,
+how firms such as Ali Baba and Tencent
+and their financial subsidiaries like
+Ant Financial and WeBank
+have led a digital transformation,
+driving finance in China
+from a cash-based, bank-based system
+to one which is based largely on data and technology,
+digital forms of payment,
+digital forms of lending,
+digital forms of investment,
+all based upon techniques of automation,
+big data, and increasingly, artificial intelligence
+to build a framework
+for an entirely new 21st-century form of finance.
+We've also seen in the context of India
+how India has been seeking
+to build a digital infrastructure
+to support the transformation of its financial system.
+
+Likewise, in the European Union,
+a series of changes coming into effect in 2018
+are fundamentally transforming the relationship
+between finance and data, setting the stage
+for a new European financial system
+not based on monetization of finance,
+but rather on monetization of data.
+And these three pieces go by
+the short names of GDPR, PSD2, and MiFID II,
+three rather uninteresting strings of letters,
+but fundamentally transforming the way
+that finance and data relate in the context of the EU.
+
+### GDPR General Data Protection Regulation
+
+and this has evolved out of a long process of building
+a legal framework for privacy
+and data protection in the EU.
+
+* GDPR is fundamentally about giving individuals power and control over their individual personal data.
+* It allows individuals to direct holders of their personal data to delete it, forget it, transfer it, and in any way that it is the data of the individual,
+rather than the data of the company, of the firm.
+
+And this is fundamentally transforming the way
+that businesses think about their relationship
+to their customer and their data.
+This in particular is a big challenge for tech firms
+like Google or Facebook or Ali Baba or Tencent.
+
+
+### PSD2 the Payment Services Directive 2.
+
+PSD2 sets new rules to allow open entry of a wide range
+of new entrants to the payments industry.
+But beyond allowing
+an increasing range of new entrants
+and encouraging digitization
+and transparency of payments,
+PSD2 also creates a series
+of requirements for open banking.
+In other words, for a customer,
+if a bank has your data,
+information about your financial history,
+your financial transactions, your financial accounts,
+PSD2 requires those banks,
+if you so direct, to allow
+third parties access to your data, to your accounts.
+And this fundamentally sets
+a framework for banks' business
+being transformed as customers' data and access
+to their accounts is no longer under the control
+of banks and other financial institutions,
+but it is open to new entrants,
+new startups, new tech firms,
+all of which are gaining access to massive
+amounts of data under the control
+of the individual consumer,
+rather than the financial institution.
+
+### MiFID II Markets in Financial Instruments Directive II.
+
+MiFID II is an initiative that has evolved
+out of the 2008 global financial crisis.
+It is fundamentally about creating **greater transparency**
+in the formal financial markets,
+markets for bonds, shares, derivatives, and the like,
+whether those are traded on exchange or off exchange.
+And amongst many other things,
+it requires the **reporting of all transactions
+relating to EU financial instruments**,
+like bonds or shares or derivatives, whether or not
+those transactions take place on or off exchange.
+In terms of total size, it has grown to be
+more than 1.7 million paragraphs in length,
+7,000 printed pages of regulations,
+which have required financial institutions to spend
+literally tens of billions of dollars in
+building new systems
+to meet its reporting requirements.
+
+Each of these systems,
+PSD2, GDPR, and MiFID II,
+were all designed for specific reasons.
+But no one thought about what would happen
+when you combined them together.
+And this will be a big bang
+transforming over the coming decade
+the European financial services industry,
+bringing together data and finance in a way
+that has never been seen before in the context
+of the EU single financial market.
+
+
+---
+
+#### Module 5 Data & TechFin   Industry Showcase: PSD2: Open Banking API for Startups   Industry Showcase: PSD2: Open Banking API for Startups (Gini)
