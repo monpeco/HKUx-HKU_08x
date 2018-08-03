@@ -985,3 +985,72 @@ simply the ownership of a regulatory licence.
 ---
 
 #### Module 5 Data & TechFin   5.7 AI and Governance   Video 5.7 AI and Governance
+
+In a previous module,
+I have briefly described artificial intelligence or AI
+as part of the ABCD technologies driving FinTech.
+As institutions increasingly explore
+and implement more AI and machine learning
+into their processes and offerings
+to customers and clients,
+there's an increasing concern
+from policy makers, researchers and regulators
+about the responsibility and governance frameworks
+that should be in place.
+
+AI researchers have coined a useful acronym
+to better understand the core concerns.
+They call it AI F.A.T.
+**Fairness, Accountability and Transparency**.
+Machine learning involves algorithmic models
+being trained using datasets.
+
+However, the saying goes,
+garbage in, garbage out.
+Unconscious bias can arise,
+including egregious examples such as image data sets
+not facially recognising African Americans,
+or categorising them as gorillas.
+Malicious and mischievous actors
+can also influence machine learning.
+This was painfully demonstrated
+when Microsoft's Tay chatbot
+devolved into racist and sexist rants
+as a result of learning from
+deliberately offensive behaviour of Twitter trolls.
+
+Furthermore, as ever more data sources become
+available to track both individual online behaviour
+as well as offline activities
+through connected devices
+such as wearables and smart homes,
+machine learning is being used
+to convert these behavioural data
+into individual profiles for predictive analytics.
+Yet, how fair is it if machines increasingly make
+financial access and pricing decisions
+based on individual predispositions
+rather than actions?
+Machine learning is being used for important processes
+such as credit ratings, search engines, bank loans,
+university applications, and health insurance,
+and becomes even more crucial
+when applied to RegTech
+which could lead to civil liability
+and loss of one's liberty.
+
+For example, was there unconscious racial bias
+in the COMPAS algorithm for criminal sentencing
+risk assessments in the United States?
+Do Facebook's algorithms have a confirmation bias
+that allows fake news to be targeted,
+and in turn did their postings
+impact the outcome of the Presidential elections?
+The need to combat negative bias outcomes,
+unconscious or otherwise,
+remains an important source of concern.
+
+
+---
+
+#### Module 5 Data & TechFin   5.8 New Challenges of AI and Machine Learning   Video 5.8 New Challenges of AI and Machine Learning
