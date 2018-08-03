@@ -629,3 +629,359 @@ for allowing Exate to share this with you.
 ---
 
 #### Module 5 Data & TechFin   5.5 Digital Identity   Video 5.5 Digital Identity
+
+This module will be around digital identity.
+The reason why digital identity matters is because
+it will be one of the most impactful technology
+in the next five years
+for you as a viewer.
+Identity can be defined
+in four different types of categories.
+**Physical identity** will be
+elements such as your fingerprint,
+your iris, or your DNA.
+**Legal identity** will be, for example, your passport,
+your Hong Kong ID, or your driving licence.
+Physical and Legal identities
+is what we call **static identity**.
+However, you also have something called
+**dynamic identity**.
+For example, your **electronic identity**
+is your social media.
+Facebook, Twitter, Weibo and WeChat
+are example of social media
+that are covering your identity.
+And finally, **behavioral identity**.
+The way you talk, the way you walk,
+the way you type a message
+is very unique to you.
+And therefore, electronic and behavioral identity
+are typically called dynamic identities.
+
+Now let's bring that in context of finance.
+When you're a financial institution,
+you will typically get to know your customer
+by the time they going to register,
+by giving their passport, or their legal identity,
+and electronically when they
+will be transacting with you.
+What you buy,
+the insurance products that you take,
+or the mortgages that you actually get from the bank.
+Apart from these touch points,
+the bank doesn't necessarily know you.
+They don't really have an access
+to your behavioral identity,
+they don't really have access
+to your electronic identity.
+Therefore, the banks,
+unless you often are transacting with the bank,
+and if you have a bank account in the first place,
+will typically be unable
+to have a full picture about yourself.
+And this is why for example,
+in the West we call **thin credit files**.
+These are people that,
+whilst banks would often have financial interaction,
+and therefore are not always recorded
+as a customer of that bank.
+
+Now in that context, identity actually has few flaws.
+In the West, identity is more and more unsafe.
+Look at the recent data hack
+that has been happening for example in Equifax.
+Equifax was holding financial information,
+and now one in two Americans
+has information exposed to a public.
+
+However, if for example,
+in the context of developing markets,
+people don't necessarily have passports.
+Because 1.2 billion people in developing countries
+do not have a form of formal identity,
+they cannot typically enter financial service industry,
+and therefore, we need to totally rethink
+the way we're going to be identifying people
+to authenticate a transaction.
+
+So let's take some of these examples.
+First of all, we'll go in India.
+India has launched a programme called Aadhaar,
+which is now providing 99% of the population over 18,
+with a 12-digit number
+that is essentially a representation
+of your biometric data and your geographical data.
+With your Aadhaar number,
+not only can you withdraw cash at an ATM,
+but you will now also be able to authorise
+a large transaction,
+or even do an online learning course
+by scanning your iris to identify yourself
+as a student of that course.
+
+In Nigeria, digital identity is being used
+for civil servants.
+This is very important for the government
+because they have realised
+that there is a lot of identity theft coming on.
+That identity theft is then leading to people
+either receiving two times a salary,
+or receiving someone else's salary.
+And since implementing digital identity to civil servant,
+they have now saved over 75 million US dollar.
+
+Finally, Europe.
+In the context of Europe,
+you have PSD2 on one side
+and GDPR on the other side,
+which are changing the way
+data of consumer is being used.
+Whilst PSD2 is more about payment competition,
+and whilst GDPR is about personal data protection,
+the combination of both
+is putting the individual
+at the centre of the financial services industry,
+and empowering them with their own data.
+Therefore, now someone would be able to give access
+to their bank account to a merchant that actually
+directly wants to transact,
+bypassing the traditional card network,
+or the merchant acquirers.
+
+Therefore, what we see is that
+finance is being changed,
+and digital identity alongside.
+We need to go from a model
+where we trade data for convenience,
+to a world where we trade data for compensation.
+Part of that step is going to be GDPR in Europe.
+GDPR, while not allowing individual to
+monetize their data,
+is providing individual control on their data
+by notifying an individual of a breach,
+or by allowing an individual of doing data sharing.
+
+Finally, the next step is going to be about reforming
+and how ownership is done.
+Once we have covered the ownership part,
+we'll have to consolidate our data into a single wallet.
+That aggregation will allow us to bring together
+the behavioural data, the electronic data,
+the legal data, and the physical data
+into a single wallet that we will control,
+and then we can either grant access to,
+or monetize from.
+
+
+---
+
+#### Module 5 Data & TechFin   5.6 Change in mindset: Regulation 1.0 to 2.0 (KYC to KYD)   Video 5.6 Change in mindset: Regulation 1.0 to 2.0 (KYC to KYD)
+
+This RecTech Module has shown you
+how regulation is changing.
+This change of regulation
+can be captured by the notion of KYC to KYD.
+Know your customer to know your data.
+The reason why this is changing,
+is that from a regulator perspective,
+we're going from a world where we're regulating people
+to a world where we'll be regulating processes,
+automation, and algorithm.
+And this requires a total different mindset
+but also skill sets for a regulator
+to perform that job when that transition has happened.
+
+One of the first things that we'll see
+will be about human capital.
+First, regulator from a human capital perspective
+will bring brand new stuff in to
+better perform their role as regulators.
+And in particular I have in mind data scientists.
+Just like technology companies or financial institutions
+have gone for the last few decades,
+regulators will keep on
+increasing their team of data scientists.
+
+The second part of that is
+that from a mindset perspective
+regulators have to accept that technological neutrality
+is not anymore a starting point.
+What's technological neutrality has been
+a very important notion for the regulators to prevent
+them from chasing the latest changes in technology,
+today this is not sufficient anymore.
+The reason why I say that
+is because you have learned in the first module
+how financial technology cycles are shorter and shorter.
+But that's exactly the same thing for regulators.
+Think about it.
+From your personal perspective as a consumer,
+a few years ago you would use your pin code to
+authorise a transaction.
+Last year, you might have used your fingerprint
+and tomorrow you might be using your iris.
+
+From a regulator perspective
+if every single time that technology are changing
+and evolving and you go to them and you say
+please can you find me an authorised technology,
+the regulators will be bombarded
+and clogged with the amount of requests coming in.
+And therefore what they said is
+I do not care about the technology,
+tell me about what you're trying to achieve
+from a process perspective
+and I will make sure that process is comply.
+The problem with that approach today
+is that more and more of the decision making
+is automated as well as the origination of products,
+and therefore if regulators don't understand
+how algorithms are operating at the code level
+and the type of data that they are using,
+it will be very very difficult
+for them to perform their role
+which is about consumer protection,
+financial stability,
+and even competition.
+
+Regulation is therefore changing.
+We're going to go from
+regulation 1.0 to regulation 2.0.
+And to do that transition from
+a know your customer world
+to a know your data paradigm,
+few changes will have to happen.
+We have put together seven key points on
+how regulation is done today and
+how it will be done tomorrow.
+
+**Reg 1.0**
+1. Consumer protection
+2. Prudential regulatioin
+3. Financial stability
+4. Prevent bad behaviours
+5. Re-active
+6. Reporting (Push) compliance
+7. Licenses = barriers
+
+**Reg 2.0**
+1. Data privacy
+2. Algorithm sanbox
+3. Financial networks
+4. Promote good behaivours
+5. Pro-active
+6. API (Pull) compliance
+7. Deep learning = barriers
+
+
+
+
+First point, consumer protection.
+What is important for regulators
+to ensure that the money of people
+doesn't get lost or misappropriated?
+I think that this quote has highlighted to you
+the increasing value of data
+either from a monetization perspective
+or for a financial decision perspective.
+And therefore, data protection and data privacy will
+be equally important as monetary protection of
+your individual deposits.
+
+The second point is prudential regulation
+which requires firms to put control in place as well as
+capital in order to mitigate for risk.
+However, going forward,
+it's more going to be about algorithm compliance.
+Where a regulator will have to do due diligence on
+a system and an algorithm before you're allowed
+to go to market instead of simply asking for capital
+to be put against risk.
+
+The third point is financial stability.
+While financial stability is very important,
+it fails to encapsulate the notion that
+financial systems are very much dynamic networks
+of many individuals and companies
+operating at the same time
+that can impact each other.
+And therefore the capacity
+of regulating a financial network as opposed to
+promoting financial stability will be more valuable.
+And this is very much aligned with the vision
+and the quote of Andy Haldane when he talks about
+that Star Trek chair to supervise markets.
+
+The fourth point is about preventing bad behaviour.
+Whilst conduct risk has been a major focus point
+following the financial crisis,
+and this has been a positive development,
+firms are still able to pay their way out
+of reprehensible actions.
+Therefore, regulators would set in place a system where
+they can promote good behaviours in order to reinforce
+the quality of financial networks.
+
+The fifth point is about reactiveness.
+Regulators especially following the crisis,
+have been very reactive to the shock that
+the great financial crisis has brought to them.
+However, what we have seen in this course is that
+technology keeps on changing faster and faster.
+And therefore the capacity of being reactive to
+technological change will lessen in terms of value.
+Therefore, regulators need to be forward looking
+and think about how finances
+will be transformed tomorrow
+so that they can start to prepare today.
+
+The sixth point is about reporting.
+Push compliance is when financial institutions
+are sending reports to the regulators
+about specific questions
+that has been asked about them.
+For example, for the very first time the Bank of England
+has been asking financial institution to include
+the impact of FinTech in their business.
+What that means is that now financial institutions
+are thinking twice about how financial technology is
+going to be impacting their business
+from a risk perspective.
+Now, that simple question has therefore
+changed the behaviour of the firm that
+you are trying to supervise.
+Therefore a better way would be
+the notion of API compliance
+or the capacity of regulators to pull the information
+directly from the financial institution
+without asking them a question and
+therefore directly analyse the impact of external shocks
+such as FinTech on their businesses.
+Therefore, pull compliance will allow regulators
+to supervise firms without
+changing the behaviour of these institutions.
+
+The seventh point is about the barriers to entry.
+Today, financial markets are controlled
+from the supply of institution
+by the numbers of the licences issued by regulators.
+You can only call yourself a bank
+if you receive a banking licence.
+However, tomorrow the next barrier to entry will be
+about the quality of the algorithm that is held
+either by the financial institution or
+by the tech company.
+The reason why I say that is that finance
+on the back of the amount of data currently gathered
+is going to be incredibly personalised just to you.
+And therefore that level of customization and
+individualization will represent
+an experience barrier to entry which is
+driven by algorithm as opposed to
+simply the ownership of a regulatory licence.
+
+
+
+---
+
+#### Module 5 Data & TechFin   5.7 AI and Governance   Video 5.7 AI and Governance
