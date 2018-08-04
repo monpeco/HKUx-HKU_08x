@@ -1239,3 +1239,146 @@ as a governance model for their customer.
 ---
 
 #### Module 5 Data & TechFin   5.10 Data is the New Oil: Risk of Breach   Video 5.10 Data is the New Oil: Risk of Breach
+
+Welcome back to the HKU FinTech course.
+This module is going to be about data.
+Recently you may have heard about the sentence
+data is the new oil.
+These simple words have two deep impacts.
+On the first side, it means that data
+is going to be one of the most valuable commodity
+of the 21st century.
+On the second side, it also means that regulators
+are going to have to focus on how data
+is being consumed, extracted and monetized
+by individuals and companies.
+Now, data is not something new
+and data has been around for the last few decades
+and whilst two thousand represented
+arising massive tech companies
+which we still see today
+such as the GAFAs,
+Google, Amazon, Facebook and Apple,
+those tech companies have approached data
+in a total different way.
+
+For example, you may have heard about the expression,
+
+> if it's free, you're the product.
+
+And that sentence really means one thing.
+Is that the personal data that you generate
+is more valuable to the company
+and this is why they're giving you a free product.
+
+Tech companies have understood that
+and because data is core to their business,
+they typically have structured data,
+data that is searchable, indexable
+and that can create value more easily.
+But that's not the case for everyone.
+Financial institution, for them
+data was a by-product of their business.
+Financial institution make money
+by putting a lender and a borrower together
+by investing your money into the stock market
+but they don't necessarily make money by your data
+and therefore the data you provide them,
+whether it's your passport
+or whether it's transactional data
+is very much a by-product of their own business
+and therefore that data is so far unstructured.
+
+The difference between
+unstructured data and structured data
+is that structured data is searchable, indexable
+and can be more easily monetized
+for financial institution or tech companies.
+
+Now, data is being used in different ways in finance.
+For example, it can be used for decision making,
+new business discovery,
+enhancement of productivity
+and regulatory compliance.
+Let's take an example for each of these.
+
+Startups are typically improving their product
+at a rapid rate because they use the data
+on their product and their consumer
+to keep on improving the quality of services
+they keep delivering to you.
+
+The second one is banks.
+Banks are using data
+to do better decision making.
+For example credit scoring.
+Credit score will impact
+whether a bank will originate a loan to you
+and if so, at what interest rate.
+Regulators and specifically securities regulators
+have been using data for a long time
+to monitor market
+and check if there's no insider trading happening.
+For example, Alibaba has understood
+that there's a correlation
+between people wearing skinny jeans
+and breaking phones.
+The reason is because of the lack of pockets.
+And therefore Alibaba is gradually starting
+to sell insurance product for phone coverage
+to the people buying skinny jeans
+on their e-commerce platform.
+In other words, what you have is that data
+has many opportunities
+and data will be allowing the rise of invisible banking.
+For the last 100 years,
+banks have changed the way they were operating.
+70 years ago the notion of community bank
+where you used to know your banker
+and have customised service just for you happened
+but it was inefficient.
+And then the bank consolidation happened
+and now we have universal banks
+where you're only one of a million of a customer
+across the globe
+but tomorrow you will have invisible banks.
+Invisible bank will create individualization
+of financial product just for you
+even though you're part of
+a large financial conglomerate.
+
+On the back of those opportunities
+you also have risks.
+Those risk are very much the factor
+that data is so valuable
+and the people controlling data
+will now control markets.
+And therefore regulators have to understand
+how this is going to be changing in the future.
+The regulation of data
+might be one of the most important part
+for regulators to focus on
+as opposed to the regulation of algorithm
+because we control as individual or data,
+the firms control the algorithm
+and it might be easier to control data access
+than data output.
+
+Finally, market reforms.
+The rest of this course will show you
+how regulators from around the world,
+technology companies as well as financial institution
+are approaching the question of data.
+Whilst data ownership is very much looked
+for the individual perspective,
+we'll discover that in India,
+data is regarded as a public good
+and therefore regulated as such.
+The rest of the course will show you
+all you need to know about data,
+how it's impacting finance,
+infrastructure and regulators around the world.
+
+---
+
+#### Module 5 Data & TechFin   Industry Showcase: Cybersecurity Industry Update (Microsoft)   Industry Showcase: Cybersecurity Industry Update (Microsoft)
