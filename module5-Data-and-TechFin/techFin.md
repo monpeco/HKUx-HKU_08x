@@ -1104,3 +1104,138 @@ as requested by the regulators.
 ---
 
 #### Module 5 Data & TechFin   5.9 Data, Metadata and Differential Privacy   Video 5.9 Data, Metadata and Differential Privacy
+
+I'm now going to be talking about the difference
+between data and metadata
+and how this is being expressed
+with the concept of differential privacy.
+If you think about what financial technology is,
+financial technology is about the digitization of money
+but if you introduce the notion of TechFin,
+TechFin is about the monetization of data.
+Therefore the point is going to be
+how are we are going to differentiate our data?
+Currently, the way this has been done
+is that technology companies
+have tried as much as possible not to have
+personal identifiable information about you.
+The reason why they try to avoid this
+is because as soon as they have PII data,
+they start to be subject
+to more stringent regulatory supervision
+and therefore increase costs for their business models.
+And so far this has worked.
+The reason is because personal information
+such as your age but also the content
+of a discussion is something that computer
+had a very hard time to understand and make sense of.
+Only very recently are computer have
+the sufficient computing power
+as well as the understanding of the human language
+to find out content in a conversation.
+
+Instead, what computers have done
+is to look at metadata.
+Metadata is contextual data
+which is around a content.
+For example, the metadata
+around my discussion with you
+would be how long it took me
+to actually record that video,
+the content and the numbers of people
+which are seeing that video, etc.
+
+The contextual data when it's
+sufficiently cross referenced
+with a lot of different dataset
+which typically tech companies have
+will allow you to infer content.
+Let me take another example.
+If I am on LinkedIn and suddenly I start
+changing my behaviour, contacting more people
+and asking for meeting requests,
+this is going to flag LinkedIn
+that my behaviour is changing
+and therefore I may be looking for another job.
+And yet at no point did LinkedIn
+actually start looking into my messages
+saying I am looking for another job opportunity.
+They were able to infer that content using metadata.
+
+Data versus metadata is
+a very important thing
+because financial institution
+have very good at protecting your data
+but technology companies
+have been very good at monetizing your metadata.
+Therefore we need to start to see
+how we are going to create a framework
+to regulate that.
+
+And here you have an example of
+what technology companies such as Apple are doing.
+There's a notion called differential privacy.
+Differential privacy is about giving
+the information to the person
+without revealing the whole information set.
+There're many use cases that
+you can be able to relate to.
+In the context of finance,
+typically for financial institution to on board
+a financial citizen will mean
+more stringent regulatory and compliance requirements
+because of that American citizen
+now being on boarded.
+And therefore sometimes it's important
+for a financial institution
+to know that a customer is not an American citizen.
+Differential privacy allows for that.
+It's about telling someone who you're not
+without revealing the whole information.
+Therefore, as long as a financial institution knows
+I am not an American,
+I may be any other nationalities
+and that's good enough.
+
+The other way of looking at it is for example,
+accessing certain website.
+Certain website will require you to confirm
+that you're not under 18
+but they do not care whether you are 21 or 38.
+The fact that you are 21 or 38
+actually starts to be a hint
+towards personal identifiable information
+but that can be linked back to you
+and therefore differential privacy
+gets away with that notion by not sharing
+the full picture by telling who you are not.
+And as long as the rule set is strong in place
+with the financial institution,
+they'll be able to leverage on that information.
+
+This is what differential privacy is bringing
+and differential privacy
+is typically being led by companies
+which are not here to make money from your data.
+Apple revenue is at 80% driven by hardware sale.
+Therefore, for them to not release
+and monetize your data is not actually a compromise.
+It's something that makes economic sense.
+But a company like Google
+and Amazon or Facebook
+which have much more difficulty
+of actually enforcing differential privacy
+because their business is about sharing
+the whole complete set of information.
+
+Therefore going forward
+you will have a split.
+The companies which are not monetizing your data
+will support differential privacy
+versus the companies which are monetizing your data
+will typically look at data sovereignty
+as a governance model for their customer.
+
+---
+
+#### Module 5 Data & TechFin   5.10 Data is the New Oil: Risk of Breach   Video 5.10 Data is the New Oil: Risk of Breach
