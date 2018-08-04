@@ -1054,3 +1054,53 @@ remains an important source of concern.
 ---
 
 #### Module 5 Data & TechFin   5.8 New Challenges of AI and Machine Learning   Video 5.8 New Challenges of AI and Machine Learning
+
+Artificial intelligence is only so strong
+and so good as the data that you serve it.
+And actually when you think from
+a regulation perspective,
+it's not so much the regulation
+of one algorithm which is going to matter.
+It's more going to be about the quality of algorithm,
+and the natural tendency of
+algorithm to create a oligopoly.
+Data is fueling algorithm,
+and algorithm only grow by having more data.
+And therefore, technology companies
+are doing whatever it takes them to be able
+to capture all the data they can on their consumer
+to have a dominant market position.
+I think that data is the new oil as a sentence
+is reflecting what you had in the U.S. when you had oil.
+The antitrust movement in the U.S. that was trying
+to break away the big U.S. cartels around oil
+is what's going to be happening in the data space.
+Because data is naturally driving network effects,
+and because network effects are themselves
+very naturally oligopolistic,
+the regulators will need to find a way of
+breaking away the dominance
+of large tech firms that are controlling most of the data.
+Your social data is most likely controlled by Facebook.
+Your e-commerce data is more
+likely controlled by Amazon.
+Your professional data
+is more likely controlled by LinkedIn.
+These people have all the information about you.
+And the only way to break away that stranglehold
+on your personal data is by allowing you as an individual
+to share your data to other people.
+So that you can then fuel the algorithm
+of a competitor with the data
+that you have been building
+about yourself for the last 10 years.
+This is where data regulation will go in the future.
+Data regulation will focus on individual data
+as opposed to the algorithm adjustment
+that will be required to be made
+by technology companies
+as requested by the regulators.
+
+---
+
+#### Module 5 Data & TechFin   5.9 Data, Metadata and Differential Privacy   Video 5.9 Data, Metadata and Differential Privacy
