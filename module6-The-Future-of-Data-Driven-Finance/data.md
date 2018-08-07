@@ -454,3 +454,116 @@ and I hope you enjoyed this part.
 ---
 
 #### Module 6 The Future of Data-Driven Finance   6.5 Case Study 4: Credit Karma   Video 6.5 Case Study 4: Credit Karma
+
+Hello and welcome to this module
+about Credit Karma.
+The reason why I chose Credit Karma
+is because it is a very interesting example
+of a business model linked to
+the monetization of data in finance.
+In other words,
+this is a financial company
+that makes money from data
+in the same way
+as Facebook or Google for example,
+but really in the field of finance.
+You have heard about
+the changing role of data in finance
+in previous modules,
+and Credit Karma will help you understand
+how it works in practise.
+Credit Karma is a US company
+that was created in 2007
+by Kenneth Lin, Nichole Mustard and Ryan Graciano.
+They started with the vision
+that credit and financial data should be free.
+What does it mean in practise?
+In the US, any lending decision
+is linked to the credit score of the consumers.
+For example, if I wanted to borrow for a house
+or for a car,
+my bank would first check my credit score.
+Until Credit Karma started,
+consumers could access their credit score,
+but they had to pay for it.
+Credit Karma's model
+was to offer credit scores
+to their users but for free.
+In exchange of this free service,
+Credit Karma sends targeted advertising.
+For example, Credit Karma,
+having the information about its users,
+could suggest a credit card with a lower rate,
+and Credit Karma would be paid a fee
+if the users take that credit card.
+As they grew,
+they started to offer more and more products.
+They started to offer free credit scores,
+but then credit monitoring,
+recommendations for credit card,
+free tax filings,
+recommendation for loans,
+and identity monitoring for example.
+In other words,
+as they got an increasing amount
+of data about their users,
+they could offer
+more and more free financial advice,
+and make money
+when there's a transaction at the end.
+As a company, the growth of Credit Karma
+has been quite amazing
+during the last few years.
+Today they have 75 million users,
+including a third of all millennials
+and a third of all Americans
+with a credit profile.
+In 2016, they made more than $500 million in revenue
+and they were rumoured to be profitable.
+They have also raised around $400 million
+and at their last round of financing,
+they were valued at $3.5 billion.
+In terms of international expansion,
+they have now also expanded into Canada.
+So, what can we learn from Credit Karma?
+We hear a lot about the role of data in finance,
+but what does it really mean?
+Credit Karma is an interesting example,
+because from a conceptual standpoint,
+it is very similar to
+what Google for example would do
+if they wanted to monetize data in finance:
+offer a product for free,
+and in exchange push targeted advertising.
+And so perhaps it's not a coincidence
+that Google is actually
+an investor in Credit Karma.
+Credit Karma is also an interesting illustration
+of scalability in finance.
+Normally in finance
+it used to take quite a long time
+for financial companies to grow,
+but here we have an example of a company
+which managed to get 25% of the US adult population
+to use its products in less than 10 years.
+Again, that's a blueprint that we normally see
+in tech companies rather than in finance.
+The importance of data in finance
+I think cannot be underestimated,
+and I suspect that most business models in finance
+will rely very heavily on data in the next decade.
+We are in a transition phase at the moment,
+where new models are emerging,
+and at the same time
+old models are trying to adapt.
+If you have the time,
+try to find companies
+that are successful in using data in finance.
+Thank you very much for following this module
+and I hope that you won't forget
+that data will be big in finance.
+
+
+---
+
+#### Module 6 The Future of Data-Driven Finance   6.6 Case Study 5: Digibank   Video 6.6 Case Study 5: Digibank
