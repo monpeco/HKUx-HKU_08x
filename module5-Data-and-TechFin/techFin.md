@@ -1382,3 +1382,158 @@ infrastructure and regulators around the world.
 ---
 
 #### Module 5 Data & TechFin   Industry Showcase: Cybersecurity Industry Update (Microsoft)   Industry Showcase: Cybersecurity Industry Update (Microsoft)
+
+
+Hi, my name is Jason Lau
+and I'm the Cybersecurity Advisor at Microsoft.
+Today I would like to talk to you briefly
+and give you an update
+on cybersecurity industry as a whole
+and also some trends in the marketplace
+which certainly also impact companies in FinTech.
+Many say 2017 was the year of ransomware
+and 2018-2019 are the years of
+compliance, regulation, and privacy.
+This is surely the case with new industry regulations
+and laws coming in to effect this year
+like GDPR, Singapore Cybersecurity Law,
+PCI DSS 3.2 and many more.
+"Businesses and users are going to embrace technology
+only if they can trust it."
+This message is from Microsoft CEO,
+emphasises the importance of trust
+whenever we deal with cybersecurity matters.
+The world is changing.
+And in the past it used to be
+it is not a matter of IF you will get hacked,
+it's a matter of WHEN.
+Now hackers get more advanced
+and organisations are rushing to keep up to date.
+And the new phrase in industry
+is that you need to assume
+you already have been breached.
+Former FBI Director James Comey
+best summarised this as
+"there are two kinds of companies,
+the ones who have been hacked
+and those who don't know that they have been hacked."
+McKenzie also acknowledges this
+stating that cybersecurity is a CEO issue.
+And the loss of productivity and growth
+is over $3 trillion.
+The average cost of data breaches is $3.5 million.
+And as you can see, cyber threats
+are a material risk to your organisation.
+Here, I'll briefly go through what we call
+the cybersecurity known attack playbook.
+On average, a hacker typically sits your network
+for over 500 days before they are detected.
+The hacker will spend a significant amount of time
+achieving their objectives,
+which includes reconnaissance,
+and involves social engineering
+to learn more about your organisation
+and users' behaviour.
+Then they decide on a strategy
+for their initial compromise.
+Once they are in, they will protect themselves
+from any basic and typical actions companies will do,
+such as rebooting machines.
+From there, they will start to look
+for high-privileged accounts.
+And if they cannot,
+they will do their best to perform credential theft
+with the goal of elevation of privileges.
+From here, they will persist in your network
+and move laterally
+and then access sensitive data.
+As you can see, from a typical defender perspective,
+if you don't have measures,
+security and real-time monitoring in place throughout,
+you are just playing catch up with incidence response
+at the very end of the lifecycle.
+This is really often too late.
+Thus, on top of the minds of
+chief information security officers,
+companies have identified
+their threat detection and response,
+data protection and identity
+and access management
+are key focus areas for 2017 and 2018.
+Here I'd like to talk to you
+about the evolution of security perimeters.
+In the past, we would build on our on-premise network.
+We would build it like a castle.
+And it'd be very hard for hackers to breach
+your physical infrastructure.
+Then it evolved to be more of a network infrastructure.
+And we got smarter.
+We put in things like intrusion detection systems,
+intrusion prevention systems,
+smart firewalls, honeypots, etc.
+But now this is not enough.
+And we're moving to what's called
+an identify driven security perimeter.
+In the past, all of your files and assets
+would be within your physical network perimeter.
+Each day, hundreds of thousands of attempts
+will be made on your network.
+And it would only take one user
+on the link to click through.
+Often it is through a phishing email
+in someone in your company,
+then they will get tricked
+into clicking that particular link.
+The link happens to be malicious
+and they could perform one of many actions.
+One action could be to download and install
+malicious payload
+to gain access to your company resources.
+As you can see in the diagram,
+in the modern workplace,
+employees access data
+from work, home, cafes, hotels, airports,
+and the attack perimeter now extends farther
+and going to users wherever they go,
+thus, giving rise to the title
+identify driven security perimeter.
+One way to help strengthen security
+is through multi-factor authentication.
+Unfortunately, all three factors
+of something you have,
+something that you know,
+something that you are,
+have all been hacked.
+The trend now is to look at multi-factor authentication
+and add additional layer of security
+called risk-based conditional access,
+where real-time monitoring
+and the users' behaviours and location
+can help us to assign a user and session risk score,
+which then allows us to take immediate
+real-time actions to either allow access,
+deny access, or request additional levels
+of authentication before they continue.
+Microsoft has been leading the way with cybersecurity
+and trust and fighting for users' privacy.
+Microsoft has stated that cybersecurity
+is a No. 1 priority for the company
+and investing over one billion each year
+into cybersecurity,
+including most recently,
+the purchase of an Israeli company called Hexadite,
+which focuses into the auto-detection
+and auto-remediation of security incidents.
+Thank you for your time
+and hope the short briefing on cybersecurity
+was useful for you.
+Thank you.
+
+---
+
+#### Module 5 Data & TechFin   Additional Resource Insights   Additional Resource Insights
+
+References and Suggestions for Further Reading
+* [From FinTech to TechFin: The Regulatory Challenges of Data-Driven Finance (Academic Paper: Zetzsche, Buckley, Arner, Barberis)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2959925)
+* [The Emergence of RegTech 2.0: From Know Your Customer to Know Your Data (Academic Paper: Arner, Barberis, Buckley)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3044280)
+* [How Tesla and Waymo are Tackling a Major Problem for Self-driving Cars: Data (Industry News - The Verge)](https://www.theverge.com/transportation/2018/4/19/17204044/tesla-waymo-self-driving-car-data-simulation)
