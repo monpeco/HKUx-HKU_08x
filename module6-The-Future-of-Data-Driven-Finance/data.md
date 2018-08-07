@@ -177,3 +177,152 @@ Thank you very much.
 ---
 
 #### Module 6 The Future of Data-Driven Finance   6.3 Case Study 2: Alibaba   Video 6.3 Case Study 2: Alibaba
+
+Welcome.
+In this session,
+we will look at the case study of Alibaba.
+Alibaba has already been
+mentioned several times in the course, for example,
+in the modules about mobile money,
+evolution of payments,
+and also alternative finance.
+I wanted to spend some time with you
+on Alibaba
+because it is a very important illustration
+of the changing landscape in finance,
+and how in certain markets,
+new entrants are quickly
+taking market share
+from traditional financial institutions.
+The financial arm of Alibaba
+started in 2004 with Alipay,
+to facilitate payments for users of Taobao.
+Alibaba's Business-to-Consumers platform.
+If we go back in history,
+in 2002 eBay acquired PayPal
+with the objective to integrate payment
+into its auction platform,
+and facilitate transactions for its users.
+The creation of Alipay by Alibaba
+followed a very similar objective,
+and one of its first features
+were an escrow service,
+where the money was not paid to the seller
+until the goods were received.
+Alipay started as a payment mechanism for Taobao,
+but very quickly
+grew to offer more and more services,
+from payment of utilities to money transfer.
+In 2009, Alipay launched mobile payments,
+and this has become
+one of the most well-known successes of Alibaba.
+In practise,
+why is Alipay so different from other services?
+If you think of PayPal
+as a payment mechanism,
+Alipay in its first version
+was very similar to PayPal.
+If you think of Apple Pay or Samsung Pay,
+we could say that
+Alipay in 2010 was very similar
+to those mobile payment services
+where you can pay from your smart phone.
+But the biggest difference
+is that from the Alipay app,
+a consumer has access to all the services
+that a financial institution can offer,
+from payment to investment,
+from insurance to money transfer.
+In other words,
+Alibaba built a digital bank from scratch
+and put it directly in the smartphone
+of its clients.
+Today, the financial arm of Alibaba
+is Ant Financial,
+and although we think of Alibaba
+as an e-commerce company,
+Ant Financial is really
+a diversified financial services institution.
+It includes Alipay,
+which Alibaba calls a lifestyle enabler,
+and which I would call
+the ultimate bank in a phone,
+where consumers can make payments,
+buy movie tickets,
+invest money.
+And not just online,
+but also in physical shops.
+Today Alipay has 500 million clients.
+A second pillar of Ant Financial
+is Ant Fortune,
+the asset management arm
+that includes Yu'e Bao,
+which is today, the largest money market fund,
+or one of the largest money market funds in the world
+with more than $100 billion under management.
+Another activity of Ant Financial
+is Sesame Credit,
+which is a credit rating agency,
+and that takes a very large amount of data
+including social data to score individuals.
+In terms of numbers,
+Ant Financial has become
+one of the largest financial institutions in the world,
+with half a billion clients in China,
+but is also very significantly expanding
+in other countries.
+For example,
+they are an investor in Paytm,
+the largest mobile payment platform in India,
+or Ascend in Thailand
+and Kakao Pay in Korea.
+What can we learn from Alibaba?
+Alibaba is so massive
+that we could take it as an exception,
+but I think that it would be a mistake.
+There is much to learn from Alibaba
+in terms of innovation model,
+and that could be replicated
+in a lot of other situations.
+For example,
+what started as a mobile payment feature
+of an e-commerce platform has become
+a massive financial institution.
+In other words, we are seeing
+new entrants getting into finance,
+and reaching scale very quickly,
+thanks to their existing customer base,
+and a big leverage on technology.
+The example of Alibaba might be exceptional,
+but it is clearly not unique,
+and there will be more and more
+e-commerce companies and technology companies
+trying to offer financial products.
+The other takeaway
+is the rise of emerging markets in financial services.
+In some ways,
+the basic financial infrastructure in emerging markets
+is an opportunity
+for entrepreneurs and companies
+to build financial services from scratch,
+and to use the latest technologies,
+what we call leapfrogging.
+We are therefore likely to see
+very different types of FinTech development
+in the West
+and developing countries.
+Although Alibaba is exceptional in its scale,
+there are more tech companies
+getting into finance.
+Have a look,
+and you will see that there are more and more
+in a lot of different countries in the world.
+Thank you very much for following,
+and I hope you won't forget
+that new entrants are coming into finance.
+Thank you.
+
+
+---
+
+####  Module 6 The Future of Data-Driven Finance   6.4 Case Study 3: Aadhaar   Video 6.4 Case Study 3: Aadhaar
