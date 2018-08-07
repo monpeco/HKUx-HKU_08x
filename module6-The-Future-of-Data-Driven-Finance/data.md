@@ -567,3 +567,128 @@ that data will be big in finance.
 ---
 
 #### Module 6 The Future of Data-Driven Finance   6.6 Case Study 5: Digibank   Video 6.6 Case Study 5: Digibank
+
+Welcome back.
+In this module,
+we will be talking about Digibank,
+the digital bank of DBS.
+Digibank is an interesting case study
+for many reasons.
+First, when we talk about FinTech,
+we tend to think of startups
+like Revolut or Credit Karma,
+or e-Commerce companies like Alibaba,
+but traditional banks and insurers
+are also very active in FinTech.
+Secondly, DBS, the Singapore bank,
+is considered as
+one of the most innovative banks,
+and it's therefore good to understand
+how they are implementing innovation
+here in this stage
+by launching a separate digital bank.
+As you learn about Digibank,
+link it back to some of the modules
+that you have already watched,
+for example, Mobile Money,
+Opportunities in Emerging Markets
+as well as, Payments.
+So Digibank was launched
+by DBS in India in April 2016.
+The value proposition of Digibank was to be
+a paperless, signature-less and branchless bank.
+Digibank was launched as a mobile only bank,
+and with the objective of
+offering a different user experience
+by using Artificial Intelligence
+and Natural Language Processing, for example.
+So instead of calling a call centre,
+customers could have access to
+an AI virtual assistant
+to help them find transactions
+or do their budgeting, for example.
+DBS even acquired Kassisto,
+a US company specialised in AI for banking,
+to drive all these capabilities for the platform.
+One of the big focus of Digibank
+was the mobile experience,
+and they actively sought the customers’ feedback
+in their product development process
+to make the User Interface intuitive.
+In practise, customers for example,
+could open a Digibank account
+with no need for a paper or signature.
+They just need their Aadhaar card
+and their fingerprints,
+and in 90 seconds,
+can open a Digibank e-wallet.
+This leverage is very heavily on
+the Aadhaar digital ID infrastructure,
+which we have discussed in another module.
+Digibank offers
+a very standard suite of financial products,
+for example, consumers can open an e-wallet,
+a savings account,
+use a debit card to pay merchants
+and withdraw money.
+From the Digibank app,
+they can also make mobile payments,
+or invest in mutual funds.
+When was the results?
+15 months after its launch in India,
+Digibank started also in Indonesia,
+with a very similar product offering.
+Digibank used the same strategy for onboarding,
+and leveraged on e-KTP,
+the Indonesian biometric ID system.
+What can we learn
+from a company such as Digibank?
+We tend to think of Challenger Banks
+as new bank startups
+competing with incumbent banks.
+Digibank is in practise a Challenger Bank,
+but launched by a very large bank.
+There are different types of innovation models
+for large organisations,
+and one of them is to launch projects
+that are totally independent
+both in terms of technology and management.
+Digibank is a very good example of such models,
+and has been quite successful,
+for example,
+today they have more than 1.5 million plans,
+and so it's likely to be replicated by others.
+The case study also shows
+the importance of leveraging
+on existing infrastructure for FinTech projects,
+and in this case on the Aadhaar ID system,
+is a big driver
+for the user experience of Digibank.
+And finally,
+Digibank is an interesting example
+of strategic decisions in large organisations.
+Many projects in large organisations fail,
+not because of technology
+or product issues,
+but because of internal politics
+typically when new projects
+cannibalise existing products,
+and there is a resistance
+from internal departments.
+From a strategic standpoint,
+Digibank was launched in India,
+where DBS didn't have a significant presence,
+and therefore
+there were no issues of cannibalization.
+Now that you have learnt about Digibank,
+have a look at similar models
+of Challenger Banks around the world,
+and see if some of them
+have a strategy which is similar to Digibank.
+Thanks for following this module,
+and I hope you liked it.
+
+
+---
+
+#### Module 6 The Future of Data-Driven Finance   6.7 Conclusion to Case Studies   Video 6.7 Conclusion to Case Studies
