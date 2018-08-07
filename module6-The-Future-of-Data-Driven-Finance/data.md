@@ -326,3 +326,131 @@ Thank you.
 ---
 
 ####  Module 6 The Future of Data-Driven Finance   6.4 Case Study 3: Aadhaar   Video 6.4 Case Study 3: Aadhaar
+
+Hello and welcome to this module
+where we will be discussing about Aadhaar.
+Aadhaar is a very interesting illustration
+of the role of infrastructure
+in the development of FinTech.
+In other case studies,
+we talked about private companies
+such as Alibaba or Revolut
+but this one is really about infrastructure
+at the national level.
+Aadhaar was already mentioned in the previous chapters,
+in particular in the section about Digital Identity.
+Aadhaar was launched in India in 2009,
+with the objective to assign a unique ID number
+to all residents of India,
+and link it to biometric and demographic data.
+The reasons behind Aadhaar
+was both about inclusion
+because the birth registry system
+wasn't robust enough and efficiency
+especially for the administration
+to handle requests from the public.
+Since the unique ID system
+could not start from an original document,
+such as a birth certificate, for example,
+biometrics were used to assess
+the identity of the person.
+It is done by taking the scans of the 10 fingerprints,
+as well as an iris scan
+and comparing it to the whole database,
+to make sure that you as a person for example
+is not included twice.
+Aadhaar is now a huge database of individuals,
+which includes demographic data
+as well as biometric data.
+In 2012, the Aadhaar system
+added a verification feature,
+that allowed organisations
+such as banks for example
+to enter an Aadhaar number
+and verify if the person was a resident.
+And this is where the identity infrastructure
+links into finance,
+because in the onboarding process of new clients,
+the step of Know Your Customer,
+what we call KYC,
+normally takes time and money.
+In 2013, Aadhaar offered the eKYC,
+Electronic Know Your Customer Service
+that allowed residents to instantaneously
+send their proof of identity and address
+to their providers, like a bank
+and making the KYC process much simpler.
+The Aadhaar initiative was quite incredible
+in terms of numbers.
+Three years after launch,
+200 million people were enrolled in the system.
+Less than a decade after launch,
+pretty much the whole adult population,
+1.2 billion people in India
+is registered on Aadhaar.
+In terms of application in finance,
+400 million people have now
+linked their bank accounts to Aadhaar.
+Paytm, the largest mobile payments company in India
+with almost 300 million clients,
+can scale very quickly
+thanks to Aadhaar and eKYC.
+And we'll see in the case study of Digibank,
+how Digibank uses Aadhaar in the case
+of a digital bank for scalability
+What can we learn from
+a case study such as Aadhaar?
+Aadhaar is an example which is really different
+from the other case studies,
+such as Revolut or Credit Karma.
+However, initiatives like Aadhaar
+are critical in the development of FinTech,
+because they can greatly accelerate
+the development of new financial services.
+The first lesson from Aadhaar
+is certainly the scale.
+It is quite incredible to see
+more than a billion people
+acquiring a digital identity in less than 10 years.
+The roll out of this initiative was very efficient,
+and also the role of technology in that process
+cannot be underestimated.
+And that's why I don't really see any reasons
+why similar identity infrastructure
+cannot be implemented in other countries.
+In terms of impact on finance,
+it was of course big in the context of India,
+where many people
+didn't have any identification at all.
+But more generally,
+Aadhaar was the first example of eKYC at scale,
+which helped to decrease the time and cost
+to onboard clients.
+Aadhaar might not be perfect as a KYC system,
+but it is a very novel way of doing KYC.
+In the traditional finance system,
+each company does its own checks,
+whereas Aadhaar is a centralised checking system.
+As finance continues on
+becoming more and more digitized,
+these discussions about how to do eKYC
+will certainly continue.
+And last but not least
+is of course the social impact
+of infrastructure like Aadhaar.
+Similarly to Alibaba
+that helped millions access finance,
+Aadhaar helped many to acquire an identity.
+And in itself, it is an amazing feat.
+If you were thinking of being an entrepreneur,
+the presence, or absence, of infrastructure like Aadhaar
+can greatly impact your business model,
+so I'd certainly recommend spending some time
+looking more into these topics.
+Thank you very much for following,
+and I hope you enjoyed this part.
+
+
+---
+
+#### Module 6 The Future of Data-Driven Finance   6.5 Case Study 4: Credit Karma   Video 6.5 Case Study 4: Credit Karma
